@@ -1,0 +1,498 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,NumeralAnalysis
+Badaga-131_one-1,,Badaga,131_one,ondu,ondu,o n d u,,,,,^ o n d u $,default,1
+Badaga-231_two-1,,Badaga,231_two,erəɖu,erəɖu,e r ə ɖ u,,,,,^ e r ə ɖ u $,default,2
+Badaga-208_three-1,,Badaga,208_three,mu:ru,mu:ru,m uː r u,,,,,^ m u: r u $,default,3
+Badaga-70_four-1,,Badaga,70_four,nɑ:ku,nɑ:ku,n ɑː k u,,,,,^ n ɑ: k u $,default,4
+Badaga-52_five-1,,Badaga,52_five,əidu,əidu,ə i d u,,,,,^ ə i d u $,default,5
+Badaga-168_six-1,,Badaga,168_six,ɑ:ru,ɑ:ru,ɑː r u,,,,,^ ɑ: r u $,default,6
+Badaga-150_seven-1,,Badaga,150_seven,i:ju,i:ju,iː j u,,,,,^ i: j u $,default,7
+Badaga-16_eight-1,,Badaga,16_eight,eʈʈʊ,eʈʈʊ,e ʈː ʊ,,,,,^ e ʈʈ ʊ $,default,8
+Badaga-117_nine-1,,Badaga,117_nine,om-bəttu,om-bəttu,o m + b ə tː u,"(1-10), disyllabic and formed with the help of AO (subtraction) which has both base and atom ",,,,^ o m - b ə tt u $,default,(1-10)
+Badaga-187_ten-1,,Badaga,187_ten,ɑttu,ɑttu,ɑ tː u,,,,,^ ɑ tt u $,default,10
+Badaga-32_eleven-1,,Badaga,32_eleven,ən-ondu,ən-ondu,ə n + o n d u,,,,,^ ə n - o n d u $,default,10+1
+Badaga-215_twelve-1,,Badaga,215_twelve,ən-erəɖu,ən-erəɖu,ə n + e r ə ɖ u,,,,,^ ə n - e r ə ɖ u $,default,10+2
+Badaga-194_thirteen-1,,Badaga,194_thirteen,ədi-mu:ru,ədi-mu:ru,ə d i + m uː r u,,,,,^ ə d i - m u: r u $,default,10+3
+Badaga-72_fourteen-1,,Badaga,72_fourteen,ədi-nɑ:ku,ədi-nɑ:ku,ə d i + n ɑː k u,,,,,^ ə d i - n ɑ: k u $,default,10+4
+Badaga-34_fifteen-1,,Badaga,34_fifteen,ədn-əidu,ədn-əidu,ə d n + ə i d u,,,,,^ ə d n - ə i d u $,default,10+5
+Badaga-170_sixteen-1,,Badaga,170_sixteen,ədn-ɑ:ru,ədn-ɑ:ru,ə d n + ɑː r u,,,,,^ ə d n - ɑ: r u $,default,10+6
+Badaga-151_seventeen-1,,Badaga,151_seventeen,ədər-i:ju,ədər-i:ju,ə d ə r + iː j u,,,,,^ ə d ə r - i: j u $,default,10+7
+Badaga-17_eighteen-1,,Badaga,17_eighteen,ədər-eʈʈu,ədər-eʈʈu,ə d ə r + e ʈː u,,,,,^ ə d ə r - e ʈʈ u $,default,10+8
+Badaga-118_nineteen-1,,Badaga,118_nineteen,ət-om-bəttu,ət-om-bəttu,ə t + o m + b ə tː u,-ət' is an allomorph of 10,,,,^ ə t - o m - b ə tt u $,default,10+(1-10)
+Badaga-217_twenty-1,,Badaga,217_twenty,ippətu,ippətu,i pː ə t u,,,,,^ i pp ə t u $,default,20
+Badaga-223_twentyone-1,,Badaga,223_twentyone,ippətɪ ondu,ippətɪ_ondu,i pː ə t ɪ + o n d u,,,,,^ i pp ə t ɪ _ o n d u $,default,20+1
+Badaga-229_twentytwo-1,,Badaga,229_twentytwo,ippətɪ erəɖu,ippətɪ_erəɖu,i pː ə t ɪ + e r ə ɖ u,,,,,^ i pp ə t ɪ _ e r ə ɖ u $,default,20+2
+Badaga-228_twentythree-1,,Badaga,228_twentythree,ippətɪ mu:ru,ippətɪ_mu:ru,i pː ə t ɪ + m uː r u,,,,,^ i pp ə t ɪ _ m u: r u $,default,20+3
+Badaga-221_twentyfour-1,,Badaga,221_twentyfour,ippətɪ nɑ:ku,ippətɪ_nɑ:ku,i pː ə t ɪ + n ɑː k u,,,,,^ i pp ə t ɪ _ n ɑ: k u $,default,20+4
+Badaga-220_twentyfive-1,,Badaga,220_twentyfive,ippətɪ əidu,ippətɪ_əidu,i pː ə t ɪ + ə i d u,,,,,^ i pp ə t ɪ _ ə i d u $,default,20+5
+Badaga-226_twentysix-1,,Badaga,226_twentysix,ippətɪ ɑ:ru,ippətɪ_ɑ:ru,i pː ə t ɪ + ɑː r u,,,,,^ i pp ə t ɪ _ ɑ: r u $,default,20+6
+Badaga-225_twentyseven-1,,Badaga,225_twentyseven,ippətɪ i:ju,ippətɪ_i:ju,i pː ə t ɪ + iː j u,,,,,^ i pp ə t ɪ _ i: j u $,default,20+7
+Badaga-218_twentyeight-1,,Badaga,218_twentyeight,ippətɪ eʈʈʊ,ippətɪ_eʈʈʊ,i pː ə t ɪ + e ʈː ʊ,,,,,^ i pp ə t ɪ _ e ʈʈ ʊ $,default,20+8
+Badaga-222_twentynine-1,,Badaga,222_twentynine,ippətɪ om-bəttu,ippətɪ_om-bəttu,i pː ə t ɪ + o m + b ə tː u,,,,,^ i pp ə t ɪ _ o m - b ə tt u $,default,20+9
+Badaga-196_thirty-1,,Badaga,196_thirty,mu-ət,mu-ət,m u + ə t,,,,,^ m u - ə t $,default,3*10
+Badaga-201_thirtyone-1,,Badaga,201_thirtyone,mu-əttɪ ondu,mu-əttɪ_ondu,m u + ə tː ɪ + o n d u,,,,,^ m u - ə tt ɪ _ o n d u $,default,3*10+1
+Badaga-205_thirtytwo-1,,Badaga,205_thirtytwo,mu-əttɪ erəɖu,mu-əttɪ_erəɖu,m u + ə tː ɪ + e r ə ɖ u,,,,,^ m u - ə tt ɪ _ e r ə ɖ u $,default,3*10+2
+Badaga-204_thirtythree-1,,Badaga,204_thirtythree,mu-əttɪ mu:ru,mu-əttɪ_mu:ru,m u + ə tː ɪ + m uː r u,,,,,^ m u - ə tt ɪ _ m u: r u $,default,3*10+3
+Badaga-199_thirtyfour-1,,Badaga,199_thirtyfour,mu-əttɪ nɑ:ku,mu-əttɪ_nɑ:ku,m u + ə tː ɪ + n ɑː k u,,,,,^ m u - ə tt ɪ _ n ɑ: k u $,default,3*10+4
+Badaga-198_thirtyfive-1,,Badaga,198_thirtyfive,mu-əttɪ əidu,mu-əttɪ_əidu,m u + ə tː ɪ + ə i d u,,,,,^ m u - ə tt ɪ _ ə i d u $,default,3*10+5
+Badaga-203_thirtysix-1,,Badaga,203_thirtysix,mu-əttɪ ɑ:ru,mu-əttɪ_ɑ:ru,m u + ə tː ɪ + ɑː r u,,,,,^ m u - ə tt ɪ _ ɑ: r u $,default,3*10+6
+Badaga-202_thirtyseven-1,,Badaga,202_thirtyseven,mu-əttɪ i:ju,mu-əttɪ_i:ju,m u + ə tː ɪ + iː j u,,,,,^ m u - ə tt ɪ _ i: j u $,default,3*10+7
+Badaga-197_thirtyeight-1,,Badaga,197_thirtyeight,mu-əttɪ eʈʈʊ,mu-əttɪ_eʈʈʊ,m u + ə tː ɪ + e ʈː ʊ,,,,,^ m u - ə tt ɪ _ e ʈʈ ʊ $,default,3*10+8
+Badaga-200_thirtynine-1,,Badaga,200_thirtynine,mu-əttɪ om-bəttu,mu-əttɪ_om-bəttu,m u + ə tː ɪ + o m + b ə tː u,,,,,^ m u - ə tt ɪ _ o m - b ə tt u $,default,3*10+9
+Badaga-60_forty-1,,Badaga,60_forty,nələ-ʋət,nələ-ʋət,n ə l ə + ʋ ə t,-nələ' is an allomorph of 4.,,,,^ n ə l ə - ʋ ə t $,default,4*10
+Badaga-65_fortyone-1,,Badaga,65_fortyone,nələ-ʋəttɪ ondu,nələ-ʋəttɪ_ondu,n ə l ə + ʋ ə tː ɪ + o n d u,-ʋəttɪ/-əttɪ' also seems like an allomorph for 10,,,,^ n ə l ə - ʋ ə tt ɪ _ o n d u $,default,4*10+1
+Badaga-69_fortytwo-1,,Badaga,69_fortytwo,nələ-ʋəttɪ erəɖu,nələ-ʋəttɪ_erəɖu,n ə l ə + ʋ ə tː ɪ + e r ə ɖ u,,,,,^ n ə l ə - ʋ ə tt ɪ _ e r ə ɖ u $,default,4*10+2
+Badaga-68_fortythree-1,,Badaga,68_fortythree,nələ-ʋəttɪ mu:ru,nələ-ʋəttɪ_mu:ru,n ə l ə + ʋ ə tː ɪ + m uː r u,,,,,^ n ə l ə - ʋ ə tt ɪ _ m u: r u $,default,4*10+3
+Badaga-63_fortyfour-1,,Badaga,63_fortyfour,nələ-ʋəttɪ nɑ:ku,nələ-ʋəttɪ_nɑ:ku,n ə l ə + ʋ ə tː ɪ + n ɑː k u,,,,,^ n ə l ə - ʋ ə tt ɪ _ n ɑ: k u $,default,4*10+4
+Badaga-62_fortyfive-1,,Badaga,62_fortyfive,nələ-ʋəttɪ əidu,nələ-ʋəttɪ_əidu,n ə l ə + ʋ ə tː ɪ + ə i d u,,,,,^ n ə l ə - ʋ ə tt ɪ _ ə i d u $,default,4*10+5
+Badaga-67_fortysix-1,,Badaga,67_fortysix,nələ-ʋəttɪ ɑ:ru,nələ-ʋəttɪ_ɑ:ru,n ə l ə + ʋ ə tː ɪ + ɑː r u,,,,,^ n ə l ə - ʋ ə tt ɪ _ ɑ: r u $,default,4*10+6
+Badaga-66_fortyseven-1,,Badaga,66_fortyseven,nələ-ʋəttɪ i:ju,nələ-ʋəttɪ_i:ju,n ə l ə + ʋ ə tː ɪ + iː j u,,,,,^ n ə l ə - ʋ ə tt ɪ _ i: j u $,default,4*10+7
+Badaga-61_fortyeight-1,,Badaga,61_fortyeight,nəl-əʋəttɪ eʈʈʊ,nəl-əʋəttɪ_eʈʈʊ,n ə l + ə ʋ ə tː ɪ + e ʈː ʊ,,,,,^ n ə l - ə ʋ ə tt ɪ _ e ʈʈ ʊ $,default,4*10+8
+Badaga-64_fortynine-1,,Badaga,64_fortynine,nələ-ʋəttɪ om-bəttu,nələ-ʋəttɪ_om-bəttu,n ə l ə + ʋ ə tː ɪ + o m + b ə tː u,,,,,^ n ə l ə - ʋ ə tt ɪ _ o m - b ə tt u $,default,4*10+(1-10)
+Badaga-39_fifty-1,,Badaga,39_fifty,əi-ʋəttu,əi-ʋəttu,ə i + ʋ ə tː u,,,,,^ ə i - ʋ ə tt u $,default,5*10
+Badaga-44_fiftyone-1,,Badaga,44_fiftyone,əi-ʋəttɪ ondu,əi-ʋəttɪ_ondu,ə i + ʋ ə tː ɪ + o n d u,,,,,^ ə i - ʋ ə tt ɪ _ o n d u $,default,5*10+1
+Badaga-48_fiftytwo-1,,Badaga,48_fiftytwo,əi-ʋəttɪ erəɖu,əi-ʋəttɪ_erəɖu,ə i + ʋ ə tː ɪ + e r ə ɖ u,,,,,^ ə i - ʋ ə tt ɪ _ e r ə ɖ u $,default,5*10+2
+Badaga-47_fiftythree-1,,Badaga,47_fiftythree,əi-ʋəttɪ mu:ru,əi-ʋəttɪ_mu:ru,ə i + ʋ ə tː ɪ + m uː r u,,,,,^ ə i - ʋ ə tt ɪ _ m u: r u $,default,5*10+3
+Badaga-42_fiftyfour-1,,Badaga,42_fiftyfour,əi-ʋəttɪ nɑ:ku,əi-ʋəttɪ_nɑ:ku,ə i + ʋ ə tː ɪ + n ɑː k u,,,,,^ ə i - ʋ ə tt ɪ _ n ɑ: k u $,default,5*10+4
+Badaga-41_fiftyfive-1,,Badaga,41_fiftyfive,əi-ʋəttɪ əidu,əi-ʋəttɪ_əidu,ə i + ʋ ə tː ɪ + ə i d u,,,,,^ ə i - ʋ ə tt ɪ _ ə i d u $,default,5*10+5
+Badaga-46_fiftysix-1,,Badaga,46_fiftysix,əi-ʋəttɪ ɑ:ru,əi-ʋəttɪ_ɑ:ru,ə i + ʋ ə tː ɪ + ɑː r u,,,,,^ ə i - ʋ ə tt ɪ _ ɑ: r u $,default,5*10+6
+Badaga-45_fiftyseven-1,,Badaga,45_fiftyseven,əi-ʋəttɪ i:ju,əi-ʋəttɪ_i:ju,ə i + ʋ ə tː ɪ + iː j u,,,,,^ ə i - ʋ ə tt ɪ _ i: j u $,default,5*10+7
+Badaga-40_fiftyeight-1,,Badaga,40_fiftyeight,əi-ʋəttɪ eʈʈʊ,əi-ʋəttɪ_eʈʈʊ,ə i + ʋ ə tː ɪ + e ʈː ʊ,,,,,^ ə i - ʋ ə tt ɪ _ e ʈʈ ʊ $,default,5*10+8
+Badaga-43_fiftynine-1,,Badaga,43_fiftynine,əi-ʋəttɪ om-bəttu,əi-ʋəttɪ_om-bəttu,ə i + ʋ ə tː ɪ + o m + b ə tː u,,,,,^ ə i - ʋ ə tt ɪ _ o m - b ə tt u $,default,5*10+(1-10)
+Badaga-177_sixty-1,,Badaga,177_sixty,ərɑ-ʋettu,ərɑ-ʋettu,ə r ɑ + ʋ e tː u,,,,,^ ə r ɑ - ʋ e tt u $,default,6*10
+Badaga-182_sixtyone-1,,Badaga,182_sixtyone,ərɑ-ʋəttɪ ondu,ərɑ-ʋəttɪ_ondu,ə r ɑ + ʋ ə tː ɪ + o n d u,,,,,^ ə r ɑ - ʋ ə tt ɪ _ o n d u $,default,6*10+1
+Badaga-186_sixtytwo-1,,Badaga,186_sixtytwo,ərɑ-ʋəttɪ erəɖu,ərɑ-ʋəttɪ_erəɖu,ə r ɑ + ʋ ə tː ɪ + e r ə ɖ u,,,,,^ ə r ɑ - ʋ ə tt ɪ _ e r ə ɖ u $,default,6*10+2
+Badaga-185_sixtythree-1,,Badaga,185_sixtythree,ərɑ-ʋəttɪ mu:ru,ərɑ-ʋəttɪ_mu:ru,ə r ɑ + ʋ ə tː ɪ + m uː r u,,,,,^ ə r ɑ - ʋ ə tt ɪ _ m u: r u $,default,6*10+3
+Badaga-180_sixtyfour-1,,Badaga,180_sixtyfour,ərɑ-ʋəttɪ nɑ:ku,ərɑ-ʋəttɪ_nɑ:ku,ə r ɑ + ʋ ə tː ɪ + n ɑː k u,,,,,^ ə r ɑ - ʋ ə tt ɪ _ n ɑ: k u $,default,6*10+4
+Badaga-179_sixtyfive-1,,Badaga,179_sixtyfive,ərɑ-ʋəttɪ əidu,ərɑ-ʋəttɪ_əidu,ə r ɑ + ʋ ə tː ɪ + ə i d u,,,,,^ ə r ɑ - ʋ ə tt ɪ _ ə i d u $,default,6*10+5
+Badaga-184_sixtysix-1,,Badaga,184_sixtysix,ərɑ-ʋəttɪ ɑ:ru,ərɑ-ʋəttɪ_ɑ:ru,ə r ɑ + ʋ ə tː ɪ + ɑː r u,,,,,^ ə r ɑ - ʋ ə tt ɪ _ ɑ: r u $,default,6*10+6
+Badaga-183_sixtyseven-1,,Badaga,183_sixtyseven,ərɑ-ʋəttɪ i:ju,ərɑ-ʋəttɪ_i:ju,ə r ɑ + ʋ ə tː ɪ + iː j u,,,,,^ ə r ɑ - ʋ ə tt ɪ _ i: j u $,default,6*10+7
+Badaga-178_sixtyeight-1,,Badaga,178_sixtyeight,ərɑ-ʋəttɪ eʈʈʊ,ərɑ-ʋəttɪ_eʈʈʊ,ə r ɑ + ʋ ə tː ɪ + e ʈː ʊ,,,,,^ ə r ɑ - ʋ ə tt ɪ _ e ʈʈ ʊ $,default,6*10+8
+Badaga-181_sixtynine-1,,Badaga,181_sixtynine,ərɑ-ʋəttɪ om-bəttu,ərɑ-ʋəttɪ_om-bəttu,ə r ɑ + ʋ ə tː ɪ + o m + b ə tː u,,,,,^ ə r ɑ - ʋ ə tt ɪ _ o m - b ə tt u $,default,6*10+(1-10)
+Badaga-156_seventy-1,,Badaga,156_seventy,eɽɑ-ʋəttu,eɽɑ-ʋəttu,e ɽ ɑ + ʋ ə tː u,"Sound change, ɪ-->u",,,,^ e ɽ ɑ - ʋ ə tt u $,default,7*10
+Badaga-161_seventyone-1,,Badaga,161_seventyone,eɽɑ-ʋəttɪ ondu,eɽɑ-ʋəttɪ_ondu,e ɽ ɑ + ʋ ə tː ɪ + o n d u,/i:ju/ '7' --> /eɽɑ/ '7' when used as a base of complex numerals,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ o n d u $,default,6*10+1
+Badaga-165_seventytwo-1,,Badaga,165_seventytwo,eɽɑ-ʋəttɪ erəɖu,eɽɑ-ʋəttɪ_erəɖu,e ɽ ɑ + ʋ ə tː ɪ + e r ə ɖ u,,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ e r ə ɖ u $,default,6*10+2
+Badaga-164_seventythree-1,,Badaga,164_seventythree,eɽɑ-ʋəttɪ mu:ru,eɽɑ-ʋəttɪ_mu:ru,e ɽ ɑ + ʋ ə tː ɪ + m uː r u,,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ m u: r u $,default,6*10+3
+Badaga-159_seventyfour-1,,Badaga,159_seventyfour,eɽɑ-ʋəttɪ nɑ:ku,eɽɑ-ʋəttɪ_nɑ:ku,e ɽ ɑ + ʋ ə tː ɪ + n ɑː k u,,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ n ɑ: k u $,default,6*10+4
+Badaga-158_seventyfive-1,,Badaga,158_seventyfive,eɽɑ-ʋəttɪ əidu,eɽɑ-ʋəttɪ_əidu,e ɽ ɑ + ʋ ə tː ɪ + ə i d u,,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ ə i d u $,default,6*10+5
+Badaga-163_seventysix-1,,Badaga,163_seventysix,eɽɑ-ʋəttɪ ɑ:ru,eɽɑ-ʋəttɪ_ɑ:ru,e ɽ ɑ + ʋ ə tː ɪ + ɑː r u,,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ ɑ: r u $,default,6*10+6
+Badaga-162_seventyseven-1,,Badaga,162_seventyseven,eɽɑ-ʋəttɪ i:ju,eɽɑ-ʋəttɪ_i:ju,e ɽ ɑ + ʋ ə tː ɪ + iː j u,,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ i: j u $,default,6*10+7
+Badaga-157_seventyeight-1,,Badaga,157_seventyeight,eɽɑ-ʋəttɪ eʈʈʊ,eɽɑ-ʋəttɪ_eʈʈʊ,e ɽ ɑ + ʋ ə tː ɪ + e ʈː ʊ,,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ e ʈʈ ʊ $,default,6*10+8
+Badaga-160_seventynine-1,,Badaga,160_seventynine,eɽɑ-ʋəttɪ om-bəttu,eɽɑ-ʋəttɪ_om-bəttu,e ɽ ɑ + ʋ ə tː ɪ + o m + b ə tː u,,,,,^ e ɽ ɑ - ʋ ə tt ɪ _ o m - b ə tt u $,default,6*10+(1-10)
+Badaga-22_eighty-1,,Badaga,22_eighty,em-bəttu,em-bəttu,e m + b ə tː u,,,,,^ e m - b ə tt u $,default,8*10
+Badaga-27_eightyone-1,,Badaga,27_eightyone,em-bəttɪ ondu,em-bəttɪ_ondu,e m + b ə tː ɪ + o n d u,"/ʋ/--> /b/, when preceeded by consonant.",,,,^ e m - b ə tt ɪ _ o n d u $,default,8*10+1
+Badaga-31_eightytwo-1,,Badaga,31_eightytwo,em-bəttɪ erəɖu,em-bəttɪ_erəɖu,e m + b ə tː ɪ + e r ə ɖ u,/eʈʈʊ/ '8' --> /em/ '8' when used as a base of complex numerals,,,,^ e m - b ə tt ɪ _ e r ə ɖ u $,default,8*10+2
+Badaga-30_eightythree-1,,Badaga,30_eightythree,em-bəttɪ mu:ru,em-bəttɪ_mu:ru,e m + b ə tː ɪ + m uː r u,,,,,^ e m - b ə tt ɪ _ m u: r u $,default,8*10+3
+Badaga-25_eightyfour-1,,Badaga,25_eightyfour,em-bəttɪ nɑ:ku,em-bəttɪ_nɑ:ku,e m + b ə tː ɪ + n ɑː k u,,,,,^ e m - b ə tt ɪ _ n ɑ: k u $,default,8*10+4
+Badaga-24_eightyfive-1,,Badaga,24_eightyfive,em-bəttɪ əidu,em-bəttɪ_əidu,e m + b ə tː ɪ + ə i d u,,,,,^ e m - b ə tt ɪ _ ə i d u $,default,8*10+5
+Badaga-29_eightysix-1,,Badaga,29_eightysix,em-bəttɪ ɑ:ru,em-bəttɪ_ɑ:ru,e m + b ə tː ɪ + ɑː r u,,,,,^ e m - b ə tt ɪ _ ɑ: r u $,default,8*10+6
+Badaga-28_eightyseven-1,,Badaga,28_eightyseven,em-bəttɪ i:ju,em-bəttɪ_i:ju,e m + b ə tː ɪ + iː j u,,,,,^ e m - b ə tt ɪ _ i: j u $,default,8*10+7
+Badaga-23_eightyeight-1,,Badaga,23_eightyeight,em-bəttɪ eʈʈʊ,em-bəttɪ_eʈʈʊ,e m + b ə tː ɪ + e ʈː ʊ,,,,,^ e m - b ə tt ɪ _ e ʈʈ ʊ $,default,8*10+8
+Badaga-26_eightynine-1,,Badaga,26_eightynine,em-bəttɪ om-bəttu,em-bəttɪ_om-bəttu,e m + b ə tː ɪ + o m + b ə tː u,,,,,^ e m - b ə tt ɪ _ o m - b ə tt u $,default,8*10+(1-10)
+Badaga-121_ninety-1,,Badaga,121_ninety,tom-bəttu,tom-bəttu,t o m + b ə tː u,,,,,^ t o m - b ə tt u $,default,9*10
+Badaga-126_ninetyone-1,,Badaga,126_ninetyone,tom-bəttɪ ondu,tom-bəttɪ_ondu,t o m + b ə tː ɪ + o n d u,/om-bəttu/ '9' --> /tom/ '9' when used as a base of complex numerals,,,,^ t o m - b ə tt ɪ _ o n d u $,default,9*10+1
+Badaga-130_ninetytwo-1,,Badaga,130_ninetytwo,tom-bəttɪ erəɖu,tom-bəttɪ_erəɖu,t o m + b ə tː ɪ + e r ə ɖ u,,,,,^ t o m - b ə tt ɪ _ e r ə ɖ u $,default,9*10+2
+Badaga-129_ninetythree-1,,Badaga,129_ninetythree,tom-bəttɪ mu:ru,tom-bəttɪ_mu:ru,t o m + b ə tː ɪ + m uː r u,,,,,^ t o m - b ə tt ɪ _ m u: r u $,default,9*10+3
+Badaga-124_ninetyfour-1,,Badaga,124_ninetyfour,tom-bəttɪ nɑ:ku,tom-bəttɪ_nɑ:ku,t o m + b ə tː ɪ + n ɑː k u,,,,,^ t o m - b ə tt ɪ _ n ɑ: k u $,default,9*10+4
+Badaga-123_ninetyfive-1,,Badaga,123_ninetyfive,tom-bəttɪ əidu,tom-bəttɪ_əidu,t o m + b ə tː ɪ + ə i d u,,,,,^ t o m - b ə tt ɪ _ ə i d u $,default,9*10+5
+Badaga-128_ninetysix-1,,Badaga,128_ninetysix,tom-bəttɪ ɑ:ru,tom-bəttɪ_ɑ:ru,t o m + b ə tː ɪ + ɑː r u,,,,,^ t o m - b ə tt ɪ _ ɑ: r u $,default,9*10+6
+Badaga-127_ninetyseven-1,,Badaga,127_ninetyseven,tom-bəttɪ i:ju,tom-bəttɪ_i:ju,t o m + b ə tː ɪ + iː j u,,,,,^ t o m - b ə tt ɪ _ i: j u $,default,9*10+7
+Badaga-122_ninetyeight-1,,Badaga,122_ninetyeight,tom-bəttɪ eʈʈʊ,tom-bəttɪ_eʈʈʊ,t o m + b ə tː ɪ + e ʈː ʊ,,,,,^ t o m - b ə tt ɪ _ e ʈʈ ʊ $,default,9*10+8
+Badaga-125_ninetynine-1,,Badaga,125_ninetynine,tom-bəttɪ om-bəttu,tom-bəttɪ_om-bəttu,t o m + b ə tː ɪ + o m + b ə tː u,,,,,^ t o m - b ə tt ɪ _ o m - b ə tt u $,default,9*10+(1-10)
+Badaga-78_hundred-1,,Badaga,78_hundred,nu:ru,nu:ru,n uː r u,,,,,^ n u: r u $,default,100
+Badaga-207_thousand-1,,Badaga,207_thousand,sɑʋerɑ,sɑʋerɑ,s ɑ ʋ e r ɑ,,,,,^ s ɑ ʋ e r ɑ $,default,1000
+Badaga-114_lakh-1,,Badaga,114_lakh,ləččʰɑ,ləččʰɑ,l ə č/tʃ čʰ/tʃʰ ɑ,,,,,^ l ə č čʰ ɑ $,default,
+Badaga-15_crore-1,,Badaga,15_crore,koɖɪ,koɖɪ,k o ɖ ɪ,,,,,^ k o ɖ ɪ $,default,
+Badaga-137_onehundredhundred-1,,Badaga,137_onehundredhundred,ondu nu:ru,ondu_nu:ru,o n d u + n uː r u,,,,,^ o n d u _ n u: r u $,default,1*100
+Badaga-235_twohundred-1,,Badaga,235_twohundred,erəɖu nu:ru,erəɖu_nu:ru,e r ə ɖ u + n uː r u,,,,,^ e r ə ɖ u _ n u: r u $,default,2*100
+Badaga-211_threehundred-1,,Badaga,211_threehundred,mu:ru nu:ru / munnuru,mu:ru_nu:ru,m uː r u + n uː r u,,,,,^ m u: r u _ n u: r u $,default,3*100
+Badaga-211_threehundred-2,,Badaga,211_threehundred,mu:ru nu:ru / munnuru,munnuru,m u nː u r u,,,,,^ m u nn u r u $,default,3*100
+Badaga-71_fourhundred-1,,Badaga,71_fourhundred,nɑnu:ru,nɑnu:ru,n ɑ n uː r u,,,,,^ n ɑ n u: r u $,default,4*100
+Badaga-54_fivehundred-1,,Badaga,54_fivehundred,əinu:ru,əinu:ru,ə i n uː r u,,,,,^ ə i n u: r u $,default,5*100
+Badaga-169_sixhundred-1,,Badaga,169_sixhundred,ɑrn:uru,ɑrn:uru,ɑ r nː u r u,,,,,^ ɑ r n: u r u $,default,6*100
+Badaga-139_onethousandthousand-1,,Badaga,139_onethousandthousand,ondu (sɑʋerɑ),ondu_,o n d u,,,,,^ o n d u _$,default,1000/1*1000
+Badaga-238_twothousand-1,,Badaga,238_twothousand,erəɖu sɑʋerɑ,erəɖu_sɑʋerɑ,e r ə ɖ u + s ɑ ʋ e r ɑ,,,,,^ e r ə ɖ u _ s ɑ ʋ e r ɑ $,default,2*1000
+Badaga-212_threethousand-1,,Badaga,212_threethousand,mu:ru sɑʋerɑ,mu:ru_sɑʋerɑ,m uː r u + s ɑ ʋ e r ɑ,,,,,^ m u: r u _ s ɑ ʋ e r ɑ $,default,3*1000
+Badaga-75_fourthousand-1,,Badaga,75_fourthousand,nɑ:ku sɑʋerɑ,nɑ:ku_sɑʋerɑ,n ɑː k u + s ɑ ʋ e r ɑ,,,,,^ n ɑ: k u _ s ɑ ʋ e r ɑ $,default,4*1000
+Badaga-57_fivethousand-1,,Badaga,57_fivethousand,əidu sɑʋerɑ,əidu_sɑʋerɑ,ə i d u + s ɑ ʋ e r ɑ,,,,,^ ə i d u _ s ɑ ʋ e r ɑ $,default,5*1000
+Badaga-173_sixthousand-1,,Badaga,173_sixthousand,ɑ:ru sɑʋerɑ,ɑ:ru_sɑʋerɑ,ɑː r u + s ɑ ʋ e r ɑ,,,,,^ ɑ: r u _ s ɑ ʋ e r ɑ $,default,6*1000
+Badaga-236_twohundredtwentyone-1,,Badaga,236_twohundredtwentyone,erə-nu:rɑ ippətɪ ondu,erə-nu:rɑ_ippətɪ_ondu,e r ə + n uː r ɑ + i pː ə t ɪ + o n d u,,,,,^ e r ə - n u: r ɑ _ i pp ə t ɪ _ o n d u $,default,2*100+20+1
+Badaga-55_fivehundredsix-1,,Badaga,55_fivehundredsix,əi-nu:rɑ ɑ:ru,əi-nu:rɑ_ɑ:ru,ə i + n uː r ɑ + ɑː r u,,,,,^ ə i - n u: r ɑ _ ɑ: r u $,default,5*100+6
+Badaga-213_threethousandfortyeight-1,,Badaga,213_threethousandfortyeight,mu:ru sɑʋerdɑ nələʋəttɪ eʈʈʊ,mu:ru_sɑʋerdɑ_nələʋəttɪ_eʈʈʊ,m uː r u + s ɑ ʋ e r d ɑ + n ə l ə ʋ ə tː ɪ + e ʈː ʊ,,,,,^ m u: r u _ s ɑ ʋ e r d ɑ _ n ə l ə ʋ ə tt ɪ _ e ʈʈ ʊ $,default,3*1000+40+8
+Badaga-175_sixthousandninehundred-1,,Badaga,175_sixthousandninehundred,ɑ:ru sɑʋerdɑ ombe-nu:ru,ɑ:ru_sɑʋerdɑ_ombe-nu:ru,ɑː r u + s ɑ ʋ e r d ɑ + o m b e + n uː r u,,,,,^ ɑ: r u _ s ɑ ʋ e r d ɑ _ o m b e - n u: r u $,default,6*1000+9*100
+Badaga-155_seventhousandfourhundredtwentytwo-1,,Badaga,155_seventhousandfourhundredtwentytwo,i:ju sɑʋerdɑ nɑ-nu:rɑ ippətɪ erəɖu,i:ju_sɑʋerdɑ_nɑ-nu:rɑ_ippətɪ_erəɖu,iː j u + s ɑ ʋ e r d ɑ + n ɑ + n uː r ɑ + i pː ə t ɪ + e r ə ɖ u,,,,,^ i: j u _ s ɑ ʋ e r d ɑ _ n ɑ - n u: r ɑ _ i pp ə t ɪ _ e r ə ɖ u $,default,7*1000+4*100+70+2
+Badaga-174_sixthousandeight-1,,Badaga,174_sixthousandeight,ɑ:ru sɑʋerdɑ eʈʈu,ɑ:ru_sɑʋerdɑ_eʈʈu,ɑː r u + s ɑ ʋ e r d ɑ + e ʈː u,,,,,^ ɑ: r u _ s ɑ ʋ e r d ɑ _ e ʈʈ u $,default,6*1000+8
+Badaga-132_oneboy-1,,Badaga,132_oneboy,ondu kusu,ondu_kusu,o n d u + k u s u,,,,,^ o n d u _ k u s u $,default,
+Badaga-232_twoboys-1,,Badaga,232_twoboys,erəɖu kunnʋe,erəɖu_kunnʋe,e r ə ɖ u + k u nː ʋ e,,,,,^ e r ə ɖ u _ k u nn ʋ e $,default,
+Badaga-138_onesheep-1,,Badaga,138_onesheep,ondu kuriɑɖu,ondu_kuriɑɖu,o n d u + k u r i ɑ ɖ u,,,,,^ o n d u _ k u r i ɑ ɖ u $,default,
+Badaga-56_fivesheep-1,,Badaga,56_fivesheep,əidu kuriɑɖuɡə,əidu_kuriɑɖuɡə,ə i d u + k u r i ɑ ɖ u g ə,,,,,^ ə i d u _ k u r i ɑ ɖ u ɡ ə $,default,
+Badaga-135_onegirl-1,,Badaga,135_onegirl,ondu herno,ondu_herno,o n d u + h e r n o,,,,,^ o n d u _ h e r n o $,default,
+Badaga-234_twogirls-1,,Badaga,234_twogirls,erəɖu hẽɡɑ,erəɖu_hẽɡɑ,e r ə ɖ u + h ẽ g ɑ,,,,,^ e r ə ɖ u _ h ẽ ɡ ɑ $,default,
+Badaga-210_threegirls-1,,Badaga,210_threegirls,mu:ru hẽɡɑ,mu:ru_hẽɡɑ,m uː r u + h ẽ g ɑ,,,,,^ m u: r u _ h ẽ ɡ ɑ $,default,
+Badaga-21_eighttrees-1,,Badaga,21_eighttrees,eʈʈu morɑɡə,eʈʈu_morɑɡə,e ʈː u + m o r ɑ g ə,,,,,^ e ʈʈ u _ m o r ɑ ɡ ə $,default,
+Badaga-140_onetree-1,,Badaga,140_onetree,ondu morɑ,ondu_morɑ,o n d u + m o r ɑ,,,,,^ o n d u _ m o r ɑ $,default,
+Badaga-93_ihaveonebrother-1,,Badaga,93_ihaveonebrother,enkɑ ondu ənnɑ,enkɑ_ondu_ənnɑ,e n k ɑ + o n d u + ə nː ɑ,,,,,^ e n k ɑ _ o n d u _ ə nn ɑ $,default,
+Badaga-98_ihavetwobrothers-1,,Badaga,98_ihavetwobrothers,enkɑ erɖu ənna tommərdɑrə,enkɑ_erɖu_ənna_tommərdɑrə,e n k ɑ + e r ɖ u + ə nː a + t o mː ə r d ɑ r ə,,,,,^ e n k ɑ _ e r ɖ u _ ə nn a _ t o mm ə r d ɑ r ə $,default,
+Badaga-94_ihaveonesister-1,,Badaga,94_ihaveonesister,enkɑ ondu əkkɑ iddvɛ,enkɑ_ondu_əkkɑ_iddvɛ,e n k ɑ + o n d u + ə kː ɑ + i dː v ɛ,,,,,^ e n k ɑ _ o n d u _ ə kk ɑ _ i dd v ɛ $,default,
+Badaga-99_ihavetwosisters-1,,Badaga,99_ihavetwosisters,enkɑ erɖu əkkɑ iddɑre,enkɑ_erɖu_əkkɑ_iddɑre,e n k ɑ + e r ɖ u + ə kː ɑ + i dː ɑ r e,,,,,^ e n k ɑ _ e r ɖ u _ ə kk ɑ _ i dd ɑ r e $,default,
+Badaga-96_ihavethreesisters-1,,Badaga,96_ihavethreesisters,enkɑ mu:ru əkkɑ iddɑre,enkɑ_mu:ru_əkkɑ_iddɑre,e n k ɑ + m uː r u + ə kː ɑ + i dː ɑ r e,,,,,^ e n k ɑ _ m u: r u _ ə kk ɑ _ i dd ɑ r e $,default,
+Badaga-91_ihaveonealmirah-1,,Badaga,91_ihaveonealmirah,enkɑ ondu əlmɑri əɽdɛ,enkɑ_ondu_əlmɑri_əɽdɛ,e n k ɑ + o n d u + ə l m ɑ r i + ə ɽ d ɛ,,,,,^ e n k ɑ _ o n d u _ ə l m ɑ r i _ ə ɽ d ɛ $,default,
+Badaga-97_ihavetwoalmirahs-1,,Badaga,97_ihavetwoalmirahs,enkɑ erəɖu əlmɑri əɽdɛ,enkɑ_erəɖu_əlmɑri_əɽdɛ,e n k ɑ + e r ə ɖ u + ə l m ɑ r i + ə ɽ d ɛ,,,,,^ e n k ɑ _ e r ə ɖ u _ ə l m ɑ r i _ ə ɽ d ɛ $,default,
+Badaga-92_ihaveonebag-1,,Badaga,92_ihaveonebag,enkɑ/ennəsɑre ondu šɪrə əɽdɛ,enkɑ,e n k ɑ,,,,,^ e n k ɑ $,default,
+Badaga-92_ihaveonebag-2,,Badaga,92_ihaveonebag,enkɑ/ennəsɑre ondu šɪrə əɽdɛ,ennəsɑre_ondu_šɪrə_əɽdɛ,e nː ə s ɑ r e + o n d u + ʃ ɪ r ə + ə ɽ d ɛ,,,,,^ e nn ə s ɑ r e _ o n d u _ š ɪ r ə _ ə ɽ d ɛ $,default,
+Badaga-95_ihavethreebags-1,,Badaga,95_ihavethreebags,enkɑ/ennəsɑre mu:ru šɪrə əɽdɛ,enkɑ,e n k ɑ,,,,,^ e n k ɑ $,default,
+Badaga-95_ihavethreebags-2,,Badaga,95_ihavethreebags,enkɑ/ennəsɑre mu:ru šɪrə əɽdɛ,ennəsɑre_mu:ru_šɪrə_əɽdɛ,e nː ə s ɑ r e + m uː r u + ʃ ɪ r ə + ə ɽ d ɛ,,,,,^ e nn ə s ɑ r e _ m u: r u _ š ɪ r ə _ ə ɽ d ɛ $,default,
+Badaga-90_ihavefourbags-1,,Badaga,90_ihavefourbags,enkɑ/ennəsɑre nɑ:ku šɪrə əɽdɛ,enkɑ,e n k ɑ,,,,,^ e n k ɑ $,default,
+Badaga-90_ihavefourbags-2,,Badaga,90_ihavefourbags,enkɑ/ennəsɑre nɑ:ku šɪrə əɽdɛ,ennəsɑre_nɑ:ku_šɪrə_əɽdɛ,e nː ə s ɑ r e + n ɑː k u + ʃ ɪ r ə + ə ɽ d ɛ,,,,,^ e nn ə s ɑ r e _ n ɑ: k u _ š ɪ r ə _ ə ɽ d ɛ $,default,
+Badaga-50_firstman-1,,Badaga,50_firstman,ondɑ-ʋədu mənɪsɑ,ondɑ-ʋədu_mənɪsɑ,o n d ɑ + ʋ ə d u + m ə n ɪ s ɑ,,,,,^ o n d ɑ - ʋ ə d u _ m ə n ɪ s ɑ $,default,
+Badaga-148_secondman-1,,Badaga,148_secondman,erəɖɑ-ʋədu mənɪsɑ,erəɖɑ-ʋədu_mənɪsɑ,e r ə ɖ ɑ + ʋ ə d u + m ə n ɪ s ɑ,,,,,^ e r ə ɖ ɑ - ʋ ə d u _ m ə n ɪ s ɑ $,default,
+Badaga-192_thirdman-1,,Badaga,192_thirdman,mu:rɑ-ʋədu mənɪsɑ,mu:rɑ-ʋədu_mənɪsɑ,m uː r ɑ + ʋ ə d u + m ə n ɪ s ɑ,,,,,^ m u: r ɑ - ʋ ə d u _ m ə n ɪ s ɑ $,default,
+Badaga-58_forthman-1,,Badaga,58_forthman,nɑ:kɑ-ʋədu mənɪsɑ,nɑ:kɑ-ʋədu_mənɪsɑ,n ɑː k ɑ + ʋ ə d u + m ə n ɪ s ɑ,,,,,^ n ɑ: k ɑ - ʋ ə d u _ m ə n ɪ s ɑ $,default,
+Badaga-37_fifthman-1,,Badaga,37_fifthman,əidɑ-ʋədu mənɪsɑ,əidɑ-ʋədu_mənɪsɑ,ə i d ɑ + ʋ ə d u + m ə n ɪ s ɑ,,,,,^ ə i d ɑ - ʋ ə d u _ m ə n ɪ s ɑ $,default,
+Badaga-51_firstwoman-1,,Badaga,51_firstwoman,ondɑ-ʋədu himmɑtɪ,ondɑ-ʋədu_himmɑtɪ,o n d ɑ + ʋ ə d u + h i mː ɑ t ɪ,,,,,^ o n d ɑ - ʋ ə d u _ h i mm ɑ t ɪ $,default,
+Badaga-149_secondwoman-1,,Badaga,149_secondwoman,erəɖɑ-ʋədu himmɑtɪ,erəɖɑ-ʋədu_himmɑtɪ,e r ə ɖ ɑ + ʋ ə d u + h i mː ɑ t ɪ,,,,,^ e r ə ɖ ɑ - ʋ ə d u _ h i mm ɑ t ɪ $,default,
+Badaga-193_thirdwoman-1,,Badaga,193_thirdwoman,mu:rɑ-ʋədu himmɑtɪ,mu:rɑ-ʋədu_himmɑtɪ,m uː r ɑ + ʋ ə d u + h i mː ɑ t ɪ,,,,,^ m u: r ɑ - ʋ ə d u _ h i mm ɑ t ɪ $,default,
+Badaga-59_forthwoman-1,,Badaga,59_forthwoman,nɑ:kɑ-ʋədu himmɑtɪ,nɑ:kɑ-ʋədu_himmɑtɪ,n ɑː k ɑ + ʋ ə d u + h i mː ɑ t ɪ,,,,,^ n ɑ: k ɑ - ʋ ə d u _ h i mm ɑ t ɪ $,default,
+Badaga-38_fifthwoman-1,,Badaga,38_fifthwoman,əidɑ-ʋədu himmɑtɪ,əidɑ-ʋədu_himmɑtɪ,ə i d ɑ + ʋ ə d u + h i mː ɑ t ɪ,,,,,^ ə i d ɑ - ʋ ə d u _ h i mm ɑ t ɪ $,default,
+Badaga-176_sixthwoman-1,,Badaga,176_sixthwoman,ɑ:rɑ-ʋədu himmɑtɪ,ɑ:rɑ-ʋədu_himmɑtɪ,ɑː r ɑ + ʋ ə d u + h i mː ɑ t ɪ,,,,,^ ɑ: r ɑ - ʋ ə d u _ h i mm ɑ t ɪ $,default,
+Badaga-154_seventhboy-1,,Badaga,154_seventhboy,i:jɑ-ʋədu kusu,i:jɑ-ʋədu_kusu,iː j ɑ + ʋ ə d u + k u s u,,,,,^ i: j ɑ - ʋ ə d u _ k u s u $,default,
+Badaga-20_eighthgirl-1,,Badaga,20_eighthgirl,eʈʈɑ-ʋədu herno,eʈʈɑ-ʋədu_herno,e ʈː ɑ + ʋ ə d u + h e r n o,,,,,^ e ʈʈ ɑ - ʋ ə d u _ h e r n o $,default,
+Badaga-12_asinglewordcomestomind-1,,Badaga,12_asinglewordcomestomind,ondu ʋɑtɛ enɡɑ kenə bəndrɑ,ondu_ʋɑtɛ_enɡɑ_kenə_bəndrɑ,o n d u + ʋ ɑ t ɛ + e n g ɑ + k e n ə + b ə n d r ɑ,,,,,^ o n d u _ ʋ ɑ t ɛ _ e n ɡ ɑ _ k e n ə _ b ə n d r ɑ $,default,
+Badaga-237_twopairofsocks-1,,Badaga,237_twopairofsocks,erəɖu ǰoɖɪ sɔcks,erəɖu_ǰoɖɪ_sɔcks,e r ə ɖ u + ǰ/dʒ o ɖ ɪ + s ɔ c k s,,,,,^ e r ə ɖ u _ ǰ o ɖ ɪ _ s ɔ c ks $,default,
+Badaga-146_pairofsocksarelyinghere-1,,Badaga,146_pairofsocksarelyinghere,ondu ǰoɖɪ sɔks elli ərde,ondu_ǰoɖɪ_sɔks_elli_ərde,o n d u + ǰ/dʒ o ɖ ɪ + s ɔ k s + e lː i + ə r d e,,,,,^ o n d u _ ǰ o ɖ ɪ _ s ɔ ks _ e ll i _ ə r d e $,default,
+Badaga-239_waitforacoupleofminutes-1,,Badaga,239_waitforacoupleofminutes,siit/dosi ǰama nillo,siit,s iː t,,,,,^ s ii t $,default,
+Badaga-239_waitforacoupleofminutes-2,,Badaga,239_waitforacoupleofminutes,siit/dosi ǰama nillo,dosi_ǰama_nillo,d o s i + ǰ/dʒ a m a + n i lː o,,,,,^ d o s i _ ǰ a m a _ n i ll o $,default,
+Badaga-142_onlyone-1,,Badaga,142_onlyone,ondɛ ondu,ondɛ_ondu,o n d ɛ + o n d u,,,,,^ o n d ɛ _ o n d u $,default,
+Badaga-145_onlytwo-1,,Badaga,145_onlytwo,erəɖɛ eɖɑ,erəɖɛ_eɖɑ,e r ə ɖ ɛ + e ɖ ɑ,,,,,^ e r ə ɖ ɛ _ e ɖ ɑ $,default,
+Badaga-144_onlythree-1,,Badaga,144_onlythree,mu:rɛ mu:ru,mu:rɛ_mu:ru,m uː r ɛ + m uː r u,,,,,^ m u: r ɛ _ m u: r u $,default,
+Badaga-141_onlyfive-1,,Badaga,141_onlyfive,əidɛ əidu,əidɛ_əidu,ə i d ɛ + ə i d u,,,,,^ ə i d ɛ _ ə i d u $,default,
+Badaga-143_onlyten-1,,Badaga,143_onlyten,ɑttɛ ɑttu,ɑttɛ_ɑttu,ɑ tː ɛ + ɑ tː u,,,,,^ ɑ tt ɛ _ ɑ tt u $,default,
+Badaga-189_thereisonlyonechild-1,,Badaga,189_thereisonlyonechild,əllijoɡe onde ond pustɛ hiddərɛ,əllijoɡe_onde_ond_pustɛ_hiddərɛ,ə lː i j o g e + o n d e + o n d + p u s t ɛ + h i dː ə r ɛ,,,,,^ ə ll i j o ɡ e _ o n d e _ o n d _ p u s t ɛ _ h i dd ə r ɛ $,default,
+Badaga-77_heateonlyfourmangoes-1,,Badaga,77_heateonlyfourmangoes,əmɑ nɑ:ke nɑ:ku mɑʋorno sid ǰəne,əmɑ_nɑ:ke_nɑ:ku_mɑʋorno_sid_ǰəne,ə m ɑ + n ɑː k e + n ɑː k u + m ɑ ʋ o r n o + s i d + ǰ/dʒ ə n e,,,,,^ ə m ɑ _ n ɑ: k e _ n ɑ: k u _ m ɑ ʋ o r n o _ s i d _ ǰ ə n e $,default,
+Badaga-113_iwentthereonce-1,,Badaga,113_iwentthereonce,nɑ ondu tirku ǰənɑ əlliɡɑ odɛ,nɑ_ondu_tirku_ǰənɑ_əlliɡɑ_odɛ,n ɑ + o n d u + t i r k u + ǰ/dʒ ə n ɑ + ə lː i g ɑ + o d ɛ,,,,,^ n ɑ _ o n d u _ t i r k u _ ǰ ə n ɑ _ ə ll i ɡ ɑ _ o d ɛ $,default,
+Badaga-230_twice-1,,Badaga,230_twice,erəɖu tirku odɛ,erəɖu_tirku_odɛ,e r ə ɖ u + t i r k u + o d ɛ,,,,,^ e r ə ɖ u _ t i r k u _ o d ɛ $,default,
+Badaga-214_thrice-1,,Badaga,214_thrice,mu:ru tirku odɛ,mu:ru_tirku_odɛ,m uː r u + t i r k u + o d ɛ,,,,,^ m u: r u _ t i r k u _ o d ɛ $,default,
+Badaga-115_manytimes-1,,Badaga,115_manytimes,əprɑ tirku odɛ,əprɑ_tirku_odɛ,ə p r ɑ + t i r k u + o d ɛ,,,,,^ ə p r ɑ _ t i r k u _ o d ɛ $,default,
+Badaga-111_isometimesdothat-1,,Badaga,111_isometimesdothat,ondən tirku ədnɑ mɑɖinɛ,ondən_tirku_ədnɑ_mɑɖinɛ,o n d ə n + t i r k u + ə d n ɑ + m ɑ ɖ i n ɛ,,,,,^ o n d ə n _ t i r k u _ ə d n ɑ _ m ɑ ɖ i n ɛ $,default,
+Badaga-104_ioftentravel-1,,Badaga,104_ioftentravel,əprɑ travel mɑɖinɛ,əprɑ_travel_mɑɖinɛ,ə p r ɑ + t r a v e l + m ɑ ɖ i n ɛ,,,,,^ ə p r ɑ _ t r a v e l _ m ɑ ɖ i n ɛ $,default,
+Badaga-76_healwaysfights-1,,Badaga,76_healwaysfights,imɑ heɡu noɖjulu səndhyɑ kinɑ,imɑ_heɡu_noɖjulu_səndhyɑ_kinɑ,i m ɑ + h e g u + n o ɖ j u l u + s ə n dh/dʱ y ɑ + k i n ɑ,,,,,^ i m ɑ _ h e ɡ u _ n o ɖ j u l u _ s ə n dh y ɑ _ k i n ɑ $,default,
+Badaga-167_sheseldomgoesout-1,,Badaga,167_sheseldomgoesout,əʋɑ hɑtəɡɑ orɑ sopə dillɛ,əʋɑ_hɑtəɡɑ_orɑ_sopə_dillɛ,ə ʋ ɑ + h ɑ t ə g ɑ + o r ɑ + s o p ə + d i lː ɛ,,,,,^ ə ʋ ɑ _ h ɑ t ə ɡ ɑ _ o r ɑ _ s o p ə _ d i ll ɛ $,default,
+Badaga-7_approximately20kilosofriceareinthesack-1,,Badaga,7_approximately20kilosofriceareinthesack,sumɑrɑ ippətu kilo mɑke əkkɪ i sɑkʰ doɡe hərdɛ,sumɑrɑ_ippətu_kilo_mɑke_əkkɪ_i_sɑkʰ_doɡe_hərdɛ,s u m ɑ r ɑ + i pː ə t u + k i l o + m ɑ k e + ə kː ɪ + i + s ɑ kʰ + d o g e + h ə r d ɛ,,,,,^ s u m ɑ r ɑ _ i pp ə t u _ k i l o _ m ɑ k e _ ə kk ɪ _ i _ s ɑ kʰ _ d o ɡ e _ h ə r d ɛ $,default,
+Badaga-10_approximately50ofstudentsareattendingtheworkshop-1,,Badaga,10_approximately50ofstudentsareattendingtheworkshop,heɡdesʋɑ həɪʋəttu pəsən kunvɛ i ʋərkshɔpɑ həʈenmɑɖʋɑ,heɡdesʋɑ_həɪʋəttu_pəsən_kunvɛ_i_ʋərkshɔpɑ_həʈenmɑɖʋɑ,h e g d e s ʋ ɑ + h ə ɪ ʋ ə tː u + p ə s ə n + k u n v ɛ + i + ʋ ə r k sh/ʃ ɔ p ɑ + h ə ʈ e n m ɑ ɖ ʋ ɑ,,,,,^ h e ɡ d e s ʋ ɑ _ h ə ɪ ʋ ə tt u _ p ə s ə n _ k u n v ɛ _ i _ ʋ ə r ksh ɔ p ɑ _ h ə ʈ e n m ɑ ɖ ʋ ɑ $,default,
+Badaga-11_approximatelyfifteenkilosofriceareinthesack-1,,Badaga,11_approximatelyfifteenkilosofriceareinthesack,sumɑrɑ ədnəid kilo əkkɪ i sɑkʰ doɡe hərdɛ,sumɑrɑ_ədnəid_kilo_əkkɪ_i_sɑkʰ_doɡe_hərdɛ,s u m ɑ r ɑ + ə d n ə i d + k i l o + ə kː ɪ + i + s ɑ kʰ + d o g e + h ə r d ɛ,,,,,^ s u m ɑ r ɑ _ ə d n ə i d _ k i l o _ ə kk ɪ _ i _ s ɑ kʰ _ d o ɡ e _ h ə r d ɛ $,default,
+Badaga-206_thisinstitutecontainsapproximately1000students-1,,Badaga,206_thisinstitutecontainsapproximately1000students,i pərliʈuɡɛ sumɑrɑ sɑʋerɑ kunvɛ hiddɑrɛ,i_pərliʈuɡɛ_sumɑrɑ_sɑʋerɑ_kunvɛ_hiddɑrɛ,i + p ə r l i ʈ u g ɛ + s u m ɑ r ɑ + s ɑ ʋ e r ɑ + k u n v ɛ + h i dː ɑ r ɛ,,,,,^ i _ p ə r l i ʈ u ɡ ɛ _ s u m ɑ r ɑ _ s ɑ ʋ e r ɑ _ k u n v ɛ _ h i dd ɑ r ɛ $,default,
+Badaga-9_approximately35kilosofriceareinthesack-1,,Badaga,9_approximately35kilosofriceareinthesack,sumɑrɑ muəttɪəidu kɪlo əkkɪ i sɑkʰ doɡe hərdɛ,sumɑrɑ_muəttɪəidu_kɪlo_əkkɪ_i_sɑkʰ_doɡe_hərdɛ,s u m ɑ r ɑ + m u ə tː ɪ ə i d u + k ɪ l o + ə kː ɪ + i + s ɑ kʰ + d o g e + h ə r d ɛ,,,,,^ s u m ɑ r ɑ _ m u ə tt ɪ ə i d u _ k ɪ l o _ ə kk ɪ _ i _ s ɑ kʰ _ d o ɡ e _ h ə r d ɛ $,default,
+Badaga-49_first-1,,Badaga,49_first,ondɑ-ʋədu,ondɑ-ʋədu,o n d ɑ + ʋ ə d u,,,,,^ o n d ɑ - ʋ ə d u $,default,
+Badaga-147_second-1,,Badaga,147_second,erəɖɑ-ʋədu,erəɖɑ-ʋədu,e r ə ɖ ɑ + ʋ ə d u,,,,,^ e r ə ɖ ɑ - ʋ ə d u $,default,
+Badaga-191_third-1,,Badaga,191_third,mu:rɑ-ʋədu,mu:rɑ-ʋədu,m uː r ɑ + ʋ ə d u,,,,,^ m u: r ɑ - ʋ ə d u $,default,
+Badaga-74_fourth-1,,Badaga,74_fourth,nɑ:kɑ-ʋədu,nɑ:kɑ-ʋədu,n ɑː k ɑ + ʋ ə d u,,,,,^ n ɑ: k ɑ - ʋ ə d u $,default,
+Badaga-36_fifth-1,,Badaga,36_fifth,əidɑ-ʋədu,əidɑ-ʋədu,ə i d ɑ + ʋ ə d u,,,,,^ ə i d ɑ - ʋ ə d u $,default,
+Badaga-172_sixth-1,,Badaga,172_sixth,ɑ:rɑ-ʋədu,ɑ:rɑ-ʋədu,ɑː r ɑ + ʋ ə d u,,,,,^ ɑ: r ɑ - ʋ ə d u $,default,
+Badaga-153_seventh-1,,Badaga,153_seventh,i:jɑ-ʋədu,i:jɑ-ʋədu,iː j ɑ + ʋ ə d u,,,,,^ i: j ɑ - ʋ ə d u $,default,
+Badaga-19_eighth-1,,Badaga,19_eighth,eʈʈɑ-ʋədu,eʈʈɑ-ʋədu,e ʈː ɑ + ʋ ə d u,,,,,^ e ʈʈ ɑ - ʋ ə d u $,default,
+Badaga-120_nineth-1,,Badaga,120_nineth,om-bəttɑ-ʋədu,om-bəttɑ-ʋədu,o m + b ə tː ɑ + ʋ ə d u,,,,,^ o m - b ə tt ɑ - ʋ ə d u $,default,
+Badaga-188_tenth-1,,Badaga,188_tenth,həttɑ-ʋədu,həttɑ-ʋədu,h ə tː ɑ + ʋ ə d u,,,,,^ h ə tt ɑ - ʋ ə d u $,default,
+Badaga-33_eleventh-1,,Badaga,33_eleventh,ən-ondɑ-ʋədu,ən-ondɑ-ʋədu,ə n + o n d ɑ + ʋ ə d u,,,,,^ ə n - o n d ɑ - ʋ ə d u $,default,
+Badaga-216_twelvth-1,,Badaga,216_twelvth,ən-erəɖɑ-ʋədu,ən-erəɖɑ-ʋədu,ə n + e r ə ɖ ɑ + ʋ ə d u,,,,,^ ə n - e r ə ɖ ɑ - ʋ ə d u $,default,
+Badaga-195_thirteenth-1,,Badaga,195_thirteenth,ədi-mu:rɑ-ʋədu,ədi-mu:rɑ-ʋədu,ə d i + m uː r ɑ + ʋ ə d u,,,,,^ ə d i - m u: r ɑ - ʋ ə d u $,default,
+Badaga-73_fourteenth-1,,Badaga,73_fourteenth,ədi-nɑ:kɑ-ʋədu,ədi-nɑ:kɑ-ʋədu,ə d i + n ɑː k ɑ + ʋ ə d u,,,,,^ ə d i - n ɑ: k ɑ - ʋ ə d u $,default,
+Badaga-35_fifteenth-1,,Badaga,35_fifteenth,ədn-əidɑ-ʋədu,ədn-əidɑ-ʋədu,ə d n + ə i d ɑ + ʋ ə d u,,,,,^ ə d n - ə i d ɑ - ʋ ə d u $,default,
+Badaga-171_sixteenth-1,,Badaga,171_sixteenth,ədn-ɑ:rɑ-ʋədu,ədn-ɑ:rɑ-ʋədu,ə d n + ɑː r ɑ + ʋ ə d u,,,,,^ ə d n - ɑ: r ɑ - ʋ ə d u $,default,
+Badaga-152_seventeenth-1,,Badaga,152_seventeenth,ədr-i:jɑ-ʋədu,ədr-i:jɑ-ʋədu,ə d r + iː j ɑ + ʋ ə d u,,,,,^ ə d r - i: j ɑ - ʋ ə d u $,default,
+Badaga-18_eighteenth-1,,Badaga,18_eighteenth,ədər-eʈʈɑ-ʋədu,ədər-eʈʈɑ-ʋədu,ə d ə r + e ʈː ɑ + ʋ ə d u,,,,,^ ə d ə r - e ʈʈ ɑ - ʋ ə d u $,default,
+Badaga-119_nineteenth-1,,Badaga,119_nineteenth,ət-om-bəttɑ-uʋədu,ət-om-bəttɑ-uʋədu,ə t + o m + b ə tː ɑ + u ʋ ə d u,,,,,^ ə t - o m - b ə tt ɑ - u ʋ ə d u $,default,
+Badaga-227_twentyth-1,,Badaga,227_twentyth,ippətɑ-ʋədu,ippətɑ-ʋədu,i pː ə t ɑ + ʋ ə d u,,,,,^ i pp ə t ɑ - ʋ ə d u $,default,
+Badaga-219_twentyfirst-1,,Badaga,219_twentyfirst,ippətɪ ondɑ-ʋədu,ippətɪ_ondɑ-ʋədu,i pː ə t ɪ + o n d ɑ + ʋ ə d u,,,,,^ i pp ə t ɪ _ o n d ɑ - ʋ ə d u $,default,
+Badaga-224_twentysecond-1,,Badaga,224_twentysecond,ippətɪ erəɖɑ-ʋədu,ippətɪ_erəɖɑ-ʋədu,i pː ə t ɪ + e r ə ɖ ɑ + ʋ ə d u,,,,,^ i pp ə t ɪ _ e r ə ɖ ɑ - ʋ ə d u $,default,
+Badaga-80_iamintwentyeighthfloor-1,,Badaga,80_iamintwentyeighthfloor,nɑ ippətɪ eʈʈɑ-ʋədu mɑɖɪjoge hidde,nɑ_ippətɪ_eʈʈɑ-ʋədu_mɑɖɪjoge_hidde,n ɑ + i pː ə t ɪ + e ʈː ɑ + ʋ ə d u + m ɑ ɖ ɪ j o g e + h i dː e,,,,,^ n ɑ _ i pp ə t ɪ _ e ʈʈ ɑ - ʋ ə d u _ m ɑ ɖ ɪ j o g e _ h i dd e $,default,
+Badaga-79_hundredthpart-1,,Badaga,79_hundredthpart,nurɑ-ʋədu bɑɡə,nurɑ-ʋədu_bɑɡə,n u r ɑ + ʋ ə d u + b ɑ g ə,,,,,^ n u r ɑ - ʋ ə d u _ b ɑ ɡ ə $,default,
+Badaga-136_onehundredandtwentyfirst-1,,Badaga,136_onehundredandtwentyfirst,nu:rɑ ippətɪ ondɑ-ʋədu,nu:rɑ_ippətɪ_ondɑ-ʋədu,n uː r ɑ + i pː ə t ɪ + o n d ɑ + ʋ ə d u,,,,,^ n u: r ɑ _ i pp ə t ɪ _ o n d ɑ - ʋ ə d u $,default,
+Badaga-190_thetwentyfirstman-1,,Badaga,190_thetwentyfirstman,ippəti ondɑ-ʋədu mənisɑ,ippəti_ondɑ-ʋədu_mənisɑ,i pː ə t i + o n d ɑ + ʋ ə d u + m ə n i s ɑ,,,,,^ i pp ə t i _ o n d ɑ - ʋ ə d u _ m ə n i s ɑ $,default,
+Badaga-101_imethimonce-1,,Badaga,101_imethimonce,nɑ əmənɑ ondu tirku kənɖe,nɑ_əmənɑ_ondu_tirku_kənɖe,n ɑ + ə m ə n ɑ + o n d u + t i r k u + k ə n ɖ e,,,,,^ n ɑ _ ə m ə n ɑ _ o n d u _ t i r k u _ k ə n ɖ e $,default,
+Badaga-103_imethimtwice-1,,Badaga,103_imethimtwice,nɑ əmənɑ erəɖu tirku kənɖe,nɑ_əmənɑ_erəɖu_tirku_kənɖe,n ɑ + ə m ə n ɑ + e r ə ɖ u + t i r k u + k ə n ɖ e,,,,,^ n ɑ _ ə m ə n ɑ _ e r ə ɖ u _ t i r k u _ k ə n ɖ e $,default,
+Badaga-102_imethimthrice-1,,Badaga,102_imethimthrice,nɑ əmənɑ mu:ru tirku kənɖe,nɑ_əmənɑ_mu:ru_tirku_kənɖe,n ɑ + ə m ə n ɑ + m uː r u + t i r k u + k ə n ɖ e,,,,,^ n ɑ _ ə m ə n ɑ _ m u: r u _ t i r k u _ k ə n ɖ e $,default,
+Badaga-100_imethimforthtime-1,,Badaga,100_imethimforthtime,nɑ əmənɑ nɑ:ku tirku kənɖe,nɑ_əmənɑ_nɑ:ku_tirku_kənɖe,n ɑ + ə m ə n ɑ + n ɑː k u + t i r k u + k ə n ɖ e,,,,,^ n ɑ _ ə m ə n ɑ _ n ɑ: k u _ t i r k u _ k ə n ɖ e $,default,
+Badaga-88_icalledherninetimes-1,,Badaga,88_icalledherninetimes,nɑ əʋənɑ ombəttɪ tɪrku korside,nɑ_əʋənɑ_ombəttɪ_tɪrku_korside,n ɑ + ə ʋ ə n ɑ + o m b ə tː ɪ + t ɪ r k u + k o r s i d e,,,,,^ n ɑ _ ə ʋ ə n ɑ _ o m b ə tt ɪ _ t ɪ r k u _ k o rs i d e $,default,
+Badaga-89_icalledhimtwentyfivetimes-1,,Badaga,89_icalledhimtwentyfivetimes,nɑ əmənɑ ippətɪ əɪdu tɪrku korside,nɑ_əmənɑ_ippətɪ_əɪdu_tɪrku_korside,n ɑ + ə m ə n ɑ + i pː ə t ɪ + ə ɪ d u + t ɪ r k u + k o r s i d e,,,,,^ n ɑ _ ə m ə n ɑ _ i pp ə t ɪ _ ə ɪ d u _ t ɪ r k u _ k o rs i d e $,default,
+Badaga-87_icalledherfifteentimes-1,,Badaga,87_icalledherfifteentimes,nɑ əʋənɑ ədnəɪdu tɪrku korside,nɑ_əʋənɑ_ədnəɪdu_tɪrku_korside,n ɑ + ə ʋ ə n ɑ + ə d n ə ɪ d u + t ɪ r k u + k o r s i d e,,,,,^ n ɑ _ ə ʋ ə n ɑ _ ə d n ə ɪ d u _ t ɪ r k u _ k o rs i d e $,default,
+Badaga-82_iate12ofthepizza-1,,Badaga,82_iate12ofthepizza,ɑdɪ pɪzzəʋɑ nɑ tɪnde,ɑdɪ_pɪzzəʋɑ_nɑ_tɪnde,ɑ d ɪ + p ɪ zː ə ʋ ɑ + n ɑ + t ɪ n d e,,,,,^ ɑ d ɪ _ p ɪ zz ə ʋ ɑ _ n ɑ _ t ɪ n d e $,default,
+Badaga-108_iread34ofthebook-1,,Badaga,108_iread34ofthebook,mukkɑl-bɑɡə bukkɑ ho dittɛ,mukkɑl-bɑɡə_bukkɑ_ho_dittɛ,m u kː ɑ l + b ɑ g ə + b u kː ɑ + h o + d i tː ɛ,,,,,^ m u kk ɑ l - b ɑ ɡ ə _ b u kk ɑ _ h o _ d i tt ɛ $,default,
+Badaga-106_iread14ofthebook-1,,Badaga,106_iread14ofthebook,kɑ:l-bɑɡə bukkɑ nɑ odittɛ,kɑ:l-bɑɡə_bukkɑ_nɑ_odittɛ,k ɑː l + b ɑ g ə + b u kː ɑ + n ɑ + o d i tː ɛ,,,,,^ k ɑ: l - b ɑ ɡ ə _ b u kk ɑ _ n ɑ _ o d i tt ɛ $,default,
+Badaga-134_oneeach-1,,Badaga,134_oneeach,ond ondu,ond_ondu,o n d + o n d u,,,,,^ o n d _ o n d u $,default,
+Badaga-209_threeeach-1,,Badaga,209_threeeach,mu:r mu:ru,mu:r_mu:ru,m uː r + m uː r u,,,,,^ m u: r _ m u: r u $,default,
+Badaga-53_fiveeach-1,,Badaga,53_fiveeach,əid əidu,əid_əidu,ə i d + ə i d u,,,,,^ ə i d _ ə i d u $,default,
+Badaga-133_onebyone-1,,Badaga,133_onebyone,obəbbɑ,obəbbɑ,o b ə bː ɑ,,,,,^ o b ə bb ɑ $,default,
+Badaga-233_twobytwo-1,,Badaga,233_twobytwo,erɖərɖɑ,erɖərɖɑ,e r ɖ ə r ɖ ɑ,,,,,^ e r ɖ ə r ɖ ɑ $,default,
+Ho-131_one-1,,Ho,131_one,mi-jəɖ,mi-jəɖ,m i + j ə ɖ,-jəɖ' is Classifier,,,,^ m i - j ə ɖ $,default,1
+Ho-231_two-1,,Ho,231_two,bər-ijə,bər-ijə,b ə r + i j ə,-ijə' is Classifier,,,,^ b ə r - i j ə $,default,2
+Ho-208_three-1,,Ho,208_three,əpe-ijə,əpe-ijə,ə p e + i j ə,,,,,^ ə p e - i j ə $,default,3
+Ho-70_four-1,,Ho,70_four,upun-ijə,upun-ijə,u p u n + i j ə,,,,,^ u p u n - i j ə $,default,4
+Ho-52_five-1,,Ho,52_five,mo-ijə,mo-ijə,m o + i j ə,,,,,^ m o - i j ə $,default,5
+Ho-168_six-1,,Ho,168_six,turu-ijə,turu-ijə,t u r u + i j ə,,,,,^ t u r u - i j ə $,default,6
+Ho-150_seven-1,,Ho,150_seven,ə-ijə,ə-ijə,ə + i j ə,,,,,^ ə - i j ə $,default,7
+Ho-16_eight-1,,Ho,16_eight,irl-ijə,irl-ijə,i r l + i j ə,,,,,^ i r l - i j ə $,default,8
+Ho-117_nine-1,,Ho,117_nine,ər-ijə,ər-ijə,ə r + i j ə,,,,,^ ə r - i j ə $,default,9
+Ho-187_ten-1,,Ho,187_ten,ɡel-ijə,ɡel-ijə,g e l + i j ə,,,,,^ ɡ e l - i j ə $,default,10
+Ho-32_eleven-1,,Ho,32_eleven,ɡel-mi-jəɖ,ɡel-mi-jəɖ,g e l + m i + j ə ɖ,,,,,^ ɡ e l - m i - j ə ɖ $,default,10+1
+Ho-215_twelve-1,,Ho,215_twelve,ɡel-bər-ijə,ɡel-bər-ijə,g e l + b ə r + i j ə,,,,,^ ɡ e l - b ə r - i j ə $,default,10+2
+Ho-194_thirteen-1,,Ho,194_thirteen,ɡel-əpe-ijə,ɡel-əpe-ijə,g e l + ə p e + i j ə,,,,,^ ɡ e l - ə p e - i j ə $,default,10+3
+Ho-72_fourteen-1,,Ho,72_fourteen,ɡel-upun-ijə,ɡel-upun-ijə,g e l + u p u n + i j ə,,,,,^ ɡ e l - u p u n - i j ə $,default,10+4
+Ho-34_fifteen-1,,Ho,34_fifteen,ɡel-mo-ijə,ɡel-mo-ijə,g e l + m o + i j ə,,,,,^ ɡ e l - m o - i j ə $,default,10+5
+Ho-170_sixteen-1,,Ho,170_sixteen,ɡel-turu-ijə,ɡel-turu-ijə,g e l + t u r u + i j ə,,,,,^ ɡ e l - t u r u - i j ə $,default,10+6
+Ho-151_seventeen-1,,Ho,151_seventeen,ɡel-ə-ijə,ɡel-ə-ijə,g e l + ə + i j ə,,,,,^ ɡ e l - ə - i j ə $,default,10+7
+Ho-17_eighteen-1,,Ho,17_eighteen,ɡel-irl-ijə,ɡel-irl-ijə,g e l + i r l + i j ə,,,,,^ ɡ e l - i r l - i j ə $,default,10+8
+Ho-118_nineteen-1,,Ho,118_nineteen,ɡel-ər-ijə,ɡel-ər-ijə,g e l + ə r + i j ə,,,,,^ ɡ e l - ə r - i j ə $,default,10+9
+Ho-217_twenty-1,,Ho,217_twenty,hiši,hiši,h i ʃ i,Lexical,,,,^ h i š i $,default,20
+Ho-223_twentyone-1,,Ho,223_twentyone,hiši mi-jəɖ,hiši_mi-jəɖ,h i ʃ i + m i + j ə ɖ,,,,,^ h i š i _ m i - j ə ɖ $,default,20+1
+Ho-229_twentytwo-1,,Ho,229_twentytwo,hiši bər-ijə,hiši_bər-ijə,h i ʃ i + b ə r + i j ə,,,,,^ h i š i _ b ə r - i j ə $,default,20+2
+Ho-228_twentythree-1,,Ho,228_twentythree,hiši əpe-ijə,hiši_əpe-ijə,h i ʃ i + ə p e + i j ə,,,,,^ h i š i _ ə p e - i j ə $,default,20+3
+Ho-221_twentyfour-1,,Ho,221_twentyfour,hiši upun-ijə,hiši_upun-ijə,h i ʃ i + u p u n + i j ə,,,,,^ h i š i _ u p u n - i j ə $,default,20+4
+Ho-220_twentyfive-1,,Ho,220_twentyfive,hiši mo-ijə,hiši_mo-ijə,h i ʃ i + m o + i j ə,,,,,^ h i š i _ m o - i j ə $,default,20+5
+Ho-226_twentysix-1,,Ho,226_twentysix,hiši turu-ijə,hiši_turu-ijə,h i ʃ i + t u r u + i j ə,,,,,^ h i š i _ t u r u - i j ə $,default,20+6
+Ho-225_twentyseven-1,,Ho,225_twentyseven,hiši ə-ijə,hiši_ə-ijə,h i ʃ i + ə + i j ə,,,,,^ h i š i _ ə - i j ə $,default,20+7
+Ho-218_twentyeight-1,,Ho,218_twentyeight,hiši irl-ijə,hiši_irl-ijə,h i ʃ i + i r l + i j ə,,,,,^ h i š i _ i r l - i j ə $,default,20+8
+Ho-222_twentynine-1,,Ho,222_twentynine,hiši ər-ijə,hiši_ər-ijə,h i ʃ i + ə r + i j ə,,,,,^ h i š i _ ə r - i j ə $,default,20+9
+Ho-196_thirty-1,,Ho,196_thirty,hiši ɡel-ijə,hiši_ɡel-ijə,h i ʃ i + g e l + i j ə,,,,,^ h i š i _ ɡ e l - i j ə $,default,20+10
+Ho-201_thirtyone-1,,Ho,201_thirtyone,hiši ɡel mi-jəɖ,hiši_ɡel_mi-jəɖ,h i ʃ i + g e l + m i + j ə ɖ,,,,,^ h i š i _ ɡ e l _ m i - j ə ɖ $,default,20+10+1
+Ho-205_thirtytwo-1,,Ho,205_thirtytwo,hiši ɡel bər-ijə,hiši_ɡel_bər-ijə,h i ʃ i + g e l + b ə r + i j ə,,,,,^ h i š i _ ɡ e l _ b ə r - i j ə $,default,20+10+2
+Ho-204_thirtythree-1,,Ho,204_thirtythree,hiši ɡel əpe-ijə,hiši_ɡel_əpe-ijə,h i ʃ i + g e l + ə p e + i j ə,,,,,^ h i š i _ ɡ e l _ ə p e - i j ə $,default,20+10+3
+Ho-199_thirtyfour-1,,Ho,199_thirtyfour,hiši ɡel upun-ijə,hiši_ɡel_upun-ijə,h i ʃ i + g e l + u p u n + i j ə,,,,,^ h i š i _ ɡ e l _ u p u n - i j ə $,default,20+10+4
+Ho-198_thirtyfive-1,,Ho,198_thirtyfive,hiši ɡel moi-jə,hiši_ɡel_moi-jə,h i ʃ i + g e l + m o i + j ə,,,,,^ h i š i _ ɡ e l _ m o i - j ə $,default,20+10+5
+Ho-203_thirtysix-1,,Ho,203_thirtysix,hiši ɡel turu-ijə,hiši_ɡel_turu-ijə,h i ʃ i + g e l + t u r u + i j ə,,,,,^ h i š i _ ɡ e l _ t u r u - i j ə $,default,20+10+6
+Ho-202_thirtyseven-1,,Ho,202_thirtyseven,hiši ɡel ə-ijə,hiši_ɡel_ə-ijə,h i ʃ i + g e l + ə + i j ə,,,,,^ h i š i _ ɡ e l _ ə - i j ə $,default,20+10+7
+Ho-197_thirtyeight-1,,Ho,197_thirtyeight,hiši ɡel irl-ijə,hiši_ɡel_irl-ijə,h i ʃ i + g e l + i r l + i j ə,,,,,^ h i š i _ ɡ e l _ i r l - i j ə $,default,20+10+8
+Ho-200_thirtynine-1,,Ho,200_thirtynine,hiši ɡel ər-ijə,hiši_ɡel_ər-ijə,h i ʃ i + g e l + ə r + i j ə,,,,,^ h i š i _ ɡ e l _ ə r - i j ə $,default,20+10+9
+Ho-60_forty-1,,Ho,60_forty,bər hiši,bər_hiši,b ə r + h i ʃ i,,,,,^ b ə r _ h i š i $,default,2*20
+Ho-65_fortyone-1,,Ho,65_fortyone,bər hiši mi-jəɖ,bər_hiši_mi-jəɖ,b ə r + h i ʃ i + m i + j ə ɖ,,,,,^ b ə r _ h i š i _ m i - j ə ɖ $,default,2*20+1/40+1
+Ho-69_fortytwo-1,,Ho,69_fortytwo,bər hiši bər-ijə,bər_hiši_bər-ijə,b ə r + h i ʃ i + b ə r + i j ə,,,,,^ b ə r _ h i š i _ b ə r - i j ə $,default,2*20+2
+Ho-68_fortythree-1,,Ho,68_fortythree,bər hiši əpe-ijə,bər_hiši_əpe-ijə,b ə r + h i ʃ i + ə p e + i j ə,,,,,^ b ə r _ h i š i _ ə p e - i j ə $,default,2*20+3
+Ho-63_fortyfour-1,,Ho,63_fortyfour,bər hiši upun-ijə,bər_hiši_upun-ijə,b ə r + h i ʃ i + u p u n + i j ə,,,,,^ b ə r _ h i š i _ u p u n - i j ə $,default,2*20+4
+Ho-62_fortyfive-1,,Ho,62_fortyfive,bər hiši mo-ijə,bər_hiši_mo-ijə,b ə r + h i ʃ i + m o + i j ə,,,,,^ b ə r _ h i š i _ m o - i j ə $,default,2*20+5
+Ho-67_fortysix-1,,Ho,67_fortysix,bər hiši turu-ijə,bər_hiši_turu-ijə,b ə r + h i ʃ i + t u r u + i j ə,,,,,^ b ə r _ h i š i _ t u r u - i j ə $,default,2*20+6
+Ho-66_fortyseven-1,,Ho,66_fortyseven,bər hiši ə-ijə,bər_hiši_ə-ijə,b ə r + h i ʃ i + ə + i j ə,,,,,^ b ə r _ h i š i _ ə - i j ə $,default,2*20+7
+Ho-61_fortyeight-1,,Ho,61_fortyeight,bər hiši irl-ijə,bər_hiši_irl-ijə,b ə r + h i ʃ i + i r l + i j ə,,,,,^ b ə r _ h i š i _ i r l - i j ə $,default,2*20+8
+Ho-64_fortynine-1,,Ho,64_fortynine,bər hiši ər-ijə,bər_hiši_ər-ijə,b ə r + h i ʃ i + ə r + i j ə,,,,,^ b ə r _ h i š i _ ə r - i j ə $,default,2*20+9
+Ho-39_fifty-1,,Ho,39_fifty,bər hiši ɡel-ijə,bər_hiši_ɡel-ijə,b ə r + h i ʃ i + g e l + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l - i j ə $,default,2*20+10/40+10
+Ho-44_fiftyone-1,,Ho,44_fiftyone,bər hiši ɡel mi-jəɖ,bər_hiši_ɡel_mi-jəɖ,b ə r + h i ʃ i + g e l + m i + j ə ɖ,,,,,^ b ə r _ h i š i _ ɡ e l _ m i - j ə ɖ $,default,2*20+10+1
+Ho-48_fiftytwo-1,,Ho,48_fiftytwo,bər hiši ɡel bər-ijə,bər_hiši_ɡel_bər-ijə,b ə r + h i ʃ i + g e l + b ə r + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l _ b ə r - i j ə $,default,2*20+10+2
+Ho-47_fiftythree-1,,Ho,47_fiftythree,bər hiši ɡel əpe-ijə,bər_hiši_ɡel_əpe-ijə,b ə r + h i ʃ i + g e l + ə p e + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l _ ə p e - i j ə $,default,2*20+10+3
+Ho-42_fiftyfour-1,,Ho,42_fiftyfour,bər hiši ɡel upun-ijə,bər_hiši_ɡel_upun-ijə,b ə r + h i ʃ i + g e l + u p u n + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l _ u p u n - i j ə $,default,2*20+10+4
+Ho-41_fiftyfive-1,,Ho,41_fiftyfive,bər hiši ɡel mo-ijə,bər_hiši_ɡel_mo-ijə,b ə r + h i ʃ i + g e l + m o + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l _ m o - i j ə $,default,2*20+10+5
+Ho-46_fiftysix-1,,Ho,46_fiftysix,bər hiši ɡel turu-ijə,bər_hiši_ɡel_turu-ijə,b ə r + h i ʃ i + g e l + t u r u + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l _ t u r u - i j ə $,default,2*20+10+6
+Ho-45_fiftyseven-1,,Ho,45_fiftyseven,bər hiši ɡel ə-ijə,bər_hiši_ɡel_ə-ijə,b ə r + h i ʃ i + g e l + ə + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l _ ə - i j ə $,default,2*20+10+7
+Ho-40_fiftyeight-1,,Ho,40_fiftyeight,bər hiši ɡel irl-ijə,bər_hiši_ɡel_irl-ijə,b ə r + h i ʃ i + g e l + i r l + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l _ i r l - i j ə $,default,2*20+10+8
+Ho-43_fiftynine-1,,Ho,43_fiftynine,bər hiši ɡel ər-ijə,bər_hiši_ɡel_ər-ijə,b ə r + h i ʃ i + g e l + ə r + i j ə,,,,,^ b ə r _ h i š i _ ɡ e l _ ə r - i j ə $,default,2*20+10+9
+Ho-177_sixty-1,,Ho,177_sixty,əpe hiši,əpe_hiši,ə p e + h i ʃ i,,,,,^ ə p e _ h i š i $,default,3*20
+Ho-182_sixtyone-1,,Ho,182_sixtyone,əpe hiši mi-jəɖ,əpe_hiši_mi-jəɖ,ə p e + h i ʃ i + m i + j ə ɖ,,,,,^ ə p e _ h i š i _ m i - j ə ɖ $,default,3*20+1
+Ho-186_sixtytwo-1,,Ho,186_sixtytwo,əpe hiši bər-ijə,əpe_hiši_bər-ijə,ə p e + h i ʃ i + b ə r + i j ə,,,,,^ ə p e _ h i š i _ b ə r - i j ə $,default,3*20+2
+Ho-185_sixtythree-1,,Ho,185_sixtythree,əpe hiši əpe-ijə,əpe_hiši_əpe-ijə,ə p e + h i ʃ i + ə p e + i j ə,,,,,^ ə p e _ h i š i _ ə p e - i j ə $,default,3*20+3
+Ho-180_sixtyfour-1,,Ho,180_sixtyfour,əpe hiši upun-ijə,əpe_hiši_upun-ijə,ə p e + h i ʃ i + u p u n + i j ə,,,,,^ ə p e _ h i š i _ u p u n - i j ə $,default,3*20+4
+Ho-179_sixtyfive-1,,Ho,179_sixtyfive,əpe hiši mo-ijə,əpe_hiši_mo-ijə,ə p e + h i ʃ i + m o + i j ə,,,,,^ ə p e _ h i š i _ m o - i j ə $,default,3*20+5
+Ho-184_sixtysix-1,,Ho,184_sixtysix,əpe hiši turu-ijə,əpe_hiši_turu-ijə,ə p e + h i ʃ i + t u r u + i j ə,,,,,^ ə p e _ h i š i _ t u r u - i j ə $,default,3*20+6
+Ho-183_sixtyseven-1,,Ho,183_sixtyseven,əpe hiši ə-ijə,əpe_hiši_ə-ijə,ə p e + h i ʃ i + ə + i j ə,,,,,^ ə p e _ h i š i _ ə - i j ə $,default,3*20+7
+Ho-178_sixtyeight-1,,Ho,178_sixtyeight,əpe hiši irl-ijə,əpe_hiši_irl-ijə,ə p e + h i ʃ i + i r l + i j ə,,,,,^ ə p e _ h i š i _ i r l - i j ə $,default,3*20+8
+Ho-181_sixtynine-1,,Ho,181_sixtynine,əpe hiši ər-ijə,əpe_hiši_ər-ijə,ə p e + h i ʃ i + ə r + i j ə,,,,,^ ə p e _ h i š i _ ə r - i j ə $,default,3*20+9
+Ho-156_seventy-1,,Ho,156_seventy,əpe hiši ɡel-ijə,əpe_hiši_ɡel-ijə,ə p e + h i ʃ i + g e l + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l - i j ə $,default,3*20+10/60+10
+Ho-161_seventyone-1,,Ho,161_seventyone,əpe hiši ɡel mi-jəɖ,əpe_hiši_ɡel_mi-jəɖ,ə p e + h i ʃ i + g e l + m i + j ə ɖ,,,,,^ ə p e _ h i š i _ ɡ e l _ m i - j ə ɖ $,default,3*20+10+1
+Ho-165_seventytwo-1,,Ho,165_seventytwo,əpe hiši ɡel bər-ijə,əpe_hiši_ɡel_bər-ijə,ə p e + h i ʃ i + g e l + b ə r + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l _ b ə r - i j ə $,default,3*20+10+2
+Ho-164_seventythree-1,,Ho,164_seventythree,əpe hiši ɡel əpe-ijə,əpe_hiši_ɡel_əpe-ijə,ə p e + h i ʃ i + g e l + ə p e + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l _ ə p e - i j ə $,default,3*20+10+3
+Ho-159_seventyfour-1,,Ho,159_seventyfour,əpe hiši ɡel upun-ijə,əpe_hiši_ɡel_upun-ijə,ə p e + h i ʃ i + g e l + u p u n + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l _ u p u n - i j ə $,default,3*20+10+4
+Ho-158_seventyfive-1,,Ho,158_seventyfive,əpe hiši ɡel mo-ijə,əpe_hiši_ɡel_mo-ijə,ə p e + h i ʃ i + g e l + m o + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l _ m o - i j ə $,default,3*20+10+5
+Ho-163_seventysix-1,,Ho,163_seventysix,əpe hiši ɡel turu-ijə,əpe_hiši_ɡel_turu-ijə,ə p e + h i ʃ i + g e l + t u r u + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l _ t u r u - i j ə $,default,3*20+10+6
+Ho-162_seventyseven-1,,Ho,162_seventyseven,əpe hiši ɡel ə-ijə,əpe_hiši_ɡel_ə-ijə,ə p e + h i ʃ i + g e l + ə + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l _ ə - i j ə $,default,3*20+10+7
+Ho-157_seventyeight-1,,Ho,157_seventyeight,əpe hiši ɡel irl-ijə,əpe_hiši_ɡel_irl-ijə,ə p e + h i ʃ i + g e l + i r l + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l _ i r l - i j ə $,default,3*20+10+8
+Ho-160_seventynine-1,,Ho,160_seventynine,əpe hiši ɡel ər-ijə,əpe_hiši_ɡel_ər-ijə,ə p e + h i ʃ i + g e l + ə r + i j ə,,,,,^ ə p e _ h i š i _ ɡ e l _ ə r - i j ə $,default,3*20+10+9
+Ho-22_eighty-1,,Ho,22_eighty,upun hiši,upun_hiši,u p u n + h i ʃ i,,,,,^ u p u n _ h i š i $,default,4*20
+Ho-27_eightyone-1,,Ho,27_eightyone,upun hiši mi-jəɖ,upun_hiši_mi-jəɖ,u p u n + h i ʃ i + m i + j ə ɖ,,,,,^ u p u n _ h i š i _ m i - j ə ɖ $,default,4*20+1
+Ho-31_eightytwo-1,,Ho,31_eightytwo,upun hiši bər-ijə,upun_hiši_bər-ijə,u p u n + h i ʃ i + b ə r + i j ə,,,,,^ u p u n _ h i š i _ b ə r - i j ə $,default,4*20+2
+Ho-30_eightythree-1,,Ho,30_eightythree,upun hiši əpe-ijə,upun_hiši_əpe-ijə,u p u n + h i ʃ i + ə p e + i j ə,,,,,^ u p u n _ h i š i _ ə p e - i j ə $,default,4*20+3
+Ho-25_eightyfour-1,,Ho,25_eightyfour,upun hiši upun-ijə,upun_hiši_upun-ijə,u p u n + h i ʃ i + u p u n + i j ə,,,,,^ u p u n _ h i š i _ u p u n - i j ə $,default,4*20+4
+Ho-24_eightyfive-1,,Ho,24_eightyfive,upun hiši mo-ijə,upun_hiši_mo-ijə,u p u n + h i ʃ i + m o + i j ə,,,,,^ u p u n _ h i š i _ m o - i j ə $,default,4*20+5
+Ho-29_eightysix-1,,Ho,29_eightysix,upun hiši turu-ijə,upun_hiši_turu-ijə,u p u n + h i ʃ i + t u r u + i j ə,,,,,^ u p u n _ h i š i _ t u r u - i j ə $,default,4*20+6
+Ho-28_eightyseven-1,,Ho,28_eightyseven,upun hiši ə-ijə,upun_hiši_ə-ijə,u p u n + h i ʃ i + ə + i j ə,,,,,^ u p u n _ h i š i _ ə - i j ə $,default,4*20+7
+Ho-23_eightyeight-1,,Ho,23_eightyeight,upun hiši irl-ijə,upun_hiši_irl-ijə,u p u n + h i ʃ i + i r l + i j ə,,,,,^ u p u n _ h i š i _ i r l - i j ə $,default,4*20+8
+Ho-26_eightynine-1,,Ho,26_eightynine,upun hiši ər-ijə,upun_hiši_ər-ijə,u p u n + h i ʃ i + ə r + i j ə,,,,,^ u p u n _ h i š i _ ə r - i j ə $,default,4*20+9
+Ho-121_ninety-1,,Ho,121_ninety,upun hiši ɡel-ijə,upun_hiši_ɡel-ijə,u p u n + h i ʃ i + g e l + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l - i j ə $,default,4*20+10/80+10
+Ho-126_ninetyone-1,,Ho,126_ninetyone,upun hiši ɡel mi-jəɖ,upun_hiši_ɡel_mi-jəɖ,u p u n + h i ʃ i + g e l + m i + j ə ɖ,,,,,^ u p u n _ h i š i _ ɡ e l _ m i - j ə ɖ $,default,4*20+10+1
+Ho-130_ninetytwo-1,,Ho,130_ninetytwo,upun hiši ɡel bər-ijə,upun_hiši_ɡel_bər-ijə,u p u n + h i ʃ i + g e l + b ə r + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l _ b ə r - i j ə $,default,4*20+10+2
+Ho-129_ninetythree-1,,Ho,129_ninetythree,upun hiši ɡel əpe-ijə,upun_hiši_ɡel_əpe-ijə,u p u n + h i ʃ i + g e l + ə p e + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l _ ə p e - i j ə $,default,4*20+10+3
+Ho-124_ninetyfour-1,,Ho,124_ninetyfour,upun hiši ɡel upun-ijə,upun_hiši_ɡel_upun-ijə,u p u n + h i ʃ i + g e l + u p u n + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l _ u p u n - i j ə $,default,4*20+10+4
+Ho-123_ninetyfive-1,,Ho,123_ninetyfive,upun hiši ɡel mo-ijə,upun_hiši_ɡel_mo-ijə,u p u n + h i ʃ i + g e l + m o + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l _ m o - i j ə $,default,4*20+10+5
+Ho-128_ninetysix-1,,Ho,128_ninetysix,upun hiši ɡel turu-ijə,upun_hiši_ɡel_turu-ijə,u p u n + h i ʃ i + g e l + t u r u + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l _ t u r u - i j ə $,default,4*20+10+6
+Ho-127_ninetyseven-1,,Ho,127_ninetyseven,upun hiši ɡel ə-ijə,upun_hiši_ɡel_ə-ijə,u p u n + h i ʃ i + g e l + ə + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l _ ə - i j ə $,default,4*20+10+7
+Ho-122_ninetyeight-1,,Ho,122_ninetyeight,upun hiši ɡel irl-ijə,upun_hiši_ɡel_irl-ijə,u p u n + h i ʃ i + g e l + i r l + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l _ i r l - i j ə $,default,4*20+10+8
+Ho-125_ninetynine-1,,Ho,125_ninetynine,upun hiši ɡel ər-ijə,upun_hiši_ɡel_ər-ijə,u p u n + h i ʃ i + g e l + ə r + i j ə,,,,,^ u p u n _ h i š i _ ɡ e l _ ə r - i j ə $,default,4*20+10+9
+Ho-78_hundred-1,,Ho,78_hundred,mi sɔ,mi_sɔ,m i + s ɔ,,,,,^ m i _ s ɔ $,default,1*100
+Ho-78_hundred-2,,Ho,78_hundred,bənɖre,bənɖre,b ə n ɖ r e,,,,,^ b ə n ɖ r e $,default,100
+Ho-78_hundred-3,,Ho,78_hundred,mo-ije hiši,mo-ije_hiši,m o + i j e + h i ʃ i,,,,,^ m o - i j e _ h i š i $,default,5*20
+Ho-207_thousand-1,,Ho,207_thousand,ɖɑkɑ,ɖɑkɑ,ɖ ɑ k ɑ,,,,,^ ɖ ɑ k ɑ $,default,1000
+Ho-207_thousand-2,,Ho,207_thousand,həzɑr,həzɑr,h ə z ɑ r,,,,,^ h ə z ɑ r $,default,1000
+Ho-114_lakh-1,,Ho,114_lakh,ɖuməŋ,ɖuməŋ,ɖ u m ə ŋ,,,,,^ ɖ u m ə ŋ $,default,100000
+Ho-137_onehundredhundred-1,,Ho,137_onehundredhundred,mi sɔ,mi_sɔ,m i + s ɔ,,,,,^ m i _ s ɔ $,default,1*100
+Ho-235_twohundred-1,,Ho,235_twohundred,bər sɔ,bər_sɔ,b ə r + s ɔ,,,,,^ b ə r _ s ɔ $,default,2*100
+Ho-211_threehundred-1,,Ho,211_threehundred,əpe sɔ,əpe_sɔ,ə p e + s ɔ,,,,,^ ə p e _ s ɔ $,default,3*100
+Ho-71_fourhundred-1,,Ho,71_fourhundred,upun sɔ,upun_sɔ,u p u n + s ɔ,,,,,^ u p u n _ s ɔ $,default,4*100
+Ho-54_fivehundred-1,,Ho,54_fivehundred,moj sɔ,moj_sɔ,m o j + s ɔ,,,,,^ m o j _ s ɔ $,default,5*100
+Ho-169_sixhundred-1,,Ho,169_sixhundred,turui sɔ,turui_sɔ,t u r u i + s ɔ,,,,,^ t u r u i _ s ɔ $,default,6*100
+Ho-139_onethousandthousand-1,,Ho,139_onethousandthousand,mi həzɑr,mi_həzɑr,m i + h ə z ɑ r,,,,,^ m i _ h ə z ɑ r $,default,1*1000
+Ho-238_twothousand-1,,Ho,238_twothousand,bər həzɑr,bər_həzɑr,b ə r + h ə z ɑ r,,,,,^ b ə r _ h ə z ɑ r $,default,2*1000
+Ho-212_threethousand-1,,Ho,212_threethousand,əpe həzɑr,əpe_həzɑr,ə p e + h ə z ɑ r,,,,,^ ə p e _ h ə z ɑ r $,default,3*1000
+Ho-75_fourthousand-1,,Ho,75_fourthousand,upun həzɑr,upun_həzɑr,u p u n + h ə z ɑ r,,,,,^ u p u n _ h ə z ɑ r $,default,4*1000
+Ho-57_fivethousand-1,,Ho,57_fivethousand,moj həzɑr,moj_həzɑr,m o j + h ə z ɑ r,,,,,^ m o j _ h ə z ɑ r $,default,5*1000
+Ho-173_sixthousand-1,,Ho,173_sixthousand,turui həzɑr,turui_həzɑr,t u r u i + h ə z ɑ r,,,,,^ t u r u i _ h ə z ɑ r $,default,6*1000
+Ho-236_twohundredtwentyone-1,,Ho,236_twohundredtwentyone,bər sɔ hisi mi-jəd,bər_sɔ_hisi_mi-jəd,b ə r + s ɔ + h i s i + m i + j ə d,,,,,^ b ə r _ s ɔ _ h i s i _ m i - j ə d $,default,2*100+20+1
+Ho-55_fivehundredsix-1,,Ho,55_fivehundredsix,moj sɔ turu-ije,moj_sɔ_turu-ije,m o j + s ɔ + t u r u + i j e,,,,,^ m o j _ s ɔ _ t u r u - i j e $,default,5*100+6
+Ho-213_threethousandfortyeight-1,,Ho,213_threethousandfortyeight,əpe həzɑr bər hisi,əpe_həzɑr_bər_hisi,ə p e + h ə z ɑ r + b ə r + h i s i,,,,,^ ə p e _ h ə z ɑ r _ b ə r _ h i s i $,default,3*1000+2*20+8
+Ho-175_sixthousandninehundred-1,,Ho,175_sixthousandninehundred,turu-ij ehəzɑr əre sɔ,turu-ij_ehəzɑr_əre_sɔ,t u r u + i j + e h ə z ɑ r + ə r e + s ɔ,,,,,^ t u r u - i j _ e h ə z ɑ r _ ə r e _ s ɔ $,default,6*1000+9*100
+Ho-155_seventhousandfourhundredtwentytwo-1,,Ho,155_seventhousandfourhundredtwentytwo,əije həzɑr upun sɔ hisi mi-jəd,əije_həzɑr_upun_sɔ_hisi_mi-jəd,ə i j e + h ə z ɑ r + u p u n + s ɔ + h i s i + m i + j ə d,,,,,^ ə i j e _ h ə z ɑ r _ u p u n _ s ɔ _ h i s i _ m i - j ə d $,default,7*1000+4*100+20+2
+Ho-174_sixthousandeight-1,,Ho,174_sixthousandeight,turu-ije həzɑr iril,turu-ije_həzɑr_iril,t u r u + i j e + h ə z ɑ r + i r i l,,,,,^ t u r u - i j e _ h ə z ɑ r _ i r i l $,default,6*1000+8
+Ho-132_oneboy-1,,Ho,132_oneboy,mi-jəd kuɑhon,mi-jəd_kuɑhon,m i + j ə d + k u ɑ h o n,,,,,^ m i - j ə d _ k u ɑ h o n $,default,
+Ho-232_twoboys-1,,Ho,232_twoboys,bər-ijə kuɑhon kiŋ,bər-ijə_kuɑhon_kiŋ,b ə r + i j ə + k u ɑ h o n + k i ŋ,,,,,^ b ə r - i j ə _ k u ɑ h o n _ k i ŋ $,default,
+Ho-138_onesheep-1,,Ho,138_onesheep,mi-jəd minɖi,mi-jəd_minɖi,m i + j ə d + m i n ɖ i,,,,,^ m i - j ə d _ m i n ɖ i $,default,
+Ho-56_fivesheep-1,,Ho,56_fivesheep,mo-ije minɖi ko,mo-ije_minɖi_ko,m o + i j e + m i n ɖ i + k o,,,,,^ m o - i j e _ m i n ɖ i _ k o $,default,
+Ho-135_onegirl-1,,Ho,135_onegirl,mi-jəd kuihon,mi-jəd_kuihon,m i + j ə d + k u i h o n,,,,,^ m i - j ə d _ k u i h o n $,default,
+Ho-234_twogirls-1,,Ho,234_twogirls,bər-ijə kuihon kiŋ,bər-ijə_kuihon_kiŋ,b ə r + i j ə + k u i h o n + k i ŋ,,,,,^ b ə r - i j ə _ k u i h o n _ k i ŋ $,default,
+Ho-210_threegirls-1,,Ho,210_threegirls,əpe-ijə kuihon ko,əpe-ijə_kuihon_ko,ə p e + i j ə + k u i h o n + k o,,,,,^ ə p e - i j ə _ k u i h o n _ k o $,default,
+Ho-21_eighttrees-1,,Ho,21_eighttrees,irəl-ije dɑru ko,irəl-ije_dɑru_ko,i r ə l + i j e + d ɑ r u + k o,,,,,^ i r ə l - i j e _ d ɑ r u _ k o $,default,
+Ho-140_onetree-1,,Ho,140_onetree,mi-jəd dɑru,mi-jəd_dɑru,m i + j ə d + d ɑ r u,,,,,^ m i - j ə d _ d ɑ r u $,default,
+Ho-93_ihaveonebrother-1,,Ho,93_ihaveonebrother,ɑjɑ mi-jəd bɑre(brother) minɑje,ɑjɑ_mi-jəd_bɑre_minɑje,ɑ j ɑ + m i + j ə d + b ɑ r e + m i n ɑ j e,,,,,^ ɑ j ɑ _ m i - j ə d _ b ɑ r e _ m i n ɑ j e $,default,
+Ho-98_ihavetwobrothers-1,,Ho,98_ihavetwobrothers,ɑjɑ bər-ije bɑre-kiŋ minɑ kiŋe,ɑjɑ_bər-ije_bɑre-kiŋ_minɑ_kiŋe,ɑ j ɑ + b ə r + i j e + b ɑ r e + k i ŋ + m i n ɑ + k i ŋ e,,,,,^ ɑ j ɑ _ b ə r - i j e _ b ɑ r e - k i ŋ _ m i n ɑ _ k i ŋ e $,default,
+Ho-94_ihaveonesister-1,,Ho,94_ihaveonesister,ɑjɑ mi-jəd miši(sister) minɑie,ɑjɑ_mi-jəd_miši_minɑie,ɑ j ɑ + m i + j ə d + m i ʃ i + m i n ɑ i e,,,,,^ ɑ j ɑ _ m i - j ə d _ m i š i _ m i n ɑ i e $,default,
+Ho-99_ihavetwosisters-1,,Ho,99_ihavetwosisters,ɑjɑ bər-ije mišikui kim inɑ kiŋe,ɑjɑ_bər-ije_mišikui_kim_inɑ_kiŋe,ɑ j ɑ + b ə r + i j e + m i ʃ i k u i + k i m + i n ɑ + k i ŋ e,,,,,^ ɑ j ɑ _ b ə r - i j e _ m i š i k u i _ k i m _ i n ɑ _ k i ŋ e $,default,
+Ho-96_ihavethreesisters-1,,Ho,96_ihavethreesisters,ɑjɑ upun-ije mišikui ki minɑ kuɑ,ɑjɑ_upun-ije_mišikui_ki_minɑ_kuɑ,ɑ j ɑ + u p u n + i j e + m i ʃ i k u i + k i + m i n ɑ + k u ɑ,,,,,^ ɑ j ɑ _ u p u n - i j e _ m i š i k u i _ k i _ m i n ɑ _ k u ɑ $,default,
+Ho-91_ihaveonealmirah-1,,Ho,91_ihaveonealmirah,əntɑre mi-jəd əlmirə minɑ,əntɑre_mi-jəd_əlmirə_minɑ,ə n t ɑ r e + m i + j ə d + ə l m i r ə + m i n ɑ,,,,,^ ə n t ɑ r e _ m i - j ə d _ ə l m i r ə _ m i n ɑ $,default,
+Ho-97_ihavetwoalmirahs-1,,Ho,97_ihavetwoalmirahs,əntɑre bər-ijə əlmirə minɑ,əntɑre_bər-ijə_əlmirə_minɑ,ə n t ɑ r e + b ə r + i j ə + ə l m i r ə + m i n ɑ,,,,,^ ə n t ɑ r e _ b ə r - i j ə _ ə l m i r ə _ m i n ɑ $,default,
+Ho-92_ihaveonebag-1,,Ho,92_ihaveonebag,əntɑre mi-jəd buɡli(bɑg) minɑ,əntɑre_mi-jəd_buɡli_minɑ,ə n t ɑ r e + m i + j ə d + b u g l i + m i n ɑ,,,,,^ ə n t ɑ r e _ m i - j ə d _ b u ɡ l i _ m i n ɑ $,default,
+Ho-95_ihavethreebags-1,,Ho,95_ihavethreebags,əntɑre əpe-ijə buɡli minɑ,əntɑre_əpe-ijə_buɡli_minɑ,ə n t ɑ r e + ə p e + i j ə + b u g l i + m i n ɑ,,,,,^ ə n t ɑ r e _ ə p e - i j ə _ b u ɡ l i _ m i n ɑ $,default,
+Ho-90_ihavefourbags-1,,Ho,90_ihavefourbags,əntɑre upun-ijə buɡli minə,əntɑre_upun-ijə_buɡli_minə,ə n t ɑ r e + u p u n + i j ə + b u g l i + m i n ə,,,,,^ ə n t ɑ r e _ u p u n - i j ə _ b u ɡ l i _ m i n ə $,default,
+Ho-50_firstman-1,,Ho,50_firstman,ɑerɑ ho(man),ɑerɑ_ho,ɑ e r ɑ + h o,,,,,^ ɑ e r ɑ _ h o $,default,
+Ho-148_secondman-1,,Ho,148_secondman,dusər ho,dusər_ho,d u s ə r + h o,,,,,^ d u s ə r _ h o $,default,
+Ho-51_firstwoman-1,,Ho,51_firstwoman,ɑerɑ erɑ,ɑerɑ_erɑ,ɑ e r ɑ + e r ɑ,,,,,^ ɑ e r ɑ _ e r ɑ $,default,
+Ho-149_secondwoman-1,,Ho,149_secondwoman,dusər erɑ,dusər_erɑ,d u s ə r + e r ɑ,,,,,^ d u s ə r _ e r ɑ $,default,
+Ho-12_asinglewordcomestomind-1,,Ho,12_asinglewordcomestomind,ənjɑ moloŋ(mind) re mi-jəd səbdə huǰu(to come) jene,ənjɑ_moloŋ_re_mi-jəd_səbdə_huǰu_jene,ə n j ɑ + m o l o ŋ + r e + m i + j ə d + s ə b d ə + h u ǰ/dʒ u + j e n e,,,,,^ ə n j ɑ _ m o l o ŋ _ r e _ m i - j ə d _ s ə b d ə _ h u ǰ u _ j e n e $,default,
+Ho-237_twopairofsocks-1,,Ho,237_twopairofsocks,mi ǰoɖɑ moǰɑ,mi_ǰoɖɑ_moǰɑ,m i + ǰ/dʒ o ɖ ɑ + m o ǰ/dʒ ɑ,,,,,^ m i _ ǰ o ɖ ɑ _ m o ǰ ɑ $,default,
+Ho-146_pairofsocksarelyinghere-1,,Ho,146_pairofsocksarelyinghere,mi ǰoɖɑ moǰɑ nintɑre(here) imɑkɑnɑ,mi_ǰoɖɑ_moǰɑ_nintɑre_imɑkɑnɑ,m i + ǰ/dʒ o ɖ ɑ + m o ǰ/dʒ ɑ + n i n t ɑ r e + i m ɑ k ɑ n ɑ,,,,,^ m i _ ǰ o ɖ ɑ _ m o ǰ ɑ _ n i n t ɑ r e _ i m ɑ k ɑ n ɑ $,default,
+Ho-112_iwenttheredozenoftimes-1,,Ho,112_iwenttheredozenoftimes,ən intɑ ɡelbər-dunəŋ(12 times) sinɑkɑnɑ,ən_intɑ_ɡelbər-dunəŋ_sinɑkɑnɑ,ə n + i n t ɑ + g e l b ə r + d u n ə ŋ + s i n ɑ k ɑ n ɑ,,,,,^ ə n _ i n t ɑ _ ɡ e l b ə r - d u n ə ŋ _ s i n ɑ k ɑ n ɑ $,default,
+Ho-86_iboughthalfadozeneggs-1,,Ho,86_iboughthalfadozeneggs,turuiije simǰərəmən kirəŋkiɖɑ,turuiije_simǰərəmən_kirəŋkiɖɑ,t u r u iː j e + s i m ǰ/dʒ ə r ə m ə n + k i r ə ŋ k i ɖ ɑ,,,,,^ t u r u ii j e _ s i m ǰ ə r ə m ə n _ k i r ə ŋ k i ɖ ɑ $,default,
+Ho-239_waitforacoupleofminutes-1,,Ho,239_waitforacoupleofminutes,mi'čoʈ(for a while) təŋiŋme,mi'čoʈ_təŋiŋme,m i '/ʔ č/tʃ o ʈ + t ə ŋ i ŋ m e,,,,,^ m i 'č o ʈ _ t ə ŋ i ŋ m e $,default,
+Ho-142_onlyone-1,,Ho,142_onlyone,mi-jəd ɡe(only),mi-jəd_ɡe,m i + j ə d + g e,,,,,^ m i - j ə d _ ɡ e $,default,
+Ho-145_onlytwo-1,,Ho,145_onlytwo,bər-ije ɡe,bər-ije_ɡe,b ə r + i j e + g e,,,,,^ b ə r - i j e _ ɡ e $,default,
+Ho-144_onlythree-1,,Ho,144_onlythree,əpe-ije ɡe,əpe-ije_ɡe,ə p e + i j e + g e,,,,,^ ə p e - i j e _ ɡ e $,default,
+Ho-141_onlyfive-1,,Ho,141_onlyfive,mo-ije ɡe,mo-ije_ɡe,m o + i j e + g e,,,,,^ m o - i j e _ ɡ e $,default,
+Ho-143_onlyten-1,,Ho,143_onlyten,ɡel-ijɑ ɡe,ɡel-ijɑ_ɡe,g e l + i j ɑ + g e,,,,,^ ɡ e l - i j ɑ _ ɡ e $,default,
+Ho-189_thereisonlyonechild-1,,Ho,189_thereisonlyonechild,entɑ re mi-jəd hon suəɖ(alone) minɑije,entɑ_re_mi-jəd_hon_suəɖ_minɑije,e n t ɑ + r e + m i + j ə d + h o n + s u ə ɖ + m i n ɑ i j e,,,,,^ e n t ɑ _ r e _ m i - j ə d _ h o n _ s u ə ɖ _ m i n ɑ i j e $,default,
+Ho-77_heateonlyfourmangoes-1,,Ho,77_heateonlyfourmangoes,əje upun-ije uliɡe ǰom keɖɑ,əje_upun-ije_uliɡe_ǰom_keɖɑ,ə j e + u p u n + i j e + u l i g e + ǰ/dʒ o m + k e ɖ ɑ,,,,,^ ə j e _ u p u n - i j e _ u l i ɡ e _ ǰ o m _ k e ɖ ɑ $,default,
+Ho-113_iwentthereonce-1,,Ho,113_iwentthereonce,ən intɑ mi-siɡin sinɑ kɑnɑ,ən_intɑ_mi-siɡin_sinɑ_kɑnɑ,ə n + i n t ɑ + m i + s i g i n + s i n ɑ + k ɑ n ɑ,,,,,^ ə n _ i n t ɑ _ m i - s i ɡ i n _ s i n ɑ _ k ɑ n ɑ $,default,
+Ho-230_twice-1,,Ho,230_twice,ən intɑ bər-dunɑin sinɑ kɑnɑ,ən_intɑ_bər-dunɑin_sinɑ_kɑnɑ,ə n + i n t ɑ + b ə r + d u n ɑ i n + s i n ɑ + k ɑ n ɑ,,,,,^ ə n _ i n t ɑ _ b ə r - d u n ɑ i n _ s i n ɑ _ k ɑ n ɑ $,default,
+Ho-214_thrice-1,,Ho,214_thrice,ən əpe-ən sinɑ kɑnɑ,ən_əpe-ən_sinɑ_kɑnɑ,ə n + ə p e + ə n + s i n ɑ + k ɑ n ɑ,,,,,^ ə n _ ə p e - ə n _ s i n ɑ _ k ɑ n ɑ $,default,
+Ho-115_manytimes-1,,Ho,115_manytimes,eso dunə,eso_dunə,e s o + d u n ə,,,,,^ e s o _ d u n ə $,default,
+Ho-166_severaltimes-1,,Ho,166_severaltimes,eso dunə,eso_dunə,e s o + d u n ə,,,,,^ e s o _ d u n ə $,default,
+Ho-111_isometimesdothat-1,,Ho,111_isometimesdothat,ən jə misə misə əiʈijə,ən_jə_misə_misə_əiʈijə,ə n + j ə + m i s ə + m i s ə + ə i ʈ i j ə,,,,,^ ə n _ j ə _ m i s ə _ m i s ə _ ə i ʈ i j ə $,default,
+Ho-104_ioftentravel-1,,Ho,104_ioftentravel,ən misə misə honorɑ(travel),ən_misə_misə_honorɑ,ə n + m i s ə + m i s ə + h o n o r ɑ,,,,,^ ə n _ m i s ə _ m i s ə _ h o n o r ɑ $,default,
+Ho-76_healwaysfights-1,,Ho,76_healwaysfights,ini səbin-imtəɡə(all the time) təpəm ɡəjɑ,ini_səbin-imtəɡə_təpəm_ɡəjɑ,i n i + s ə b i n + i m t ə g ə + t ə p ə m + g ə j ɑ,,,,,^ i n i _ s ə b i n - i m t ə ɡ ə _ t ə p ə m _ ɡ ə j ɑ $,default,
+Ho-167_sheseldomgoesout-1,,Ho,167_sheseldomgoesout,ini eso misə misə ɡe,ini_eso_misə_misə_ɡe,i n i + e s o + m i s ə + m i s ə + g e,,,,,^ i n i _ e s o _ m i s ə _ m i s ə _ ɡ e $,default,
+Ho-7_approximately20kilosofriceareinthesack-1,,Ho,7_approximately20kilosofriceareinthesack,hisi kilo ləɡɑləɡi čɑuli bostɑre minə,hisi_kilo_ləɡɑləɡi_čɑuli_bostɑre_minə,h i s i + k i l o + l ə g ɑ l ə g i + č/tʃ ɑ u l i + b o s t ɑ r e + m i n ə,,,,,^ h i s i _ k i l o _ l ə ɡ ɑ l ə ɡ i _ č ɑ u l i _ b o s t ɑ r e _ m i n ə $,default,
+Ho-10_approximately50ofstudentsareattendingtheworkshop-1,,Ho,10_approximately50ofstudentsareattendingtheworkshop,nen ʋərkʃop re pəcɑs prətisət ləɡɑləɡi honko hitəɖ kudubə(attend) kənə,nen_ʋərkʃop_re_pəcɑs_prətisət_ləɡɑləɡi_honko_hitəɖ_kudubə_kənə,n e n + ʋ ə r k ʃ o p + r e + p ə c ɑ s + p r ə t i s ə t + l ə g ɑ l ə g i + h o n k o + h i t ə ɖ + k u d u b ə + k ə n ə,,,,,^ n e n _ ʋ ə r kʃ o p _ r e _ p ə c ɑ s _ p r ə t i s ə t _ l ə ɡ ɑ l ə ɡ i _ h o n k o _ h i t ə ɖ _ k u d u b ə _ k ə n ə $,default,
+Ho-11_approximatelyfifteenkilosofriceareinthesack-1,,Ho,11_approximatelyfifteenkilosofriceareinthesack,ɡel moj kilo ləɡɑləɡi čɑuli bostɑre minə,ɡel_moj_kilo_ləɡɑləɡi_čɑuli_bostɑre_minə,g e l + m o j + k i l o + l ə g ɑ l ə g i + č/tʃ ɑ u l i + b o s t ɑ r e + m i n ə,,,,,^ ɡ e l _ m o j _ k i l o _ l ə ɡ ɑ l ə ɡ i _ č ɑ u l i _ b o s t ɑ r e _ m i n ə $,default,
+Ho-206_thisinstitutecontainsapproximately1000students-1,,Ho,206_thisinstitutecontainsapproximately1000students,nen sənstʰɑn re pəʈue-ko(students) ɖɑkɑ(thousand) ləɡɑləɡi minɑkuɑ,nen_sənstʰɑn_re_pəʈue-ko_ɖɑkɑ_ləɡɑləɡi_minɑkuɑ,n e n + s ə n s tʰ ɑ n + r e + p ə ʈ u e + k o + ɖ ɑ k ɑ + l ə g ɑ l ə g i + m i n ɑ k u ɑ,,,,,^ n e n _ s ə ns tʰ ɑ n _ r e _ p ə ʈ u e - k o _ ɖ ɑ k ɑ _ l ə ɡ ɑ l ə ɡ i _ m i n ɑ k u ɑ $,default,
+Ho-9_approximately35kilosofriceareinthesack-1,,Ho,9_approximately35kilosofriceareinthesack,hiši ɡel mo-ijə kilo ləɡɑləɡi čɑuli bostɑre minə,hiši_ɡel_mo-ijə_kilo_ləɡɑləɡi_čɑuli_bostɑre_minə,h i ʃ i + g e l + m o + i j ə + k i l o + l ə g ɑ l ə g i + č/tʃ ɑ u l i + b o s t ɑ r e + m i n ə,,,,,^ h i š i _ ɡ e l _ m o - i j ə _ k i l o _ l ə ɡ ɑ l ə ɡ i _ č ɑ u l i _ b o s t ɑ r e _ m i n ə $,default,
+Ho-6_agroupoftwogirlsplayed-1,,Ho,6_agroupoftwogirlsplayed,bəro honkiŋ ɡoʈʰ ko inuŋ kinə,bəro_honkiŋ_ɡoʈʰ_ko_inuŋ_kinə,b ə r o + h o n k i ŋ + g o ʈʰ + k o + i n u ŋ + k i n ə,,,,,^ b ə r o _ h o n k i ŋ _ ɡ o ʈʰ _ k o _ i n u ŋ _ k i n ə $,default,
+Ho-1_agroupoffivegirlsplayed-1,,Ho,1_agroupoffivegirlsplayed,mo-ijə honkiŋ ɡoʈʰ ko inuŋ kinə,mo-ijə_honkiŋ_ɡoʈʰ_ko_inuŋ_kinə,m o + i j ə + h o n k i ŋ + g o ʈʰ + k o + i n u ŋ + k i n ə,,,,,^ m o - i j ə _ h o n k i ŋ _ ɡ o ʈʰ _ k o _ i n u ŋ _ k i n ə $,default,
+Ho-2_agroupoffourgirlsplayed-1,,Ho,2_agroupoffourgirlsplayed,upun-ijə honkiŋ ɡoʈʰ ko inuŋ kinə,upun-ijə_honkiŋ_ɡoʈʰ_ko_inuŋ_kinə,u p u n + i j ə + h o n k i ŋ + g o ʈʰ + k o + i n u ŋ + k i n ə,,,,,^ u p u n - i j ə _ h o n k i ŋ _ ɡ o ʈʰ _ k o _ i n u ŋ _ k i n ə $,default,
+Ho-3_agroupoftwelveboysreached-1,,Ho,3_agroupoftwelveboysreached,ɡel bər-ijə ɡotʰ ren koɑhonko tibɑjənɑ(reached),ɡel_bər-ijə_ɡotʰ_ren_koɑhonko_tibɑjənɑ,g e l + b ə r + i j ə + g o tʰ + r e n + k o ɑ h o n k o + t i b ɑ j ə n ɑ,,,,,^ ɡ e l _ b ə r - i j ə _ ɡ o tʰ _ r e n _ k o ɑ h o n k o _ t i b ɑ j ə n ɑ $,default,
+Ho-5_agroupoftwentyfiveboysreached-1,,Ho,5_agroupoftwentyfiveboysreached,hiši mo-ije henkojɑ ɡotʰ tibɑjənɑ,hiši_mo-ije_henkojɑ_ɡotʰ_tibɑjənɑ,h i ʃ i + m o + i j e + h e n k o j ɑ + g o tʰ + t i b ɑ j ə n ɑ,,,,,^ h i š i _ m o - i j e _ h e n k o j ɑ _ ɡ o tʰ _ t i b ɑ j ə n ɑ $,default,
+Ho-4_agroupoftwentyboysreached-1,,Ho,4_agroupoftwentyboysreached,hiši henkojɡotʰ beʈbɑjənɑ,hiši_henkojɡotʰ_beʈbɑjənɑ,h i ʃ i + h e n k o j g o tʰ + b e ʈ b ɑ j ə n ɑ,,,,,^ h i š i _ h e n k o j ɡ o tʰ _ b e ʈ b ɑ j ə n ɑ $,default,
+Ho-101_imethimonce-1,,Ho,101_imethimonce,ən əil o mi-šəɡən miləʋə kənə,ən_əil_o_mi-šəɡən_miləʋə_kənə,ə n + ə i l + o + m i + ʃ ə g ə n + m i l ə ʋ ə + k ə n ə,,,,,^ ə n _ ə i l _ o _ m i - š ə ɡ ə n _ m i l ə ʋ ə _ k ə n ə $,default,
+Ho-103_imethimtwice-1,,Ho,103_imethimtwice,ən əil o bər-dunən miləʋə kənə,ən_əil_o_bər-dunən_miləʋə_kənə,ə n + ə i l + o + b ə r + d u n ə n + m i l ə ʋ ə + k ə n ə,,,,,^ ə n _ ə i l _ o _ b ə r - d u n ə n _ m i l ə ʋ ə _ k ə n ə $,default,
+Ho-102_imethimthrice-1,,Ho,102_imethimthrice,ən əil o əpe-dunən miləʋə kənə,ən_əil_o_əpe-dunən_miləʋə_kənə,ə n + ə i l + o + ə p e + d u n ə n + m i l ə ʋ ə + k ə n ə,,,,,^ ə n _ ə i l _ o _ ə p e - d u n ə n _ m i l ə ʋ ə _ k ə n ə $,default,
+Ho-100_imethimforthtime-1,,Ho,100_imethimforthtime,ən əil o upun-dunən miləʋə kənə,ən_əil_o_upun-dunən_miləʋə_kənə,ə n + ə i l + o + u p u n + d u n ə n + m i l ə ʋ ə + k ə n ə,,,,,^ ə n _ ə i l _ o _ u p u n - d u n ə n _ m i l ə ʋ ə _ k ə n ə $,default,
+Ho-88_icalledherninetimes-1,,Ho,88_icalledherninetimes,ən əe əre-dunən kijə lie,ən_əe_əre-dunən_kijə_lie,ə n + ə e + ə r e + d u n ə n + k i j ə + l i e,,,,,^ ə n _ ə e _ ə r e - d u n ə n _ k i j ə _ l i e $,default,
+Ho-89_icalledhimtwentyfivetimes-1,,Ho,89_icalledhimtwentyfivetimes,ən əe hiši mo-dunən kijə lie,ən_əe_hiši_mo-dunən_kijə_lie,ə n + ə e + h i ʃ i + m o + d u n ə n + k i j ə + l i e,,,,,^ ə n _ ə e _ h i š i _ m o - d u n ə n _ k i j ə _ l i e $,default,
+Ho-87_icalledherfifteentimes-1,,Ho,87_icalledherfifteentimes,ən əe ɡel mo-dunən kijə lie,ən_əe_ɡel_mo-dunən_kijə_lie,ə n + ə e + g e l + m o + d u n ə n + k i j ə + l i e,,,,,^ ə n _ ə e _ ɡ e l _ m o - d u n ə n _ k i j ə _ l i e $,default,
+Ho-82_iate12ofthepizza-1,,Ho,82_iate12ofthepizza,mit' kičɑ/ɑdʰɑ pizzɑ ǰom kəɖɑ,mit'_kičɑ,m i t '/ʔ + k i č/tʃ ɑ,,,,,^ m i t '_ k i č ɑ $,default,
+Ho-82_iate12ofthepizza-2,,Ho,82_iate12ofthepizza,mit' kičɑ/ɑdʰɑ pizzɑ ǰom kəɖɑ,ɑdʰɑ_pizzɑ_ǰom_kəɖɑ,ɑ dʰ ɑ + p i zː ɑ + ǰ/dʒ o m + k ə ɖ ɑ,,,,,^ ɑ dʰ ɑ _ p i zz ɑ _ ǰ o m _ k ə ɖ ɑ $,default,
+Ho-106_iread14ofthebook-1,,Ho,106_iread14ofthebook,upun kičɑ/hitəɖ,upun_kičɑ,u p u n + k i č/tʃ ɑ,,,,,^ u p u n _ k i č ɑ $,default,
+Ho-106_iread14ofthebook-2,,Ho,106_iread14ofthebook,upun kičɑ/hitəɖ,hitəɖ,h i t ə ɖ,,,,,^ h i t ə ɖ $,default,
+Ho-83_iate15ofthepizza-1,,Ho,83_iate15ofthepizza,moi kičɑ/hitəɖ,moi_kičɑ,m o i + k i č/tʃ ɑ,,,,,^ m o i _ k i č ɑ $,default,
+Ho-83_iate15ofthepizza-2,,Ho,83_iate15ofthepizza,moi kičɑ/hitəɖ,hitəɖ,h i t ə ɖ,,,,,^ h i t ə ɖ $,default,
+Ho-134_oneeach-1,,Ho,134_oneeach,mutiɖ hoko mi-jəd mi-jəd hɑʈiŋ əkoŋ,mutiɖ_hoko_mi-jəd_mi-jəd_hɑʈiŋ_əkoŋ,m u t i ɖ + h o k o + m i + j ə d + m i + j ə d + h ɑ ʈ i ŋ + ə k o ŋ,,,,,^ m u t i ɖ _ h o k o _ m i - j ə d _ m i - j ə d _ h ɑ ʈ i ŋ _ ə k o ŋ $,default,
+Ho-209_threeeach-1,,Ho,209_threeeach,əpe-ije əpe-ije hɑtiŋ əkoŋ,əpe-ije_əpe-ije_hɑtiŋ_əkoŋ,ə p e + i j e + ə p e + i j e + h ɑ t i ŋ + ə k o ŋ,,,,,^ ə p e - i j e _ ə p e - i j e _ h ɑ t i ŋ _ ə k o ŋ $,default,
+Ho-53_fiveeach-1,,Ho,53_fiveeach,mo-ije mo-ije hɑtiŋ əkoŋ,mo-ije_mo-ije_hɑtiŋ_əkoŋ,m o + i j e + m o + i j e + h ɑ t i ŋ + ə k o ŋ,,,,,^ m o - i j e _ m o - i j e _ h ɑ t i ŋ _ ə k o ŋ $,default,
+Ho-133_onebyone-1,,Ho,133_onebyone,minɖo minɖo te huǰupe,minɖo_minɖo_te_huǰupe,m i n ɖ o + m i n ɖ o + t e + h u ǰ/dʒ u p e,,,,,^ m i n ɖ o _ m i n ɖ o _ t e _ h u ǰ u p e $,default,
+Ho-233_twobytwo-1,,Ho,233_twobytwo,bəro bəro huǰupe,bəro_bəro_huǰupe,b ə r o + b ə r o + h u ǰ/dʒ u p e,,,,,^ b ə r o _ b ə r o _ h u ǰ u p e $,default,
+Spiti-52_five-1,,Spiti,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Ladakhi-52_five-1,,Ladakhi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Khoibu-52_five-1,,Khoibu,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Ao-52_five-1,,Ao,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Adi-52_five-1,,Adi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Bodo-52_five-1,,Bodo,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Meiteilon-52_five-1,,Meiteilon,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Thangal-52_five-1,,Thangal,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Tangkhul-52_five-1,,Tangkhul,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Tinkarlo-52_five-1,,Tinkarlo,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Lotha-52_five-1,,Lotha,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Rongmei-52_five-1,,Rongmei,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Angami-52_five-1,,Angami,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Jad-52_five-1,,Jad,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Bhoti-52_five-1,,Bhoti,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Thadou-52_five-1,,Thadou,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Mao-52_five-1,,Mao,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Hajong-52_five-1,,Hajong,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Ho-52_five-2,,Ho,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kharia-52_five-1,,Kharia,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Khasi-52_five-1,,Khasi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Pnar-52_five-1,,Pnar,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Santali-52_five-1,,Santali,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Mundari-52_five-1,,Mundari,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Korku-52_five-1,,Korku,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Sora-52_five-1,,Sora,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+CarNicobarese-52_five-1,,CarNicobarese,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Sanenyo-52_five-1,,Sanenyo,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Luro-52_five-1,,Luro,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kannada-52_five-1,,Kannada,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Toda-52_five-1,,Toda,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Gondi-52_five-1,,Gondi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kota-52_five-1,,Kota,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kodagu-52_five-1,,Kodagu,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Tamil-52_five-1,,Tamil,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Malayalam-52_five-1,,Malayalam,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Telugu-52_five-1,,Telugu,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kurukh-52_five-1,,Kurukh,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Badaga-52_five-2,,Badaga,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kulvi-52_five-1,,Kulvi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Gaddi-52_five-1,,Gaddi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kumaoni-52_five-1,,Kumaoni,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Garhwali-52_five-1,,Garhwali,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Dogri-52_five-1,,Dogri,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Konkani-52_five-1,,Konkani,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Nepali-52_five-1,,Nepali,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kudmali-52_five-1,,Kudmali,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Bengali-52_five-1,,Bengali,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Assamese-52_five-1,,Assamese,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Marwari-52_five-1,,Marwari,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+PakistaniPunjabi-52_five-1,,PakistaniPunjabi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+IndianPunjabi-52_five-1,,IndianPunjabi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Oriya-52_five-1,,Oriya,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Kashmiri-52_five-1,,Kashmiri,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Marathi-52_five-1,,Marathi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Gujarati-52_five-1,,Gujarati,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Sindhi-52_five-1,,Sindhi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Pahari-52_five-1,,Pahari,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Nagpuri-52_five-1,,Nagpuri,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Wagdi-52_five-1,,Wagdi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Bajjika-52_five-1,,Bajjika,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Sanskrit-52_five-1,,Sanskrit,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Panchparganiya-52_five-1,,Panchparganiya,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Sylheti-52_five-1,,Sylheti,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Urdu-52_five-1,,Urdu,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Halbi-52_five-1,,Halbi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Khortha-52_five-1,,Khortha,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Sinhala-52_five-1,,Sinhala,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Palula-52_five-1,,Palula,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Rohingya-52_five-1,,Rohingya,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Rajbongshi-52_five-1,,Rajbongshi,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+TaiKhamti-52_five-1,,TaiKhamti,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Onge-52_five-1,,Onge,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Jarawa-52_five-1,,Jarawa,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+GreatAndamanese-52_five-1,,GreatAndamanese,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Nihali-52_five-1,,Nihali,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
+Burushaski-52_five-1,,Burushaski,52_five,dummy,dummy,d u mː y,,,,,^ d u mm y $,default,
