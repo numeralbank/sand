@@ -1,78 +1,78 @@
-ID	Name	Glottocode	ISO639P3code	Latitude	Longitude	Family	Comment
-Spiti	Spiti	spit1240	spt	32.53	77.83	Sino-Tibetan	
-Ladakhi	Ladakhi	lada1244	lbj	33.47	80.6	Sino-Tibetan	
-Khoibu	Khoibu	khoi1251	nkb	24.2	94.13	Sino-Tibetan	
-Ao	Ao	aona1235	njo	26.32	94.38	Sino-Tibetan	
-Adi	Adi	bori1243	adi	27.63	94.35	Sino-Tibetan	
-Bodo	Bodo	bodo1269	brx	26.1	92	Sino-Tibetan	
-Meiteilon	Meiteilon		mni			Sino-Tibetan	Not mentioned in Glottolog
-Thangal	Thangal	than1255	nki	25.35	93.84	Sino-Tibetan	
-Tangkhul	Tangkhul	tang1336	nmf	25.05	94.36	Sino-Tibetan	
-Tinkarlo	Tinkar lo					Sino-Tibetan	Not mentioned either in Glottolog or Ethnologue.
-Lotha	Lotha	loth1237	njh	26.01	94.04	Sino-Tibetan	
-Rongmei	Rongmei	rong1266	nbu	25.1	93.79	Sino-Tibetan	
-Angami	Angami	anga1288	njm	25.68	93.87	Sino-Tibetan	
-Jad	Jad	jadd1243	jda	30.24	79.15	Sino-Tibetan	
-Bhoti	Bhoti	stod1241	sbu	32.5	77.12	Sino-Tibetan	
-Thadou	Thadou/Thado	thad1238	tcz	24.1	93.72	Sino-Tibetan	
-Mao	Mao	maon1238	nbi	25.38	94	Sino-Tibetan	
-Hajong	Hajong	hajo1238	haj	25.51	89.86	Sino-Tibetan/ Indo-Aryan	Language Shift Issue
-Ho	Ho	hooo1248	hoc	23.96	87.12	Austro-Asiatic	
-Kharia	Kharia	khar1287	khr	22.36	84.39	Austro-Asiatic	
-Khasi	Khasi	khas1269	kha	24.98	92	Austro-Asiatic	
-Pnar	Pnar	pnar1238	pbv	24.82	92.26	Austro-Asiatic	
-Santali	Santali	sant1410	sat	25.03	87.82	Austro-Asiatic	
-Mundari	Mundari	mund1320	unr	23.03	85.85	Austro-Asiatic	
-Korku	Korku	kork1243	kfq	21.84	77.55	Austro-Asiatic	
-Sora	Sora	sora1254	srb	19.12	84.19	Austro-Asiatic	
-CarNicobarese	Car Nicobarese	carn1240	caq	9.19	92.77	Austro-Asiatic	
-Sanenyo	Sanenyo					Austro-Asiatic	Not mentioned either in Glottolog or Ethnologue.
-Luro	Luro					Austro-Asiatic	Not mentioned either in Glottolog or Ethnologue.
-Kannada	Kannada	nucl1305	kan	13.59	76.12	Dravidian	
-Toda	Toda	toda1252	tcx	11.42	77.02	Dravidian	
-Gondi	Gondi	nort2702	gno	18.16	81.38	Dravidian	
-Kota	Kota	kota1263	kfe	11.5	76.94	Dravidian	
-Kodagu	Kodagu/Kodava	koda1255	kfa	12.24	75.92	Dravidian	
-Tamil	Tamil	tami1289	tam	10.52	78.83	Dravidian	
-Malayalam	Malayalam	mala1464	mal	9.59	76.77	Dravidian	
-Telugu	Telugu	telu1262	tel	16.45	78.7	Dravidian	
-Kurukh	Kurukh	kuru1301	kru	24.46	86.47	Dravidian	
-Badaga	Badaga	bada1257	bfq	11.31	76.6	Dravidian	
-Kulvi	Kulvi/Kullui	kull1236	kfx	31.83	77.38	Indo-Aryan	
-Gaddi	Gaddi	gadd1242	gbk	32.36	76.57	Indo-Aryan	
-Kumaoni	Kumaoni	kuma1273	kfy	29.56	80.02	Indo-Aryan	
-Garhwali	Garhwali	garh1243	gbm	30.51	78.72	Indo-Aryan	
-Dogri	Dogri	dogr1250	dgo	32.55	75.71	Indo-Aryan	
-Konkani	Konkani	goan1235	gom	15.27	74.21	Indo-Aryan	
-Nepali	Nepali	nepa1254	npi	28	85	Indo-Aryan	
-Kudmali	Kudmali	kudm1238	kyw	25.92	87.33	Indo-Aryan	
-Bengali	Bengali	beng1280	ben	24	90	Indo-Aryan	
-Assamese	Assamese	assa1263	asm	26.09	91.29	Indo-Aryan	
-Marwari	Marwari	marw1260	rwr	27	75.07	Indo-Aryan	
-PakistaniPunjabi	Pakistani Punjabi		pnb			Indo-Aryan	Not mentioned in Glottolog
-IndianPunjabi	Indian Punjabi		pan			Indo-Aryan	Not mentioned in Glottolog
-Oriya	Oriya	adiv1239	ort	18.1	82.85	Indo-Aryan	
-Kashmiri	Kashmiri	kash1277	kas	34.17	74.33	Indo-Aryan	
-Marathi	Marathi	mara1378	mar	17.93	76.67	Indo-Aryan	
-Gujarati	Gujarati	guja1252	guj	22.69	71.1	Indo-Aryan	
-Sindhi	Sindhi	sind1272	snd	26	69	Indo-Aryan	
-Pahari	Pahari/Pothwari	paha1251	phr	33.64	73.81	Indo-Aryan	
-Nagpuri	Nagpuri					Indo-Aryan	Not mentioned either in Glottolog or Ethnologue.
-Wagdi	Wagdi	wagd1238	wbr	23.69	73.9	Indo-Aryan	
-Bajjika	Bajjika					Indo-Aryan	Not mentioned either in Glottolog or Ethnologue.
-Sanskrit	Sanskrit	sans1269	san	20	77	Indo-Aryan	
-Panchparganiya	Panchparganiya	panc1246	tdb	23.45	85.8	Indo-Aryan	
-Sylheti	Sylheti	sylh1242	syl	24.84	92.25	Indo-Aryan	
-Urdu	Urdu	urdu1245	urd	25	67	Indo-Aryan	
-Halbi	Halbi	halb1244	hlb	20.31	81.37	Indo-Aryan	
-Khortha	Khortha					Indo-Aryan	Not mentioned either in Glottolog or Ethnologue.
-Sinhala	Sinhala	sinh1246	sin	8	81	Indo-Aryan	
-Palula	Palula	phal1254	phl	35.51	71.84	Indo-Aryan	
-Rohingya	Rohingya	rohi1238	rhg	20.83	92.39	Indo-Aryan	
-Rajbongshi	Rajbongshi	rajb1243	rjs	26.52	88.04	Indo-Aryan	
-TaiKhamti	Tai-Khamti	kham1290	kht	27.67	97.04	Tai-Kadai	
-Onge	Onge		oon			Ongan	Not mentioned in Glottolog.
-Jarawa	Jarawa	jara1245	anq	11.61	92.66	Ongan	
-GreatAndamanese	Great Andamanese		gac			Great Andamanese	
-Nihali	Nihali	niha1238	nll	21.19	76.33	Language Isolate	
-Burushaski	Burushaski	buru1296	bsk	36.22	74.82	Language Isolate	
+ID	Name	Glottocode	ISO-639-3	Latitude	Longitude	Language Family
+Spiti	Spiti	spit1240	spt	32.53	77.83	Sino-Tibetan
+Ladakhi	Ladakhi	lada1244	lbj	33.47	80.6	Sino-Tibetan
+Khoibu	Khoibu	khoi1251	nkb	24.2	94.13	Sino-Tibetan
+Ao	Ao	aona1235	njo	26.32	94.38	Sino-Tibetan
+Adi	Adi	bori1243	adi	27.63	94.35	Sino-Tibetan
+Bodo	Bodo	bodo1269	brx	26.1	92	Sino-Tibetan
+Meiteilon	Meiteilon	meit1246	mni			Sino-Tibetan
+Thangal	Thangal	than1255	nki	25.35	93.84	Sino-Tibetan
+Tangkhul	Tangkhul	tang1336	nmf	25.05	94.36	Sino-Tibetan
+Tinkarlo	Tinkar lo					Sino-Tibetan
+Lotha	Lotha	loth1237	njh	26.01	94.04	Sino-Tibetan
+Rongmei	Rongmei	rong1266	nbu	25.1	93.79	Sino-Tibetan
+Angami	Angami	anga1288	njm	25.68	93.87	Sino-Tibetan
+Jad	Jad	jadd1243	jda	30.24	79.15	Sino-Tibetan
+Bhoti	Bhoti	stod1241	sbu	32.5	77.12	Sino-Tibetan
+Thadou	Thadou/Thado	thad1238	tcz	24.1	93.72	Sino-Tibetan
+Mao	Mao	maon1238	nbi	25.38	94	Sino-Tibetan
+Hajong	Hajong	hajo1238	haj	25.51	89.86	Indo-Aryan
+Ho	Ho	hooo1248	hoc	23.96	87.12	Austro-Asiatic
+Kharia	Kharia	khar1287	khr	22.36	84.39	Austro-Asiatic
+Khasi	Khasi	khas1269	kha	24.98	92	Austro-Asiatic
+Pnar	Pnar	pnar1238	pbv	24.82	92.26	Austro-Asiatic
+Santali	Santali	sant1410	sat	25.03	87.82	Austro-Asiatic
+Mundari	Mundari	mund1320	unr	23.03	85.85	Austro-Asiatic
+Korku	Korku	kork1243	kfq	21.84	77.55	Austro-Asiatic
+Sora	Sora	sora1254	srb	19.12	84.19	Austro-Asiatic
+CarNicobarese	Car Nicobarese	carn1240	caq	9.19	92.77	Austro-Asiatic
+Sanenyo	Sanenyo					Austro-Asiatic
+Luro	Luro					Austro-Asiatic
+Kannada	Kannada	nucl1305	kan	13.59	76.12	Dravidian
+Toda	Toda	toda1252	tcx	11.42	77.02	Dravidian
+Gondi	Gondi	nort2702	gno	18.16	81.38	Dravidian
+Kota	Kota	kota1263	kfe	11.5	76.94	Dravidian
+Kodagu	Kodagu/Kodava	koda1255	kfa	12.24	75.92	Dravidian
+Tamil	Tamil	tami1289	tam	10.52	78.83	Dravidian
+Malayalam	Malayalam	mala1464	mal	9.59	76.77	Dravidian
+Telugu	Telugu	telu1262	tel	16.45	78.7	Dravidian
+Kurukh	Kurukh	kuru1301	kru	24.46	86.47	Dravidian
+Badaga	Badaga	bada1257	bfq	11.31	76.6	Dravidian
+Kulvi	Kulvi/Kullui	kull1236	kfx	31.83	77.38	Indo-Aryan
+Gaddi	Gaddi	gadd1242	gbk	32.36	76.57	Indo-Aryan
+Kumaoni	Kumaoni	kuma1273	kfy	29.56	80.02	Indo-Aryan
+Garhwali	Garhwali	garh1243	gbm	30.51	78.72	Indo-Aryan
+Dogri	Dogri	dogr1250	dgo	32.55	75.71	Indo-Aryan
+Konkani	Konkani	goan1235	gom	15.27	74.21	Indo-Aryan
+Nepali	Nepali	nepa1254	npi	28	85	Indo-Aryan
+Kudmali	Kudmali	kudm1238	kyw	25.92	87.33	Indo-Aryan
+Bengali	Bengali	beng1280	ben	24	90	Indo-Aryan
+Assamese	Assamese	assa1263	asm	26.09	91.29	Indo-Aryan
+Marwari	Marwari	marw1260	rwr	27	75.07	Indo-Aryan
+PakistaniPunjabi	Pakistani Punjabi		pnb			Indo-Aryan
+IndianPunjabi	Indian Punjabi		pan			Indo-Aryan
+Oriya	Oriya	adiv1239	ort	18.1	82.85	Indo-Aryan
+Kashmiri	Kashmiri	kash1277	kas	34.17	74.33	Indo-Aryan
+Marathi	Marathi	mara1378	mar	17.93	76.67	Indo-Aryan
+Gujarati	Gujarati	guja1252	guj	22.69	71.1	Indo-Aryan
+Sindhi	Sindhi	sind1272	snd	26	69	Indo-Aryan
+Pahari	Pahari/Pothwari	paha1251	phr	33.64	73.81	Indo-Aryan
+Nagpuri	Nagpuri					Indo-Aryan
+Wagdi	Wagdi	wagd1238	wbr	23.69	73.9	Indo-Aryan
+Bajjika	Bajjika					Indo-Aryan
+Sanskrit	Sanskrit	sans1269	san	20	77	Indo-Aryan
+Panchparganiya	Panchparganiya	panc1246	tdb	23.45	85.8	Indo-Aryan
+Sylheti	Sylheti	sylh1242	syl	24.84	92.25	Indo-Aryan
+Urdu	Urdu	urdu1245	urd	25	67	Indo-Aryan
+Halbi	Halbi	halb1244	hlb	20.31	81.37	Indo-Aryan
+Khortha	Khortha					Indo-Aryan
+Sinhala	Sinhala	sinh1246	sin	8	81	Indo-Aryan
+Palula	Palula	phal1254	phl	35.51	71.84	Indo-Aryan
+Rohingya	Rohingya	rohi1238	rhg	20.83	92.39	Indo-Aryan
+Rajbongshi	Rajbongshi	rajb1243	rjs	26.52	88.04	Indo-Aryan
+TaiKhamti	Tai-Khamti	kham1290	kht	27.67	97.04	Tai-Kadai
+Onge	Onge		oon			Ongan
+Jarawa	Jarawa	jara1245	anq	11.61	92.66	Ongan
+GreatAndamanese	Great Andamanese		gac			Great Andamanese
+Nihali	Nihali	niha1238	nll	21.19	76.33	Language Isolate
+Burushaski	Burushaski	buru1296	bsk	36.22	74.82	Language Isolate
