@@ -42,28 +42,29 @@ class Dataset(pylexibank.Dataset):
                     Name=concept["ENGLISH"],
                     Number=concept["NUMBER"],
                     #NumberValue=concept["NUMBER_VALUE"],
-                    #Concepticon_ID=concept["CONCEPTICON_ID"],
-                    #Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                     )
             concepts[concept["ENGLISH"]] = idx
         languages = args.writer.add_languages(lookup_factory="Name")
-        for row in self.raw_dir.read_csv("data.tsv", dicts=True,
+        errors = set()
+        for row in self.raw_dir.read_csv("cardinals.tsv", dicts=True,
                 delimiter="\t"):
             if row["Concept"] and row["Value"]:
-                args.writer.add_forms_from_value(
-                        Language_ID=languages[row["Language"]],
-                        Parameter_ID=concepts[row["Concept"]],
-                        Value=row["Value"],
-                        Source="",
-                        NumeralAnalysis=row["Analysis"],
-                        Comment=row["Comment"]
-                        )
-        # line only needed for plotting
-        for language in languages:
-            args.writer.add_forms_from_value(
-                    Language_ID=languages[language],
-                    Parameter_ID="52_five",
-                    Value="dummy"
-                    )
+                if row["Language"] not in languages:
+                    errors.add(("language", row["Language"]))
+                elif row["Concept"] not in concepts:
+                    errors.add(("concept", row["Concept"]))
+                else:
+                    args.writer.add_forms_from_value(
+                            Language_ID=languages[row["Language"]],
+                            Parameter_ID=concepts[row["Concept"]],
+                            Value=row["Value"],
+                            Source="",
+                            #NumeralAnalysis=row["Analysis"],
+                            #Comment=row["Comment"]
+                            )
+        for k, v in errors:
+            print(k, v)
 
 
