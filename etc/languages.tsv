@@ -1,78 +1,78 @@
-ID	Name	Glottocode	ISO-639-3	Latitude	Longitude	Language Family	Sources
-Spiti	Spiti	spit1240	spt	32.53	77.83	Sino-Tibetan	mephd2021
-Ladakhi	Ladakhi	lada1244	lbj	33.47	80.6	Sino-Tibetan	mephd2021
-Khoibu	Khoibu	khoi1251	nkb	24.2	94.13	Sino-Tibetan	mephd2021
-Ao	Ao	aona1235	njo	26.32	94.38	Sino-Tibetan	mephd2021
-Adi	Adi	bori1243	adi	27.63	94.35	Sino-Tibetan	mephd2021
-Bodo	Bodo	bodo1269	brx	26.1	92	Sino-Tibetan	mephd2021
-Meiteilon	Meiteilon	meit1246	mni			Sino-Tibetan	mephd2021
-Thangal	Thangal	than1255	nki	25.35	93.84	Sino-Tibetan	mephd2021
-Tangkhul	Tangkhul	tang1336	nmf	25.05	94.36	Sino-Tibetan	mephd2021
-Tinkarlo	Tinkar lo					Sino-Tibetan	mephd2021
-Lotha	Lotha	loth1237	njh	26.01	94.04	Sino-Tibetan	mephd2021
-Rongmei	Rongmei	rong1266	nbu	25.1	93.79	Sino-Tibetan	mephd2021
-Angami	Angami	anga1288	njm	25.68	93.87	Sino-Tibetan	mephd2021
-Jad	Jad	jadd1243	jda	30.24	79.15	Sino-Tibetan	mephd2021
-Bhoti	Bhoti	stod1241	sbu	32.5	77.12	Sino-Tibetan	mephd2021
-Thadou	Thadou/Thado	thad1238	tcz	24.1	93.72	Sino-Tibetan	mephd2021
-Mao	Mao	maon1238	nbi	25.38	94	Sino-Tibetan	mephd2021
-Hajong	Hajong	hajo1238	haj	25.51	89.86	Indo-Aryan	ager2018
-Ho	Ho	hooo1248	hoc	23.96	87.12	Austro-Asiatic	mephd2021
-Kharia	Kharia	khar1287	khr	22.36	84.39	Austro-Asiatic	mephd2021
-Khasi	Khasi	khas1269	kha	24.98	92	Austro-Asiatic	mephd2021
-Pnar	Pnar	pnar1238	pbv	24.82	92.26	Austro-Asiatic	mephd2021
-Santali	Santali	sant1410	sat	25.03	87.82	Austro-Asiatic	mephd2021
-Mundari	Mundari	mund1320	unr	23.03	85.85	Austro-Asiatic	mephd2021
-Korku	Korku	kork1243	kfq	21.84	77.55	Austro-Asiatic	mohan2012numeral
-Sora	Sora	sora1254	srb	19.12	84.19	Austro-Asiatic	gregory2008munda
-CarNicobarese	Car Nicobarese	carn1240	caq	9.19	92.77	Austro-Asiatic	chan2018
-Sanenyo	Sanenyo					Austro-Asiatic	abbi2020grammar
-Luro	Luro					Austro-Asiatic	abbi2020aspects
-Kannada	Kannada	nucl1305	kan	13.59	76.12	Dravidian	mephd2021
-Toda	Toda	toda1252	tcx	11.42	77.02	Dravidian	mephd2021
-Gondi	Gondi	nort2702	gno	18.16	81.38	Dravidian	mephd2021
-Kota	Kota	kota1263	kfe	11.5	76.94	Dravidian	mephd2021
-Kodagu	Kodagu/Kodava	koda1255	kfa	12.24	75.92	Dravidian	mephd2021
-Tamil	Tamil	tami1289	tam	10.52	78.83	Dravidian	mephd2021
-Malayalam	Malayalam	mala1464	mal	9.59	76.77	Dravidian	mephd2021
-Telugu	Telugu	telu1262	tel	16.45	78.7	Dravidian	mephd2021
-Kurukh	Kurukh	kuru1301	kru	24.46	86.47	Dravidian	mephd2021
-Badaga	Badaga	bada1257	bfq	11.31	76.6	Dravidian	mephd2021
-Kulvi	Kulvi/Kullui	kull1236	kfx	31.83	77.38	Indo-Aryan	mephd2021
-Gaddi	Gaddi	gadd1242	gbk	32.36	76.57	Indo-Aryan	mephd2021
-Kumaoni	Kumaoni	kuma1273	kfy	29.56	80.02	Indo-Aryan	mephd2021
-Garhwali	Garhwali	garh1243	gbm	30.51	78.72	Indo-Aryan	mephd2021
-Dogri	Dogri	dogr1250	dgo	32.55	75.71	Indo-Aryan	mephd2021
-Konkani	Konkani	goan1235	gom	15.27	74.21	Indo-Aryan	mephd2021
-Nepali	Nepali	nepa1254	npi	28	85	Indo-Aryan	mephd2021
-Kudmali	Kudmali	kudm1238	kyw	25.92	87.33	Indo-Aryan	mephd2021
-Bengali	Bengali	beng1280	ben	24	90	Indo-Aryan	mephd2021
-Assamese	Assamese	assa1263	asm	26.09	91.29	Indo-Aryan	mephd2021
-Marwari	Marwari	marw1260	rwr	27	75.07	Indo-Aryan	mephd2021
-PakistaniPunjabi	Pakistani Punjabi		pnb			Indo-Aryan	mephd2021
-IndianPunjabi	Indian Punjabi		pan			Indo-Aryan	mephd2021
-Oriya	Oriya	adiv1239	ort	18.1	82.85	Indo-Aryan	mephd2021
-Kashmiri	Kashmiri	kash1277	kas	34.17	74.33	Indo-Aryan	mephd2021
-Marathi	Marathi	mara1378	mar	17.93	76.67	Indo-Aryan	mephd2021
-Gujarati	Gujarati	guja1252	guj	22.69	71.1	Indo-Aryan	mephd2021
-Sindhi	Sindhi	sind1272	snd	26	69	Indo-Aryan	mephd2021
-Pahari	Pahari/Pothwari	paha1251	phr	33.64	73.81	Indo-Aryan	mephd2021
-Nagpuri	Nagpuri					Indo-Aryan	mephd2021
-Wagdi	Wagdi	wagd1238	wbr	23.69	73.9	Indo-Aryan	mephd2021
-Bajjika	Bajjika					Indo-Aryan	mephd2021
-Sanskrit	Sanskrit	sans1269	san	20	77	Indo-Aryan	mephd2021
-Panchparganiya	Panchparganiya	panc1246	tdb	23.45	85.8	Indo-Aryan	mephd2021
-Sylheti	Sylheti	sylh1242	syl	24.84	92.25	Indo-Aryan	mephd2021
-Urdu	Urdu	urdu1245	urd	25	67	Indo-Aryan	mephd2021
-Halbi	Halbi	halb1244	hlb	20.31	81.37	Indo-Aryan	mephd2021
-Khortha	Khortha					Indo-Aryan	mephd2021
-Sinhala	Sinhala	sinh1246	sin	8	81	Indo-Aryan	ager2018
-Palula	Palula	phal1254	phl	35.51	71.84	Indo-Aryan	ager2018
-Rohingya	Rohingya	rohi1238	rhg	20.83	92.39	Indo-Aryan	ager2018
-Rajbongshi	Rajbongshi	rajb1243	rjs	26.52	88.04	Indo-Aryan	mephd2021
-TaiKhamti	Tai-Khamti	kham1290	kht	27.67	97.04	Tai-Kadai	mephd2021
-Onge	Onge		oon			Ongan	chan2018
-Jarawa	Jarawa	jara1245	anq	11.61	92.66	Ongan	chan2018
-GreatAndamanese	Great Andamanese		gac			Great Andamanese	chan2018
-Nihali	Nihali	niha1238	nll	21.19	76.33	Language Isolate	chan2018
-Burushaski	Burushaski	buru1296	bsk	36.22	74.82	Language Isolate	chan2018
+ID	Name	Glottocode	ISO-639-3	Latitude	Longitude	Language Family	Sources	Base
+Spiti	Spiti	spit1240	spt	32.53	77.83	Sino-Tibetan	mephd2021	Decimal
+Ladakhi	Ladakhi	lada1244	lbj	33.47	80.6	Sino-Tibetan	mephd2021	Decimal
+Khoibu	Khoibu	khoi1251	nkb	24.2	94.13	Sino-Tibetan	mephd2021	Decimal
+Ao	Ao	aona1235	njo	26.32	94.38	Sino-Tibetan	mephd2021	Decimal
+Adi	Adi	bori1243	adi	27.63	94.35	Sino-Tibetan	mephd2021	Decimal
+Bodo	Bodo	bodo1269	brx	26.1	92	Sino-Tibetan	mephd2021	Decimal
+Meiteilon	Meiteilon	meit1246	mni			Sino-Tibetan	mephd2021	Vigesimal
+Thangal	Thangal	than1255	nki	25.35	93.84	Sino-Tibetan	mephd2021	Decimal
+Tangkhul	Tangkhul	tang1336	nmf	25.05	94.36	Sino-Tibetan	mephd2021	Decimal
+Tinkarlo	Tinkar lo					Sino-Tibetan	mephd2021	Mixed
+Lotha	Lotha	loth1237	njh	26.01	94.04	Sino-Tibetan	mephd2021	Decimal
+Rongmei	Rongmei	rong1266	nbu	25.1	93.79	Sino-Tibetan	mephd2021	Decimal
+Angami	Angami	anga1288	njm	25.68	93.87	Sino-Tibetan	mephd2021	Decimal
+Jad	Jad	jadd1243	jda	30.24	79.15	Sino-Tibetan	mephd2021	Decimal
+Bhoti	Bhoti	stod1241	sbu	32.5	77.12	Sino-Tibetan	mephd2021	Decimal
+Thadou	Thadou/Thado	thad1238	tcz	24.1	93.72	Sino-Tibetan	mephd2021	Decimal
+Mao	Mao	maon1238	nbi	25.38	94	Sino-Tibetan	mephd2021	Decimal
+Hajong	Hajong	hajo1238	haj	25.51	89.86	Indo-Aryan	ager2018	Decimal
+Ho	Ho	hooo1248	hoc	23.96	87.12	Austro-Asiatic	mephd2021	Vigesimal
+Kharia	Kharia	khar1287	khr	22.36	84.39	Austro-Asiatic	mephd2021	Vigesimal
+Khasi	Khasi	khas1269	kha	24.98	92	Austro-Asiatic	mephd2021	Decimal
+Pnar	Pnar	pnar1238	pbv	24.82	92.26	Austro-Asiatic	mephd2021	Decimal
+Santali	Santali	sant1410	sat	25.03	87.82	Austro-Asiatic	mephd2021	Decimal
+Mundari	Mundari	mund1320	unr	23.03	85.85	Austro-Asiatic	mephd2021	Vigesimal
+Korku	Korku	kork1243	kfq	21.84	77.55	Austro-Asiatic	mohan2012numeral	Vigesimal
+Sora	Sora	sora1254	srb	19.12	84.19	Austro-Asiatic	gregory2008munda	Vigesimal
+CarNicobarese	Car Nicobarese	carn1240	caq	9.19	92.77	Austro-Asiatic	chan2018	Decimal
+Sanenyo	Sanenyo					Austro-Asiatic	abbi2020grammar	Decimal
+Luro	Luro					Austro-Asiatic	abbi2020aspects	Decimal
+Kannada	Kannada	nucl1305	kan	13.59	76.12	Dravidian	mephd2021	Decimal
+Toda	Toda	toda1252	tcx	11.42	77.02	Dravidian	mephd2021	Decimal
+Gondi	Gondi	nort2702	gno	18.16	81.38	Dravidian	mephd2021	Vigesimal
+Kota	Kota	kota1263	kfe	11.5	76.94	Dravidian	mephd2021	Decimal
+Kodagu	Kodagu/Kodava	koda1255	kfa	12.24	75.92	Dravidian	mephd2021	Decimal
+Tamil	Tamil	tami1289	tam	10.52	78.83	Dravidian	mephd2021	Decimal
+Malayalam	Malayalam	mala1464	mal	9.59	76.77	Dravidian	mephd2021	Decimal
+Telugu	Telugu	telu1262	tel	16.45	78.7	Dravidian	mephd2021	Decimal
+Kurukh	Kurukh	kuru1301	kru	24.46	86.47	Dravidian	mephd2021	Decimal
+Badaga	Badaga	bada1257	bfq	11.31	76.6	Dravidian	mephd2021	Decimal
+Kulvi	Kulvi/Kullui	kull1236	kfx	31.83	77.38	Indo-Aryan	mephd2021	Decimal
+Gaddi	Gaddi	gadd1242	gbk	32.36	76.57	Indo-Aryan	mephd2021	Decimal
+Kumaoni	Kumaoni	kuma1273	kfy	29.56	80.02	Indo-Aryan	mephd2021	Decimal
+Garhwali	Garhwali	garh1243	gbm	30.51	78.72	Indo-Aryan	mephd2021	Decimal
+Dogri	Dogri	dogr1250	dgo	32.55	75.71	Indo-Aryan	mephd2021	Decimal
+Konkani	Konkani	goan1235	gom	15.27	74.21	Indo-Aryan	mephd2021	Decimal
+Nepali	Nepali	nepa1254	npi	28	85	Indo-Aryan	mephd2021	Decimal
+Kudmali	Kudmali	kudm1238	kyw	25.92	87.33	Indo-Aryan	mephd2021	Decimal
+Bengali	Bengali	beng1280	ben	24	90	Indo-Aryan	mephd2021	Decimal
+Assamese	Assamese	assa1263	asm	26.09	91.29	Indo-Aryan	mephd2021	Decimal
+Marwari	Marwari	marw1260	rwr	27	75.07	Indo-Aryan	mephd2021	Decimal
+PakistaniPunjabi	Pakistani Punjabi		pnb			Indo-Aryan	mephd2021	Decimal
+IndianPunjabi	Indian Punjabi		pan			Indo-Aryan	mephd2021	Decimal
+Oriya	Oriya	adiv1239	ort	18.1	82.85	Indo-Aryan	mephd2021	Decimal
+Kashmiri	Kashmiri	kash1277	kas	34.17	74.33	Indo-Aryan	mephd2021	Decimal
+Marathi	Marathi	mara1378	mar	17.93	76.67	Indo-Aryan	mephd2021	Decimal
+Gujarati	Gujarati	guja1252	guj	22.69	71.1	Indo-Aryan	mephd2021	Decimal
+Sindhi	Sindhi	sind1272	snd	26	69	Indo-Aryan	mephd2021	Decimal
+Pahari	Pahari/Pothwari	paha1251	phr	33.64	73.81	Indo-Aryan	mephd2021	Decimal
+Nagpuri	Nagpuri					Indo-Aryan	mephd2021	Decimal
+Wagdi	Wagdi	wagd1238	wbr	23.69	73.9	Indo-Aryan	mephd2021	Decimal
+Bajjika	Bajjika					Indo-Aryan	mephd2021	Decimal
+Sanskrit	Sanskrit	sans1269	san	20	77	Indo-Aryan	mephd2021	Decimal
+Panchparganiya	Panchparganiya	panc1246	tdb	23.45	85.8	Indo-Aryan	mephd2021	Decimal
+Sylheti	Sylheti	sylh1242	syl	24.84	92.25	Indo-Aryan	mephd2021	Decimal
+Urdu	Urdu	urdu1245	urd	25	67	Indo-Aryan	mephd2021	Decimal
+Halbi	Halbi	halb1244	hlb	20.31	81.37	Indo-Aryan	mephd2021	Vigesimal
+Khortha	Khortha					Indo-Aryan	mephd2021	Decimal
+Sinhala	Sinhala	sinh1246	sin	8	81	Indo-Aryan	ager2018	Decimal
+Palula	Palula	phal1254	phl	35.51	71.84	Indo-Aryan	ager2018	Vigesimal
+Rohingya	Rohingya	rohi1238	rhg	20.83	92.39	Indo-Aryan	ager2018	Decimal
+Rajbongshi	Rajbongshi	rajb1243	rjs	26.52	88.04	Indo-Aryan	mephd2021	Decimal
+TaiKhamti	Tai-Khamti	kham1290	kht	27.67	97.04	Tai-Kadai	mephd2021	Decimal
+Onge	Onge		oon			Ongan	chan2018	-
+Jarawa	Jarawa	jara1245	anq	11.61	92.66	Ongan	chan2018	-
+GreatAndamanese	Great Andamanese		gac			Great Andamanese	chan2018	-
+Nihali	Nihali	niha1238	nll	21.19	76.33	Language Isolate	chan2018	Decimal
+Burushaski	Burushaski	buru1296	bsk	36.22	74.82	Language Isolate	chan2018	Vigesimal
