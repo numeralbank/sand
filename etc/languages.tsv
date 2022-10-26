@@ -1,4 +1,4 @@
-ID	Name	Glottocode	ISO-639-3	Latitude	Longitude	Language Family	Sources	Base
+ID	Name	Glottocode	ISO639P3code	Latitude	Longitude	Family	Sources	Base
 Spiti	Spiti	spit1240	spt	32.53	77.83	Sino-Tibetan	mephd2021	Decimal
 Ladakhi	Ladakhi	lada1244	lbj	33.47	80.6	Sino-Tibetan	mephd2021	Decimal
 Khoibu	Khoibu	khoi1251	nkb	24.2	94.13	Sino-Tibetan	mephd2021	Decimal
@@ -8,7 +8,7 @@ Bodo	Bodo	bodo1269	brx	26.1	92	Sino-Tibetan	mephd2021	Decimal
 Meiteilon	Meiteilon	meit1246	mni			Sino-Tibetan	mephd2021	Vigesimal
 Thangal	Thangal	than1255	nki	25.35	93.84	Sino-Tibetan	mephd2021	Decimal
 Tangkhul	Tangkhul	tang1336	nmf	25.05	94.36	Sino-Tibetan	mephd2021	Decimal
-Tinkarlo	Tinkar lo					Sino-Tibetan	mephd2021	Mixed (Decimal-Vigesimal)
+Tinkarlo	Tinkar lo					Sino-Tibetan	mephd2021	Decimal-Vigesimal
 Lotha	Lotha	loth1237	njh	26.01	94.04	Sino-Tibetan	mephd2021	Decimal
 Rongmei	Rongmei	rong1266	nbu	25.1	93.79	Sino-Tibetan	mephd2021	Decimal
 Angami	Angami	anga1288	njm	25.68	93.87	Sino-Tibetan	mephd2021	Decimal
@@ -71,8 +71,8 @@ Palula	Palula	phal1254	phl	35.51	71.84	Indo-Aryan	ager2018	Vigesimal
 Rohingya	Rohingya	rohi1238	rhg	20.83	92.39	Indo-Aryan	ager2018	Decimal
 Rajbongshi	Rajbongshi	rajb1243	rjs	26.52	88.04	Indo-Aryan	mephd2021	Decimal
 TaiKhamti	Tai-Khamti	kham1290	kht	27.67	97.04	Tai-Kadai	mephd2021	Decimal
-Onge	Onge		oon			Ongan	chan2018	
-Jarawa	Jarawa	jara1245	anq	11.61	92.66	Ongan	chan2018	
-GreatAndamanese	Great Andamanese		gac			Great Andamanese	chan2018	
+Onge	Onge		oon			Ongan	chan2018	Restricted
+Jarawa	Jarawa	jara1245	anq	11.61	92.66	Ongan	chan2018	Restricted
+GreatAndamanese	Great Andamanese		gac			Great Andamanese	chan2018	Restricted
 Nihali	Nihali	niha1238	nll	21.19	76.33	Language Isolate	chan2018	Decimal
 Burushaski	Burushaski	buru1296	bsk	36.22	74.82	Language Isolate	chan2018	Vigesimal

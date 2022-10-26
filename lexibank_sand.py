@@ -15,6 +15,8 @@ class CustomConcept(pylexibank.Concept):
 class CustomLanguage(pylexibank.Language):
     Family = attr.ib(default=None)
     Comment = attr.ib(default=None)
+    Base = attr.ib(default=None)
+    Sources = attr.ib(default=None)
 
 
 

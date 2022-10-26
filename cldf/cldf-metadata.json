@@ -7,13 +7,14 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Mamta's \"Numeral Systems of Five Tibeto-Burman Languages\" from 2020",
     "dcat:accessURL": "https://github.com/numeralbank/sand",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "368a2e6",
+            "dc:created": "892aeda",
             "dc:title": "Repository"
         },
         {
@@ -57,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 7755,
+            "dc:extent": 7021,
             "tableSchema": {
                 "columns": [
                     {
@@ -164,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 77,
+            "dc:extent": 70,
             "tableSchema": {
                 "columns": [
                     {
@@ -180,7 +181,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -224,6 +225,14 @@
                     {
                         "datatype": "string",
                         "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Base"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Sources"
                     }
                 ],
                 "primaryKey": [
@@ -250,7 +259,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "name": "Concepticon_ID"
                     },
                     {
