@@ -8,13 +8,13 @@ Bodo	Bodo	bodo1269	brx	26.1	92	Sino-Tibetan	mephd2021	Decimal
 Meiteilon	Meiteilon	meit1246	mni			Sino-Tibetan	mephd2021	Vigesimal
 Thangal	Thangal	than1255	nki	25.35	93.84	Sino-Tibetan	mephd2021	Decimal
 Tangkhul	Tangkhul	tang1336	nmf	25.05	94.36	Sino-Tibetan	mephd2021	Decimal
-Tinkarlo	Tinkar lo					Sino-Tibetan	mephd2021	Decimal-Vigesimal
+Tinkarlo	Tinkarlo					Sino-Tibetan	mephd2021	Decimal-Vigesimal
 Lotha	Lotha	loth1237	njh	26.01	94.04	Sino-Tibetan	mephd2021	Decimal
 Rongmei	Rongmei	rong1266	nbu	25.1	93.79	Sino-Tibetan	mephd2021	Decimal
 Angami	Angami	anga1288	njm	25.68	93.87	Sino-Tibetan	mephd2021	Decimal
 Jad	Jad	jadd1243	jda	30.24	79.15	Sino-Tibetan	mephd2021	Decimal
 Bhoti	Bhoti	stod1241	sbu	32.5	77.12	Sino-Tibetan	mephd2021	Decimal
-Thadou	Thadou/Thado	thad1238	tcz	24.1	93.72	Sino-Tibetan	mephd2021	Decimal
+Thadou	Thadou	thad1238	tcz	24.1	93.72	Sino-Tibetan	mephd2021	Decimal
 Mao	Mao	maon1238	nbi	25.38	94	Sino-Tibetan	mephd2021	Decimal
 Hajong	Hajong	hajo1238	haj	25.51	89.86	Indo-Aryan	ager2018	Decimal
 Ho	Ho	hooo1248	hoc	23.96	87.12	Austro-Asiatic	mephd2021	Vigesimal
@@ -32,13 +32,13 @@ Kannada	Kannada	nucl1305	kan	13.59	76.12	Dravidian	mephd2021	Decimal
 Toda	Toda	toda1252	tcx	11.42	77.02	Dravidian	mephd2021	Decimal
 Gondi	Gondi	nort2702	gno	18.16	81.38	Dravidian	mephd2021	Vigesimal
 Kota	Kota	kota1263	kfe	11.5	76.94	Dravidian	mephd2021	Decimal
-Kodagu	Kodagu/Kodava	koda1255	kfa	12.24	75.92	Dravidian	mephd2021	Decimal
+Kodagu	Kodagu	koda1255	kfa	12.24	75.92	Dravidian	mephd2021	Decimal
 Tamil	Tamil	tami1289	tam	10.52	78.83	Dravidian	mephd2021	Decimal
 Malayalam	Malayalam	mala1464	mal	9.59	76.77	Dravidian	mephd2021	Decimal
 Telugu	Telugu	telu1262	tel	16.45	78.7	Dravidian	mephd2021	Decimal
 Kurukh	Kurukh	kuru1301	kru	24.46	86.47	Dravidian	mephd2021	Decimal
 Badaga	Badaga	bada1257	bfq	11.31	76.6	Dravidian	mephd2021	Decimal
-Kulvi	Kulvi/Kullui	kull1236	kfx	31.83	77.38	Indo-Aryan	mephd2021	Decimal
+Kulvi	Kulvi	kull1236	kfx	31.83	77.38	Indo-Aryan	mephd2021	Decimal
 Gaddi	Gaddi	gadd1242	gbk	32.36	76.57	Indo-Aryan	mephd2021	Decimal
 Kumaoni	Kumaoni	kuma1273	kfy	29.56	80.02	Indo-Aryan	mephd2021	Decimal
 Garhwali	Garhwali	garh1243	gbm	30.51	78.72	Indo-Aryan	mephd2021	Decimal
@@ -49,14 +49,14 @@ Kudmali	Kudmali	kudm1238	kyw	25.92	87.33	Indo-Aryan	mephd2021	Decimal
 Bengali	Bengali	beng1280	ben	24	90	Indo-Aryan	mephd2021	Decimal
 Assamese	Assamese	assa1263	asm	26.09	91.29	Indo-Aryan	mephd2021	Decimal
 Marwari	Marwari	marw1260	rwr	27	75.07	Indo-Aryan	mephd2021	Decimal
-PakistaniPunjabi	Pakistani Punjabi		pnb			Indo-Aryan	mephd2021	Decimal
-IndianPunjabi	Indian Punjabi		pan			Indo-Aryan	mephd2021	Decimal
+PakistaniPunjabi	PakistaniPunjabi		pnb			Indo-Aryan	mephd2021	Decimal
+IndianPunjabi	IndianPunjabi		pan			Indo-Aryan	mephd2021	Decimal
 Oriya	Oriya	adiv1239	ort	18.1	82.85	Indo-Aryan	mephd2021	Decimal
 Kashmiri	Kashmiri	kash1277	kas	34.17	74.33	Indo-Aryan	mephd2021	Decimal
 Marathi	Marathi	mara1378	mar	17.93	76.67	Indo-Aryan	mephd2021	Decimal
 Gujarati	Gujarati	guja1252	guj	22.69	71.1	Indo-Aryan	mephd2021	Decimal
 Sindhi	Sindhi	sind1272	snd	26	69	Indo-Aryan	mephd2021	Decimal
-Pahari	Pahari/Pothwari	paha1251	phr	33.64	73.81	Indo-Aryan	mephd2021	Decimal
+Pahari	Pahari	paha1251	phr	33.64	73.81	Indo-Aryan	mephd2021	Decimal
 Nagpuri	Nagpuri					Indo-Aryan	mephd2021	Decimal
 Wagdi	Wagdi	wagd1238	wbr	23.69	73.9	Indo-Aryan	mephd2021	Decimal
 Bajjika	Bajjika					Indo-Aryan	mephd2021	Decimal
