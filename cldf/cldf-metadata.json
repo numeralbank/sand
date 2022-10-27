@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "892aeda",
+            "dc:created": "76df4a7",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 7021,
+            "dc:extent": 7753,
             "tableSchema": {
                 "columns": [
                     {
@@ -165,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 70,
+            "dc:extent": 77,
             "tableSchema": {
                 "columns": [
                     {

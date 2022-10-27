@@ -17,27 +17,27 @@ Available online at https://github.com/numeralbank/mamtatbfive
 ## Statistics
 
 
-![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
+![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 52%](https://img.shields.io/badge/BIPA-52%25-red.svg "BIPA: 52%")
-![CLTS SoundClass: 52%](https://img.shields.io/badge/CLTS%20SoundClass-52%25-red.svg "CLTS SoundClass: 52%")
+![BIPA: 51%](https://img.shields.io/badge/BIPA-51%25-red.svg "BIPA: 51%")
+![CLTS SoundClass: 51%](https://img.shields.io/badge/CLTS%20SoundClass-51%25-red.svg "CLTS SoundClass: 51%")
 
-- **Varieties:** 70
+- **Varieties:** 77
 - **Concepts:** 106
-- **Lexemes:** 7,021
+- **Lexemes:** 7,753
 - **Sources:** 0
-- **Synonymy:** 1.03
+- **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 61,676
-- **Segments:** 104 (50 BIPA errors, 50 CLTS sound class errors, 54 CLTS modified)
-- **Inventory size (avg):** 29.31
+- **Tokens:** 66,571
+- **Segments:** 106 (52 BIPA errors, 52 CLTS sound class errors, 54 CLTS modified)
+- **Inventory size (avg):** 29.68
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 7021/7021 (100.00%)
+- Entries missing sources: 7753/7753 (100.00%)
 
 # Contributors
 
