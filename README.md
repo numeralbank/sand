@@ -25,11 +25,11 @@ Available online at https://github.com/numeralbank/mamtatbfive
 
 - **Varieties:** 77
 - **Concepts:** 106
-- **Lexemes:** 7,753
+- **Lexemes:** 7,755
 - **Sources:** 0
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 66,571
+- **Tokens:** 66,575
 - **Segments:** 106 (52 BIPA errors, 52 CLTS sound class errors, 54 CLTS modified)
 - **Inventory size (avg):** 29.68
 
@@ -37,7 +37,7 @@ Available online at https://github.com/numeralbank/mamtatbfive
 
 
 
-- Entries missing sources: 7753/7753 (100.00%)
+- Entries missing sources: 7755/7755 (100.00%)
 
 # Contributors
 
