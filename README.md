@@ -1,10 +1,10 @@
-# CLDF dataset derived from Mamta's "Numeral Systems of Five Tibeto-Burman Languages" from 2020
+# CLDF dataset derived from Mamta's "South Asian Numerals Database" from 2023
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > K. Mamta (2020): Numeral Systems of Five Tibeto-Burman Languages of India. Aligarh Journal of Linguistics. 10.2. 127-148.
+  > Mamta, K. (2023): South Asian Numerals Database (SAND). Leipzig: Max Planck Institute for Evolutionary Anthropology.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -12,7 +12,7 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at https://github.com/numeralbank/mamtatbfive
+Available online at https://github.com/numeralbank/sand
 
 ## Statistics
 

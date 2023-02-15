@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Mamta's \"Numeral Systems of Five Tibeto-Burman Languages\" from 2020",
+    "title": "CLDF dataset derived from Mamta's \"South Asian Numerals Database\" from 2023",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -22,7 +22,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>K. Mamta (2020): Numeral Systems of Five Tibeto-Burman Languages of India. Aligarh Journal of Linguistics. 10.2. 127-148.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Mamta, K. (2023): South Asian Numerals Database (SAND). Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

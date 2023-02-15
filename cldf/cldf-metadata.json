@@ -1,32 +1,32 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "K. Mamta (2020): Numeral Systems of Five Tibeto-Burman Languages of India. Aligarh Journal of Linguistics. 10.2. 127-148.",
+    "dc:bibliographicCitation": "Mamta, K. (2023): South Asian Numerals Database (SAND). Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:identifier": "https://github.com/numeralbank/mamtatbfive",
+    "dc:identifier": "https://github.com/numeralbank/sand",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Mamta's \"Numeral Systems of Five Tibeto-Burman Languages\" from 2020",
+    "dc:title": "CLDF dataset derived from Mamta's \"South Asian Numerals Database\" from 2023",
     "dcat:accessURL": "https://github.com/numeralbank/sand",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "820c1b3",
+            "dc:created": "3b35405",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
+            "dc:created": "v3.0.0",
             "dc:title": "Concepticon"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.10.9"
         },
         {
             "dc:title": "python-packages",
@@ -52,9 +52,6 @@
     ],
     "rdf:ID": "sand",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
