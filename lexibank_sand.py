@@ -35,6 +35,8 @@ class Dataset(pylexibank.Dataset):
     def cmd_makecldf(self, args):
         args.writer.add_sources()
         concepts = {}
+        errors = set()
+
         for concept in self.concepts:
             idx = concept["NUMBER"] + "_" + slug(concept["ENGLISH"])
             args.writer.add_concept(
@@ -45,8 +47,10 @@ class Dataset(pylexibank.Dataset):
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
             )
             concepts[concept["ENGLISH"]] = idx
+
         languages = args.writer.add_languages(lookup_factory="Name")
-        errors = set()
+        source_map = {r['ID']: r['Sources'] for r in self.etc_dir.read_csv('languages.tsv', dicts=True, delimiter='\t')}
+
         for row in self.raw_dir.read_csv("cardinals.tsv", dicts=True, delimiter="\t"):
             if row["Concept"] and row["Value"]:
                 if row["Language"] not in languages:
@@ -58,7 +62,7 @@ class Dataset(pylexibank.Dataset):
                         Language_ID=languages[row["Language"]],
                         Parameter_ID=concepts[row["Concept"]],
                         Value=row["Value"],
-                        Source="",
+                        Source=source_map.get(row["Language"], ""),
                     )
         for k, v in errors:
             print(k, v)
