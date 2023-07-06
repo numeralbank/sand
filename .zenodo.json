@@ -7,12 +7,16 @@
     ],
     "creators": [
         {
-            "name": "K. Mamta"
+            "name": "Mamta Kumari"
         }
     ],
     "contributors": [
         {
             "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
             "type": "Other"
         }
     ],
