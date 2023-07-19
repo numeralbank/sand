@@ -42,12 +42,12 @@ class Dataset(pylexibank.Dataset):
             idx = concept["ID"] + "_" + slug(concept["ENGLISH"])
             args.writer.add_concept(
                 ID=idx,
-                Name=concept["ENGLISH"],
+                Name=concept["ENGLISH"].lower(),
                 Number=concept["ID"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
             )
-            concepts[concept["ENGLISH"]] = idx
+            concepts[concept["ENGLISH"].lower()] = idx
 
         languages = args.writer.add_languages(lookup_factory="ID")
         source_map = {r['ID']: r['Sources'] for r in self.etc_dir.read_csv('languages.tsv', dicts=True, delimiter='\t')}
@@ -56,12 +56,12 @@ class Dataset(pylexibank.Dataset):
             if row["Concept"] and row["Value"]:
                 if row["Language"] not in languages:
                     language_errors.add(("language", row["Language"]))
-                elif row["Concept"] not in concepts:
+                elif row["Concept"].lower() not in concepts:
                     concept_errors.add(("concept", row["Concept"]))
                 else:
                     args.writer.add_forms_from_value(
                         Language_ID=languages[row["Language"]],
-                        Parameter_ID=concepts[row["Concept"]],
+                        Parameter_ID=concepts[row["Concept"].lower()],
                         Value=row["Value"],
                         Source=source_map.get(row["Language"], ""),
                     )
