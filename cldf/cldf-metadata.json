@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "8b436c2",
+            "dc:created": "64b2d41",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 11319,
+            "dc:extent": 11627,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 113,
+            "dc:extent": 116,
             "tableSchema": {
                 "columns": [
                     {

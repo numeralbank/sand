@@ -11,6 +11,7 @@ Thangal,Thangal,than1255,Thangal Naga,nki,Eurasia,25.35,93.84,Sino-Tibetan,,Deci
 Tangkhul,Tangkhul,tang1336,East-Central Tangkhul Naga,nmf,Eurasia,25.05,94.36,Sino-Tibetan,,Decimal,mephd2021
 Tinkarlo,Tinkar lo,byan1241,Byangsi,,Eurasia,29.9002,80.63,Sino-Tibetan,,Mixed,mephd2021
 Lotha_1,Lotha_1,loth1237,Lotha Naga,njh,Eurasia,26.01,94.04,Sino-Tibetan,,Decimal,mephd2021
+Lotha_2,Lotha_2,loth1237,Lotha Naga,njh,Eurasia,26.01,94.04,Sino-Tibetan,,,FW2023
 Rongmei,Rongmei,rong1266,Rongmei Naga,nbu,Eurasia,25.1,93.79,Sino-Tibetan,,Decimal,mephd2021
 Angami,Angami,anga1288,Angami Naga,njm,Eurasia,25.68,93.87,Sino-Tibetan,,Decimal,mephd2021
 Jad,Jad,jadd1243,Jad,jda,Eurasia,30.24,79.15,Sino-Tibetan,,Decimal,mephd2021
@@ -20,7 +21,7 @@ Mao,Mao,maon1238,Mao Naga,nbi,Eurasia,25.38,94,Sino-Tibetan,,Decimal,mephd2021
 Hajong,Hajong,hajo1238,Hajong,haj,Eurasia,25.51,89.86,Indo-Aryan,,Decimal,ager2018
 Ho,Ho,hooo1248,Ho,hoc,Eurasia,23.96,87.12,Austro-Asiatic,,Vigesimal,mephd2021
 Kharia,Kharia,khar1287,Kharia,khr,Eurasia,22.36,84.39,Austro-Asiatic,,Vigesimal,mephd2021
-Khasi,Khasi,khas1269,Khasi,kha,Eurasia,24.98,92,Austro-Asiatic,,Decimal,mephd2021
+Khasi,Khasi,khas1269,Khasi,kha,Eurasia,24.98,92.00,Austro-Asiatic,,Decimal,mephd2021
 Pnar,Pnar,pnar1238,Pnar,pbv,Eurasia,24.82,92.26,Austro-Asiatic,,Decimal,mephd2021
 Santali,Santali,sant1410,Santali,sat,Eurasia,25.03,87.82,Austro-Asiatic,,Decimal,mephd2021
 Mundari,Mundari,mund1320,Mundari,unr,Eurasia,23.03,85.85,Austro-Asiatic,,Vigesimal,mephd2021
@@ -93,8 +94,10 @@ Galo,Galo,galo1242,Galo,adl,Eurasia,27.98,94.69,Tibeto-Burman,,,FW2023
 HawaNocte,Hawa Nocte,noct1238,Nocte Naga,njb,Eurasia,27.15,95.39,Tibeto-Burman,,,FW2023
 IduMishmi,Idu Mishmi,idum1241,Idu,clk,Eurasia,29.45,95.65,Tibeto-Burman,,,FW2023
 KamanMishmi,Kaman Mishmi,miju1243,Kman,,Eurasia,28.47,97.04,Tibeto-Burman,,,FW2023
+Koro_aka,Koro aka,koro1316,Koro,jkr,Eurasia,27.21,92.63,Tibeto-Burman,,,FW2023
 PadamAdi,Padam Adi,pada1257,Padam,,Eurasia,28.25,95.37,Tibeto-Burman,,,FW2023
 TaraonMishmi,Taraon Mishmi,diga1241,Tawra,mhu,Eurasia,28.5,96.88,Tibeto-Burman,,,FW2023
+TikhakTangsa,Tikhak Tangsa,tikh1243,Tikhakic,,Eurasia,27.38,96.02,Tibeto-Burman,,,FW2023
 Tsangla,Tshangla,tsha1245,Tshangla,tsj,Eurasia,27.37,91.77,Tibeto-Burman,,,FW2023
 UpperWancho,Upper Wancho,wanc1238,Wancho Naga,nnp,Eurasia,26.26,94.89,Tibeto-Burman,,,FW2023
 Bantawa,Bantawa,bant1281,Bantawa,bap,Eurasia,27.12,87.05,Tibeto-Burman (Kiranti),,,FW2023

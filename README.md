@@ -26,15 +26,15 @@ Available online at https://github.com/numeralbank/sand
 ![BIPA: 45%](https://img.shields.io/badge/BIPA-45%25-red.svg "BIPA: 45%")
 ![CLTS SoundClass: 45%](https://img.shields.io/badge/CLTS%20SoundClass-45%25-red.svg "CLTS SoundClass: 45%")
 
-- **Varieties:** 113
+- **Varieties:** 116
 - **Concepts:** 102
-- **Lexemes:** 11,319
+- **Lexemes:** 11,627
 - **Sources:** 8
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 100,877
+- **Tokens:** 104,513
 - **Segments:** 119 (65 BIPA errors, 65 CLTS sound class errors, 54 CLTS modified)
-- **Inventory size (avg):** 26.65
+- **Inventory size (avg):** 26.52
 
 # Contributors
 
