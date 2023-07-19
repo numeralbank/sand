@@ -2,14 +2,16 @@ ID	Name	Glottocode	ISO639P3code	Latitude	Longitude	Family	Sources	Base
 Spiti	Spiti	spit1240	spt	32.53	77.83	Sino-Tibetan	mephd2021	Decimal
 Ladakhi	Ladakhi	lada1244	lbj	33.47	80.6	Sino-Tibetan	mephd2021	Decimal
 Khoibu	Khoibu	khoi1251	nkb	24.2	94.13	Sino-Tibetan	mephd2021	Decimal
-Ao	Ao	aona1235	njo	26.32	94.38	Sino-Tibetan	mephd2021	Decimal
+Ao_1	Ao_1	aona1235	njo	26.32	94.38	Sino-Tibetan	mephd2021	Decimal
+Ao_2	Ao_2	aona1235	njo	26.32	94.38	Sino-Tibetan	FW2023	
 Adi	Adi	bori1243	adi	27.63	94.35	Sino-Tibetan	mephd2021	Decimal
 Bodo	Bodo	bodo1269	brx	26.1	92	Sino-Tibetan	mephd2021	Decimal
 Meiteilon	Meiteilon	meit1246	mni			Sino-Tibetan	mephd2021	Vigesimal
 Thangal	Thangal	than1255	nki	25.35	93.84	Sino-Tibetan	mephd2021	Decimal
 Tangkhul	Tangkhul	tang1336	nmf	25.05	94.36	Sino-Tibetan	mephd2021	Decimal
-Tinkarlo	Tinkar lo					Sino-Tibetan	mephd2021	Mixed
-Lotha	Lotha	loth1237	njh	26.01	94.04	Sino-Tibetan	mephd2021	Decimal
+Tinkarlo	Tinkar lo	byan1241		29.9002	80.63	Sino-Tibetan	mephd2021	Mixed
+Lotha_1	Lotha_1	loth1237	njh	26.01	94.04	Sino-Tibetan	mephd2021	Decimal
+Lotha_2	Lotha_2	loth1237	njh	26.01	94.04	Sino-Tibetan	FW2023	
 Rongmei	Rongmei	rong1266	nbu	25.1	93.79	Sino-Tibetan	mephd2021	Decimal
 Angami	Angami	anga1288	njm	25.68	93.87	Sino-Tibetan	mephd2021	Decimal
 Jad	Jad	jadd1243	jda	30.24	79.15	Sino-Tibetan	mephd2021	Decimal
@@ -65,12 +67,12 @@ Panchparganiya	Panchparganiya	panc1246	tdb	23.45	85.8	Indo-Aryan	mephd2021	Decim
 Sylheti	Sylheti	sylh1242	syl	24.84	92.25	Indo-Aryan	mephd2021	Decimal
 Urdu	Urdu	urdu1245	urd	25	67	Indo-Aryan	mephd2021	Decimal
 Halbi	Halbi	halb1244	hlb	20.31	81.37	Indo-Aryan	mephd2021	Vigesimal
-Khortha	Khortha					Indo-Aryan	mephd2021	Decimal
+Khortha	Khortha	maga1260		25.09	85.33	Indo-Aryan	mephd2021	Decimal
 Sinhala	Sinhala	sinh1246	sin	8	81	Indo-Aryan	ager2018	Decimal
 Palula	Palula	phal1254	phl	35.51	71.84	Indo-Aryan	ager2018	Vigesimal
 Rohingya	Rohingya	rohi1238	rhg	20.83	92.39	Indo-Aryan	ager2018	Decimal
 Rajbongshi	Rajbongshi	rajb1243	rjs	26.52	88.04	Indo-Aryan	mephd2021	Decimal
-TaiKhamti	Tai-Khamti	kham1290	kht	27.67	97.04	Tai-Kadai	mephd2021	Decimal
+TaiKhamti	TaiKhamti	kham1290	kht	27.67	97.04	Tai-Kadai	mephd2021	Decimal
 Onge	Onge	onge1236	oon	10.69	92.47	Ongan	chan2018	-
 Jarawa	Jarawa	jara1245	anq	11.61	92.66	Ongan	chan2018	-
 GreatAndamanese	Great Andamanese	grea1241	gac	11.67	92.74	Great Andamanese	chan2018	-
@@ -92,12 +94,12 @@ Apatani	Apatani	apat1240	apt	27.19	93.73	Tibeto-Burman	FW2023
 Galo	Galo	galo1242	adl	27.98	94.69	Tibeto-Burman	FW2023	
 HawaNocte	Hawa Nocte	noct1238	njb	27.15	95.39	Tibeto-Burman	FW2023	
 IduMishmi	Idu Mishmi	idum1241	clk	29.45	95.65	Tibeto-Burman	FW2023	
-KamanMijuMishmi	Kaman (Miju) Mishmi	miju1243		28.47	97.04	Tibeto-Burman	FW2023	
-Koroaka	Koro aka	koro1316	jkr	27.21	92.63	Tibeto-Burman	FW2023	
+KamanMishmi	Kaman Mishmi	miju1243		28.47	97.04	Tibeto-Burman	FW2023	
+Koro_aka	Koro aka	koro1316	jkr	27.21	92.63	Tibeto-Burman	FW2023	
 PadamAdi	Padam Adi	pada1257		28.25	95.37	Tibeto-Burman	FW2023	
 TaraonMishmi	Taraon Mishmi	diga1241	mhu	28.5	96.88	Tibeto-Burman	FW2023	
 TikhakTanga	Tikhak Tangsa	tikh1243		27.38	96.02	Tibeto-Burman	FW2023	
-TsanglaTshangla	tsha1245	tsj	27.37	91.77	Tibeto-Burman	FW2023	
+Tsangla	Tshangla	tsha1245	tsj	27.37	91.77	Tibeto-Burman	FW2023	
 UpperWancho	Upper Wancho	wanc1238	nnp	26.26	94.89	Tibeto-Burman	FW2023	
 Bantawa	Bantawa	bant1281	bap	27.12	87.05	Tibeto-Burman (Kiranti)	FW2023	
 Bayung	Bayung	bahi1252	bhj	27.33	86.39	Tibeto-Burman (Kiranti)	FW2023	

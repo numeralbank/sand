@@ -5,124 +5,124 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 9514 | ✓ | ✓ |
-| ə | 7820 | ✓ | ✓ |
-| i | 6792 | ✓ | ✓ |
-| u | 5657 | ✓ | ✓ |
-| s | 5241 | ✓ | ✓ |
-| ɑ | 5114 | ✓ | ✓ |
-| n | 4981 | ✓ | ✓ |
-| t | 4956 | ✓ | ✓ |
-| e | 4379 | ✓ | ✓ |
-| o | 4228 | ✓ | ✓ |
-| k | 4144 | ✓ | ✓ |
-| r | 3930 | ✓ | ✓ |
-| a | 3755 | ✓ | ✓ |
-| p | 3257 | ✓ | ✓ |
-| m | 3102 | ✓ | ✓ |
-| l | 2949 | ✓ | ✓ |
-| ŋ | 2211 | ✓ | ✓ |
-| <<ɘ>> | 2078 | ? | ? |
-| h | 2058 | ✓ | ✓ |
-| j | 1941 | ✓ | ✓ |
-| ɪ | 1714 | ✓ | ✓ |
-| b | 1645 | ✓ | ✓ |
-| c | 1595 | ✓ | ✓ |
-| d | 1254 | ✓ | ✓ |
-| g | 1211 | ✓ | ✓ |
-| <<ɹ>> | 1174 | ? | ? |
-| <<ʰ>> | 1173 | ? | ? |
-| ɛ | 824 | ✓ | ✓ |
-| ʋ | 799 | ✓ | ✓ |
-| <<ʌ>> | 755 | ? | ? |
-| z | 727 | ✓ | ✓ |
-| tʰ | 694 | ✓ | ✓ |
-| <<ʃ>> | 692 | ? | ? |
-| kʰ | 663 | ✓ | ✓ |
-| ɔ | 638 | ✓ | ✓ |
-| ɑː | 621 | ✓ | ✓ |
-| tː | 590 | ✓ | ✓ |
-| <<ʧ>> | 550 | ? | ? |
-| ʈʰ | 543 | ✓ | ✓ |
-| <<̃>> | 473 | ? | ? |
-| ɖ | 449 | ✓ | ✓ |
-| ɽ | 445 | ✓ | ✓ |
-| <<:>> | 415 | ? | ? |
-| ʊ | 414 | ✓ | ✓ |
-| <<ɲ>> | 359 | ? | ? |
-| y | 329 | ✓ | ✓ |
-| <<f>> | 327 | ? | ? |
-| <<́>> | 309 | ? | ? |
-| <<ɳ>> | 298 | ? | ? |
-| <<w>> | 284 | ? | ? |
-| ʈ | 263 | ✓ | ✓ |
-| <<ʦ>> | 240 | ? | ? |
-| <<ɟ>> | 208 | ? | ? |
-| <<ɨ>> | 205 | ? | ? |
-| nː | 185 | ✓ | ✓ |
-| bː | 164 | ✓ | ✓ |
-| ʈː | 153 | ✓ | ✓ |
-| <<̥>> | 139 | ? | ? |
-| dʰ | 136 | ✓ | ✓ |
-| v | 128 | ✓ | ✓ |
-| pː | 122 | ✓ | ✓ |
-| <<ʤ>> | 115 | ? | ? |
+| + | 7801 | ✓ | ✓ |
+| ə | 6760 | ✓ | ✓ |
+| i | 6145 | ✓ | ✓ |
+| u | 5166 | ✓ | ✓ |
+| n | 4659 | ✓ | ✓ |
+| s | 4597 | ✓ | ✓ |
+| t | 4492 | ✓ | ✓ |
+| ɑ | 4376 | ✓ | ✓ |
+| e | 3879 | ✓ | ✓ |
+| k | 3837 | ✓ | ✓ |
+| o | 3666 | ✓ | ✓ |
+| a | 3220 | ✓ | ✓ |
+| r | 3097 | ✓ | ✓ |
+| p | 3024 | ✓ | ✓ |
+| m | 2848 | ✓ | ✓ |
+| l | 2585 | ✓ | ✓ |
+| <<ɘ>> | 2057 | ? | ? |
+| ŋ | 1927 | ✓ | ✓ |
+| j | 1761 | ✓ | ✓ |
+| ɪ | 1750 | ✓ | ✓ |
+| h | 1596 | ✓ | ✓ |
+| b | 1470 | ✓ | ✓ |
+| c | 1462 | ✓ | ✓ |
+| g | 1310 | ✓ | ✓ |
+| <<ʰ>> | 1056 | ? | ? |
+| d | 1042 | ✓ | ✓ |
+| <<ɹ>> | 1035 | ? | ? |
+| ɛ | 779 | ✓ | ✓ |
+| ʋ | 721 | ✓ | ✓ |
+| tʰ | 662 | ✓ | ✓ |
+| <<ʌ>> | 628 | ? | ? |
+| kʰ | 603 | ✓ | ✓ |
+| <<ʃ>> | 602 | ? | ? |
+| tː | 591 | ✓ | ✓ |
+| ɑː | 574 | ✓ | ✓ |
+| ʈʰ | 514 | ✓ | ✓ |
+| ʊ | 441 | ✓ | ✓ |
+| ɔ | 440 | ✓ | ✓ |
+| <<̃>> | 415 | ? | ? |
+| ɽ | 413 | ✓ | ✓ |
+| <<:>> | 407 | ? | ? |
+| <<ʧ>> | 406 | ? | ? |
+| z | 383 | ✓ | ✓ |
+| ɖ | 377 | ✓ | ✓ |
+| y | 320 | ✓ | ✓ |
+| <<f>> | 314 | ? | ? |
+| <<́>> | 305 | ? | ? |
+| <<ɲ>> | 293 | ? | ? |
+| <<ɳ>> | 284 | ? | ? |
+| <<w>> | 274 | ? | ? |
+| ʈ | 239 | ✓ | ✓ |
+| <<ʦ>> | 210 | ? | ? |
+| <<ɨ>> | 191 | ? | ? |
+| nː | 178 | ✓ | ✓ |
+| <<ɟ>> | 166 | ? | ? |
+| bː | 166 | ✓ | ✓ |
+| ʈː | 136 | ✓ | ✓ |
+| <<̥>> | 116 | ? | ? |
+| pː | 116 | ✓ | ✓ |
 | <<?>> | 113 | ? | ? |
-| uː | 113 | ✓ | ✓ |
-| <<χ>> | 108 | ? | ? |
-| <<ɭ>> | 106 | ? | ? |
-| <<ú>> | 98 | ? | ? |
-| <<à>> | 89 | ? | ? |
+| dʰ | 105 | ✓ | ✓ |
+| <<ɭ>> | 100 | ? | ? |
+| v | 100 | ✓ | ✓ |
+| <<ú>> | 97 | ? | ? |
+| <<à>> | 88 | ? | ? |
+| <<χ>> | 86 | ? | ? |
 | <<ó>> | 82 | ? | ? |
-| <<ʒ>> | 78 | ? | ? |
-| <<'>> | 76 | ? | ? |
-| <<ʉ>> | 75 | ? | ? |
-| <<ĩ>> | 74 | ? | ? |
-| kː | 73 | ✓ | ✓ |
+| ẽ | 74 | ✓ | ✓ |
+| uː | 71 | ✓ | ✓ |
+| <<'>> | 70 | ? | ? |
+| <<ʉ>> | 70 | ? | ? |
+| <<ĩ>> | 69 | ? | ? |
 | <<í>> | 66 | ? | ? |
-| ẽ | 65 | ✓ | ✓ |
-| <<ɣ>> | 45 | ? | ? |
-| <<ʂ>> | 45 | ? | ? |
-| <<ã>> | 44 | ? | ? |
+| kː | 61 | ✓ | ✓ |
+| <<ʒ>> | 58 | ? | ? |
+| <<ɯ>> | 52 | ? | ? |
 | <<ɒ>> | 41 | ? | ? |
-| <<æ>> | 39 | ? | ? |
-| <<ʔ>> | 39 | ? | ? |
-| lː | 39 | ✓ | ✓ |
-| <<ɯ>> | 37 | ? | ? |
+| <<ɣ>> | 40 | ? | ? |
+| <<ʂ>> | 40 | ? | ? |
+| <<æ>> | 38 | ? | ? |
+| lː | 36 | ✓ | ✓ |
 | <<ñ>> | 33 | ? | ? |
-| <<θ>> | 33 | ? | ? |
-| <<ɕ>> | 24 | ? | ? |
-| <<õ>> | 23 | ? | ? |
-| iː | 23 | ✓ | ✓ |
+| <<ʔ>> | 32 | ? | ? |
+| <<ʤ>> | 32 | ? | ? |
+| <<θ>> | 30 | ? | ? |
+| <<ã>> | 26 | ? | ? |
+| <<ì>> | 23 | ? | ? |
 | <<ū>> | 22 | ? | ? |
-| <<ː>> | 21 | ? | ? |
+| <<̀>> | 22 | ? | ? |
 | <<ṭ>> | 21 | ? | ? |
-| <<̀>> | 20 | ? | ? |
+| iː | 21 | ✓ | ✓ |
+| <<ɕ>> | 20 | ? | ? |
 | <<̄>> | 20 | ? | ? |
+| <<õ>> | 19 | ? | ? |
 | <<ǝ>> | 16 | ? | ? |
-| ʃ | 15 | ✓ | ✓ |
-| <<x>> | 13 | ? | ? |
-| <<ì>> | 13 | ? | ? |
-| <<ũ>> | 13 | ? | ? |
-| mː | 13 | ✓ | ✓ |
-| dː | 12 | ✓ | ✓ |
-| zː | 12 | ✓ | ✓ |
-| <<͡>> | 11 | ? | ? |
-| <<͏>> | 6 | ? | ? |
-| '/ʔ | 4 | ✓ | ✓ |
-| <<G>> | 4 | ? | ? |
+| mː | 12 | ✓ | ✓ |
+| ʃ | 11 | ✓ | ✓ |
+| <<x>> | 10 | ? | ? |
+| <<ũ>> | 10 | ? | ? |
+| dː | 10 | ✓ | ✓ |
+| zː | 9 | ✓ | ✓ |
+| <<͡>> | 8 | ? | ? |
 | <<ā>> | 4 | ? | ? |
+| <<͏>> | 4 | ? | ? |
 | <<é>> | 3 | ? | ? |
 | <<ḷ>> | 3 | ? | ? |
-| <<I>> | 2 | ? | ? |
-| <<K>> | 2 | ? | ? |
-| <<á>> | 2 | ? | ? |
+| <<G>> | 2 | ? | ? |
 | <<ī>> | 2 | ? | ? |
+| <<ʲ>> | 2 | ? | ? |
 | <<̌>> | 2 | ? | ? |
-| <<ṣ>> | 2 | ? | ? |
+| '/ʔ | 1 | ✓ | ✓ |
+| <<I>> | 1 | ? | ? |
+| <<K>> | 1 | ? | ? |
+| <<á>> | 1 | ? | ? |
 | <<ð>> | 1 | ? | ? |
 | <<ć>> | 1 | ? | ? |
 | <<ǣ>> | 1 | ? | ? |
+| <<ʀ>> | 1 | ? | ? |
 | <<ʱ>> | 1 | ? | ? |
 
 (119 rows)
@@ -141,107 +141,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:----------------------------------------------|:-----------|:--------------------------------------|:------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
-| Spiti-118_nineteen-1 | Spiti | 118_nineteen | tʃurɡu | t <s> <<ʃ>> </s> u r g u |
-| Spiti-121_ninety-1 | Spiti | 121_ninety | ɡuptʃu | g u p t <s> <<ʃ>> </s> u |
-| Spiti-122_ninetyeight-1 | Spiti | 122_ninetyeight | ɡuptʃukjəbɡjɛ | g u p t <s> <<ʃ>> </s> u k j ə b g j ɛ |
-| Spiti-123_ninetyfive-1 | Spiti | 123_ninetyfive | ɡuptʃukɔŋã | g u p t <s> <<ʃ>> </s> u k ɔ ŋ <s> <<ã>> </s> |
-| Spiti-124_ninetyfour-1 | Spiti | 124_ninetyfour | ɡuptʃukɔdʒi | g u p t <s> <<ʃ>> </s> u k ɔ d <s> <<ʒ>> </s> i |
-| Spiti-125_ninetynine-1 | Spiti | 125_ninetynine | ɡuptʃukjərɡu | g u p t <s> <<ʃ>> </s> u k j ə r g u |
-| Spiti-126_ninetyone-1 | Spiti | 126_ninetyone | ɡuptʃukɔʃik | g u p t <s> <<ʃ>> </s> u k ɔ <s> <<ʃ>> </s> i k |
-| Spiti-127_ninetyseven-1 | Spiti | 127_ninetyseven | ɡuptʃukjəbdʉn | g u p t <s> <<ʃ>> </s> u k j ə b d <s> <<ʉ>> </s> n |
-| Spiti-128_ninetysix-1 | Spiti | 128_ninetysix | ɡuptʃukɛruk | g u p t <s> <<ʃ>> </s> u k ɛ r u k |
-| Spiti-129_ninetythree-1 | Spiti | 129_ninetythree | ɡuptʃukɔksum | g u p t <s> <<ʃ>> </s> u k ɔ k s u m |
-| Spiti-130_ninetytwo-1 | Spiti | 130_ninetytwo | ɡuptʃukɔnɨ | g u p t <s> <<ʃ>> </s> u k ɔ n <s> <<ɨ>> </s> |
-| Spiti-131_one-1 | Spiti | 131_one | tʃik | t <s> <<ʃ>> </s> i k |
-| Spiti-150_seven-1 | Spiti | 150_seven | dʉn | d <s> <<ʉ>> </s> n |
-| Spiti-151_seventeen-1 | Spiti | 151_seventeen | tʃupdʉn | t <s> <<ʃ>> </s> u p d <s> <<ʉ>> </s> n |
-| Spiti-155_seventhousandfourhundredtwentytwo-1 | Spiti | 155_seventhousandfourhundredtwentytwo | ɡjədʉnɟu_tʰʋindʒirəŋ_nɨʃusɛnɨ | g j ə d <s> <<ʉ>> </s> n <s> <<ɟ>> </s> u + tʰ ʋ i n d <s> <<ʒ>> </s> i r ə ŋ + n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɛ n <s> <<ɨ>> </s> |
-| Spiti-156_seventy-1 | Spiti | 156_seventy | dʉndzu | d <s> <<ʉ>> </s> n d z u |
-| Spiti-157_seventyeight-1 | Spiti | 157_seventyeight | dʉndzutɔbɡjɛ | d <s> <<ʉ>> </s> n d z u t ɔ b g j ɛ |
-| Spiti-158_seventyfive-1 | Spiti | 158_seventyfive | dʉndzutɛŋã | d <s> <<ʉ>> </s> n d z u t ɛ ŋ <s> <<ã>> </s> |
-| Spiti-159_seventyfour-1 | Spiti | 159_seventyfour | dʉndzutɔdʒi | d <s> <<ʉ>> </s> n d z u t ɔ d <s> <<ʒ>> </s> i |
-| Spiti-160_seventynine-1 | Spiti | 160_seventynine | dʉndzutərɡu | d <s> <<ʉ>> </s> n d z u t ə r g u |
-| Spiti-161_seventyone-1 | Spiti | 161_seventyone | dʉndzutaʃik | d <s> <<ʉ>> </s> n d z u t a <s> <<ʃ>> </s> i k |
-| Spiti-162_seventyseven-1 | Spiti | 162_seventyseven | dʉndzutɔbdʉn | d <s> <<ʉ>> </s> n d z u t ɔ b d <s> <<ʉ>> </s> n |
-| Spiti-163_seventysix-1 | Spiti | 163_seventysix | dʉndzutɛruk | d <s> <<ʉ>> </s> n d z u t ɛ r u k |
-| Spiti-164_seventythree-1 | Spiti | 164_seventythree | dʉndzutɔksum | d <s> <<ʉ>> </s> n d z u t ɔ k s u m |
-| Spiti-165_seventytwo-1 | Spiti | 165_seventytwo | dʉndzutanɨ | d <s> <<ʉ>> </s> n d z u t a n <s> <<ɨ>> </s> |
-| Spiti-170_sixteen-1 | Spiti | 170_sixteen | tʃʋiruk | t <s> <<ʃ>> </s> ʋ i r u k |
-| Spiti-177_sixty-1 | Spiti | 177_sixty | ʈʰruktʃu | ʈʰ r u k t <s> <<ʃ>> </s> u |
-| Spiti-178_sixtyeight-1 | Spiti | 178_sixtyeight | ʈʰruktʃurəbɡjɛ | ʈʰ r u k t <s> <<ʃ>> </s> u r ə b g j ɛ |
-| Spiti-179_sixtyfive-1 | Spiti | 179_sixtyfive | ʈʰruktʃurɛŋã | ʈʰ r u k t <s> <<ʃ>> </s> u r ɛ ŋ <s> <<ã>> </s> |
-| Spiti-17_eighteen-1 | Spiti | 17_eighteen | tʃupɡjɛ | t <s> <<ʃ>> </s> u p g j ɛ |
-| Spiti-180_sixtyfour-1 | Spiti | 180_sixtyfour | ʈʰruktʃurəʋdʒi | ʈʰ r u k t <s> <<ʃ>> </s> u r ə ʋ d <s> <<ʒ>> </s> i |
-| Spiti-181_sixtynine-1 | Spiti | 181_sixtynine | ʈʰruktʃurərɡu | ʈʰ r u k t <s> <<ʃ>> </s> u r ə r g u |
-| Spiti-182_sixtyone-1 | Spiti | 182_sixtyone | ʈʰruktʃurɛʃik | ʈʰ r u k t <s> <<ʃ>> </s> u r ɛ <s> <<ʃ>> </s> i k |
-| Spiti-183_sixtyseven-1 | Spiti | 183_sixtyseven | ʈʰruktʃurəbdʉn | ʈʰ r u k t <s> <<ʃ>> </s> u r ə b d <s> <<ʉ>> </s> n |
-| Spiti-184_sixtysix-1 | Spiti | 184_sixtysix | ʈʰruktʃurɛruk | ʈʰ r u k t <s> <<ʃ>> </s> u r ɛ r u k |
-| Spiti-185_sixtythree-1 | Spiti | 185_sixtythree | ʈʰruktʃurəksum | ʈʰ r u k t <s> <<ʃ>> </s> u r ə k s u m |
-| Spiti-186_sixtytwo-1 | Spiti | 186_sixtytwo | ʈʰruktʃurɛnɨ | ʈʰ r u k t <s> <<ʃ>> </s> u r ɛ n <s> <<ɨ>> </s> |
-| Spiti-187_ten-1 | Spiti | 187_ten | tʃu | t <s> <<ʃ>> </s> u |
-| Spiti-194_thirteen-1 | Spiti | 194_thirteen | tʃuksum | t <s> <<ʃ>> </s> u k s u m |
-| Spiti-198_thirtyfive-1 | Spiti | 198_thirtyfive | sumdzusɛŋã | s u m d z u s ɛ ŋ <s> <<ã>> </s> |
-| Spiti-199_thirtyfour-1 | Spiti | 199_thirtyfour | sumdzusɔdʒi | s u m d z u s ɔ d <s> <<ʒ>> </s> i |
-| Spiti-201_thirtyone-1 | Spiti | 201_thirtyone | sumdzusɔʃik | s u m d z u s ɔ <s> <<ʃ>> </s> i k |
-| Spiti-202_thirtyseven-1 | Spiti | 202_thirtyseven | sumdzusɔbdʉn | s u m d z u s ɔ b d <s> <<ʉ>> </s> n |
-| Spiti-205_thirtytwo-1 | Spiti | 205_thirtytwo | sumdzusɛnɨ | s u m d z u s ɛ n <s> <<ɨ>> </s> |
-| Spiti-213_threethousandfortyeight-1 | Spiti | 213_threethousandfortyeight | toŋsumrəŋ_dʒibtʃusəbɡjɛ | t o ŋ s u m r ə ŋ + d <s> <<ʒ>> </s> i b t <s> <<ʃ>> </s> u s ə b g j ɛ |
-| Spiti-215_twelve-1 | Spiti | 215_twelve | tʃʋinɨ | t <s> <<ʃ>> </s> ʋ i n <s> <<ɨ>> </s> |
-| Spiti-217_twenty-1 | Spiti | 217_twenty | nɨʃu | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u |
-| Spiti-218_twentyeight-1 | Spiti | 218_twentyeight | nɨʃusəbɡjɛ | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə b g j ɛ |
-| Spiti-220_twentyfive-1 | Spiti | 220_twentyfive | nɨʃusɛŋã | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɛ ŋ <s> <<ã>> </s> |
-| Spiti-221_twentyfour-1 | Spiti | 221_twentyfour | nɨʃusɔdʒi | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɔ d <s> <<ʒ>> </s> i |
-| Spiti-222_twentynine-1 | Spiti | 222_twentynine | nɨʃusərɡu | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə r g u |
-| Spiti-223_twentyone-1 | Spiti | 223_twentyone | nɨʃusəʃik | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə <s> <<ʃ>> </s> i k |
-| Spiti-225_twentyseven-1 | Spiti | 225_twentyseven | nɨʃusəbdʉn | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə b d <s> <<ʉ>> </s> n |
-| Spiti-226_twentysix-1 | Spiti | 226_twentysix | nɨʃusɛruk | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɛ r u k |
-| Spiti-228_twentythree-1 | Spiti | 228_twentythree | nɨʃusəksum | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə k s u m |
-| Spiti-229_twentytwo-1 | Spiti | 229_twentytwo | nɨʃusɛnɨ | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɛ n <s> <<ɨ>> </s> |
-| Spiti-22_eighty-1 | Spiti | 22_eighty | ɡjətʃu | g j ə t <s> <<ʃ>> </s> u |
-| Spiti-231_two-1 | Spiti | 231_two | nɨ | n <s> <<ɨ>> </s> |
-| Spiti-235_twohundred-1 | Spiti | 235_twohundred | nɨbɡjə | n <s> <<ɨ>> </s> b g j ə |
-| Spiti-236_twohundredtwentyone-1 | Spiti | 236_twohundredtwentyone | nɨbɡjərəŋ_nɨʃusɛtʃik | n <s> <<ɨ>> </s> b g j ə r ə ŋ + n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɛ t <s> <<ʃ>> </s> i k |
-| Spiti-238_twothousand-1 | Spiti | 238_twothousand | toŋ_nɨ | t o ŋ + n <s> <<ɨ>> </s> |
-| Spiti-23_eightyeight-1 | Spiti | 23_eightyeight | ɡjətʃuɡjəbɡjɛ | g j ə t <s> <<ʃ>> </s> u g j ə b g j ɛ |
-| Spiti-24_eightyfive-1 | Spiti | 24_eightyfive | ɡjətʃukʰjeŋã | g j ə t <s> <<ʃ>> </s> u kʰ j e ŋ <s> <<ã>> </s> |
-| Spiti-25_eightyfour-1 | Spiti | 25_eightyfour | ɡjətʃukʰjəudʒi | g j ə t <s> <<ʃ>> </s> u kʰ j ə u d <s> <<ʒ>> </s> i |
-| Spiti-26_eightynine-1 | Spiti | 26_eightynine | ɡjətʃuɡərɡu | g j ə t <s> <<ʃ>> </s> u g ə r g u |
-| Spiti-27_eightyone-1 | Spiti | 27_eightyone | ɡjətʃukʰjəʃik | g j ə t <s> <<ʃ>> </s> u kʰ j ə <s> <<ʃ>> </s> i k |
-| Spiti-28_eightyseven-1 | Spiti | 28_eightyseven | ɡjətʃuɡjebdʉn | g j ə t <s> <<ʃ>> </s> u g j e b d <s> <<ʉ>> </s> n |
-| Spiti-29_eightysix-1 | Spiti | 29_eightysix | ɡjətʃukʰeruk | g j ə t <s> <<ʃ>> </s> u kʰ e r u k |
-| Spiti-30_eightythree-1 | Spiti | 30_eightythree | ɡjətʃukʰjəksum | g j ə t <s> <<ʃ>> </s> u kʰ j ə k s u m |
-| Spiti-31_eightytwo-1 | Spiti | 31_eightytwo | ɡjətʃukʰɛnɨ | g j ə t <s> <<ʃ>> </s> u kʰ ɛ n <s> <<ɨ>> </s> |
-| Spiti-32_eleven-1 | Spiti | 32_eleven | tʃʋiʃik | t <s> <<ʃ>> </s> ʋ i <s> <<ʃ>> </s> i k |
-| Spiti-34_fifteen-1 | Spiti | 34_fifteen | tʃʋeŋã | t <s> <<ʃ>> </s> ʋ e ŋ <s> <<ã>> </s> |
-| Spiti-39_fifty-1 | Spiti | 39_fifty | ŋə̃ptʃu | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u |
-| Spiti-40_fiftyeight-1 | Spiti | 40_fiftyeight | ŋə̃ptʃuŋəbɡjɛ | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ ə b g j ɛ |
-| Spiti-41_fiftyfive-1 | Spiti | 41_fiftyfive | ŋə̃ptʃuneŋã | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u n e ŋ <s> <<ã>> </s> |
-| Spiti-42_fiftyfour-1 | Spiti | 42_fiftyfour | ŋə̃ptʃunəʋdʒi | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u n ə ʋ d <s> <<ʒ>> </s> i |
-| Spiti-43_fiftynine-1 | Spiti | 43_fiftynine | ŋə̃ptʃunərɡu | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u n ə r g u |
-| Spiti-44_fiftyone-1 | Spiti | 44_fiftyone | ŋə̃ptʃuŋɛʃik | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ ɛ <s> <<ʃ>> </s> i k |
-| Spiti-45_fiftyseven-1 | Spiti | 45_fiftyseven | ŋə̃ptʃuŋəbdʉn | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ ə b d <s> <<ʉ>> </s> n |
-| Spiti-46_fiftysix-1 | Spiti | 46_fiftysix | ŋə̃ptʃuŋeruk | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ e r u k |
-| Spiti-47_fiftythree-1 | Spiti | 47_fiftythree | ŋə̃btʃuŋəksum | ŋ ə <s> <<̃>> </s> b t <s> <<ʃ>> </s> u ŋ ə k s u m |
-| Spiti-48_fiftytwo-1 | Spiti | 48_fiftytwo | ŋə̃ptʃuŋɛnɨ | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ ɛ n <s> <<ɨ>> </s> |
-| Spiti-52_five-1 | Spiti | 52_five | ŋã | ŋ <s> <<ã>> </s> |
-| Spiti-54_fivehundred-1 | Spiti | 54_fivehundred | ŋãbɡjə | ŋ <s> <<ã>> </s> b g j ə |
-| Spiti-55_fivehundredsix-1 | Spiti | 55_fivehundredsix | ŋãbɡjərəŋ_ʈʰruk | ŋ <s> <<ã>> </s> b g j ə r ə ŋ + ʈʰ r u k |
-| Spiti-57_fivethousand-1 | Spiti | 57_fivethousand | toŋã | t o ŋ <s> <<ã>> </s> |
-| Spiti-60_forty-1 | Spiti | 60_forty | dʒiptʃu | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u |
-| Spiti-61_fortyeight-1 | Spiti | 61_fortyeight | dʒiptʃusəbɡjɛ | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ə b g j ɛ |
-| Spiti-62_fortyfive-1 | Spiti | 62_fortyfive | dʒiptʃusɛŋã | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ɛ ŋ <s> <<ã>> </s> |
-| Spiti-63_fortyfour-1 | Spiti | 63_fortyfour | dʒiptʃusɔdʒi | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ɔ d <s> <<ʒ>> </s> i |
-| Spiti-64_fortynine-1 | Spiti | 64_fortynine | dʒiptʃusərgu | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ə r g u |
-| Spiti-65_fortyone-1 | Spiti | 65_fortyone | dʒiptʃusjəʃik | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s j ə <s> <<ʃ>> </s> i k |
-| Spiti-66_fortyseven-1 | Spiti | 66_fortyseven | dʒiptʃusəbdʉn | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ə b d <s> <<ʉ>> </s> n |
-| Spiti-67_fortysix-1 | Spiti | 67_fortysix | dʒiptʃusɛruk | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ɛ r u k |
-| Spiti-68_fortythree-1 | Spiti | 68_fortythree | dʒiptʃusəksum | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ə k s u m |
-| Spiti-69_fortytwo-1 | Spiti | 69_fortytwo | dʒiptʃusjɛnɨ | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s j ɛ n <s> <<ɨ>> </s> |
-| Spiti-70_four-1 | Spiti | 70_four | dʒi | d <s> <<ʒ>> </s> i |
-| Spiti-71_fourhundred-1 | Spiti | 71_fourhundred | dʒibɡjə | d <s> <<ʒ>> </s> i b g j ə |
-| Spiti-72_fourteen-1 | Spiti | 72_fourteen | tʃudʒi | t <s> <<ʃ>> </s> u d <s> <<ʒ>> </s> i |
-| Spiti-75_fourthousand-1 | Spiti | 75_fourthousand | toŋdʒi | t o ŋ d <s> <<ʒ>> </s> i |
+|:------------------------|:-----------|:----------------|:---------------|:-----------------------------------------------------------------|
+| Ladakhi-10_ten-1 | Ladakhi | 10_ten | tʃu | t <s> <<ʃ>> </s> u |
+| Ladakhi-11_eleven-1 | Ladakhi | 11_eleven | tʃukʃik | t <s> <<ʃ>> </s> u k ʃ i k |
+| Ladakhi-12_twelve-1 | Ladakhi | 12_twelve | tʃuknis | t <s> <<ʃ>> </s> u k n i s |
+| Ladakhi-13_thirteen-1 | Ladakhi | 13_thirteen | tʃuksum | t <s> <<ʃ>> </s> u k s u m |
+| Ladakhi-14_fourteen-1 | Ladakhi | 14_fourteen | tʃuzbi | t <s> <<ʃ>> </s> u z b i |
+| Ladakhi-15_fifteen-1 | Ladakhi | 15_fifteen | tʃoGɑ | t <s> <<ʃ>> </s> o <s> <<G>> </s> ɑ |
+| Ladakhi-16_sixteen-1 | Ladakhi | 16_sixteen | tʃurukʰ | t <s> <<ʃ>> </s> u r u kʰ |
+| Ladakhi-17_seventeen-1 | Ladakhi | 17_seventeen | tʃupdun | t <s> <<ʃ>> </s> u p d u n |
+| Ladakhi-1_one-1 | Ladakhi | 1_one | tʃik | t <s> <<ʃ>> </s> i k |
+| Ladakhi-5_five-1 | Ladakhi | 5_five | Gɑ | <s> <<G>> </s> ɑ |
+| Spiti-10_ten-1 | Spiti | 10_ten | tʃu | t <s> <<ʃ>> </s> u |
+| Spiti-11_eleven-1 | Spiti | 11_eleven | tʃʋiʃik | t <s> <<ʃ>> </s> ʋ i <s> <<ʃ>> </s> i k |
+| Spiti-12_twelve-1 | Spiti | 12_twelve | tʃʋinɨ | t <s> <<ʃ>> </s> ʋ i n <s> <<ɨ>> </s> |
+| Spiti-13_thirteen-1 | Spiti | 13_thirteen | tʃuksum | t <s> <<ʃ>> </s> u k s u m |
+| Spiti-14_fourteen-1 | Spiti | 14_fourteen | tʃudʒi | t <s> <<ʃ>> </s> u d <s> <<ʒ>> </s> i |
+| Spiti-15_fifteen-1 | Spiti | 15_fifteen | tʃʋeŋã | t <s> <<ʃ>> </s> ʋ e ŋ <s> <<ã>> </s> |
+| Spiti-16_sixteen-1 | Spiti | 16_sixteen | tʃʋiruk | t <s> <<ʃ>> </s> ʋ i r u k |
+| Spiti-17_seventeen-1 | Spiti | 17_seventeen | tʃupdʉn | t <s> <<ʃ>> </s> u p d <s> <<ʉ>> </s> n |
+| Spiti-18_eighteen-1 | Spiti | 18_eighteen | tʃupɡjɛ | t <s> <<ʃ>> </s> u p g j ɛ |
+| Spiti-19_nineteen-1 | Spiti | 19_nineteen | tʃurɡu | t <s> <<ʃ>> </s> u r g u |
+| Spiti-1_one-1 | Spiti | 1_one | tʃik | t <s> <<ʃ>> </s> i k |
+| Spiti-20_twenty-1 | Spiti | 20_twenty | nɨʃu | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u |
+| Spiti-21_twentyone-1 | Spiti | 21_twentyone | nɨʃusəʃik | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə <s> <<ʃ>> </s> i k |
+| Spiti-22_twentytwo-1 | Spiti | 22_twentytwo | nɨʃusɛnɨ | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɛ n <s> <<ɨ>> </s> |
+| Spiti-23_twentythree-1 | Spiti | 23_twentythree | nɨʃusəksum | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə k s u m |
+| Spiti-24_twentyfour-1 | Spiti | 24_twentyfour | nɨʃusɔdʒi | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɔ d <s> <<ʒ>> </s> i |
+| Spiti-25_twentyfive-1 | Spiti | 25_twentyfive | nɨʃusɛŋã | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɛ ŋ <s> <<ã>> </s> |
+| Spiti-26_twentysix-1 | Spiti | 26_twentysix | nɨʃusɛruk | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ɛ r u k |
+| Spiti-27_twentyseven-1 | Spiti | 27_twentyseven | nɨʃusəbdʉn | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə b d <s> <<ʉ>> </s> n |
+| Spiti-28_twentyeight-1 | Spiti | 28_twentyeight | nɨʃusəbɡjɛ | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə b g j ɛ |
+| Spiti-29_twentynine-1 | Spiti | 29_twentynine | nɨʃusərɡu | n <s> <<ɨ>> </s> <s> <<ʃ>> </s> u s ə r g u |
+| Spiti-2_two-1 | Spiti | 2_two | nɨ | n <s> <<ɨ>> </s> |
+| Spiti-31_thirtyone-1 | Spiti | 31_thirtyone | sumdzusɔʃik | s u m d z u s ɔ <s> <<ʃ>> </s> i k |
+| Spiti-32_thirtytwo-1 | Spiti | 32_thirtytwo | sumdzusɛnɨ | s u m d z u s ɛ n <s> <<ɨ>> </s> |
+| Spiti-34_thirtyfour-1 | Spiti | 34_thirtyfour | sumdzusɔdʒi | s u m d z u s ɔ d <s> <<ʒ>> </s> i |
+| Spiti-35_thirtyfive-1 | Spiti | 35_thirtyfive | sumdzusɛŋã | s u m d z u s ɛ ŋ <s> <<ã>> </s> |
+| Spiti-37_thirtyseven-1 | Spiti | 37_thirtyseven | sumdzusɔbdʉn | s u m d z u s ɔ b d <s> <<ʉ>> </s> n |
+| Spiti-40_forty-1 | Spiti | 40_forty | dʒiptʃu | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u |
+| Spiti-41_fortyone-1 | Spiti | 41_fortyone | dʒiptʃusjəʃik | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s j ə <s> <<ʃ>> </s> i k |
+| Spiti-42_fortytwo-1 | Spiti | 42_fortytwo | dʒiptʃusjɛnɨ | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s j ɛ n <s> <<ɨ>> </s> |
+| Spiti-43_fortythree-1 | Spiti | 43_fortythree | dʒiptʃusəksum | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ə k s u m |
+| Spiti-44_fortyfour-1 | Spiti | 44_fortyfour | dʒiptʃusɔdʒi | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ɔ d <s> <<ʒ>> </s> i |
+| Spiti-45_fortyfive-1 | Spiti | 45_fortyfive | dʒiptʃusɛŋã | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ɛ ŋ <s> <<ã>> </s> |
+| Spiti-46_fortysix-1 | Spiti | 46_fortysix | dʒiptʃusɛruk | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ɛ r u k |
+| Spiti-47_fortyseven-1 | Spiti | 47_fortyseven | dʒiptʃusəbdʉn | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ə b d <s> <<ʉ>> </s> n |
+| Spiti-48_fortyeight-1 | Spiti | 48_fortyeight | dʒiptʃusəbɡjɛ | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ə b g j ɛ |
+| Spiti-49_fortynine-1 | Spiti | 49_fortynine | dʒiptʃusərgu | d <s> <<ʒ>> </s> i p t <s> <<ʃ>> </s> u s ə r g u |
+| Spiti-4_four-1 | Spiti | 4_four | dʒi | d <s> <<ʒ>> </s> i |
+| Spiti-50_fifty-1 | Spiti | 50_fifty | ŋə̃ptʃu | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u |
+| Spiti-51_fiftyone-1 | Spiti | 51_fiftyone | ŋə̃ptʃuŋɛʃik | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ ɛ <s> <<ʃ>> </s> i k |
+| Spiti-52_fiftytwo-1 | Spiti | 52_fiftytwo | ŋə̃ptʃuŋɛnɨ | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ ɛ n <s> <<ɨ>> </s> |
+| Spiti-53_fiftythree-1 | Spiti | 53_fiftythree | ŋə̃btʃuŋəksum | ŋ ə <s> <<̃>> </s> b t <s> <<ʃ>> </s> u ŋ ə k s u m |
+| Spiti-54_fiftyfour-1 | Spiti | 54_fiftyfour | ŋə̃ptʃunəʋdʒi | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u n ə ʋ d <s> <<ʒ>> </s> i |
+| Spiti-55_fiftyfive-1 | Spiti | 55_fiftyfive | ŋə̃ptʃuneŋã | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u n e ŋ <s> <<ã>> </s> |
+| Spiti-56_fiftysix-1 | Spiti | 56_fiftysix | ŋə̃ptʃuŋeruk | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ e r u k |
+| Spiti-57_fiftyseven-1 | Spiti | 57_fiftyseven | ŋə̃ptʃuŋəbdʉn | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ ə b d <s> <<ʉ>> </s> n |
+| Spiti-58_fiftyeight-1 | Spiti | 58_fiftyeight | ŋə̃ptʃuŋəbɡjɛ | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u ŋ ə b g j ɛ |
+| Spiti-59_fiftynine-1 | Spiti | 59_fiftynine | ŋə̃ptʃunərɡu | ŋ ə <s> <<̃>> </s> p t <s> <<ʃ>> </s> u n ə r g u |
+| Spiti-5_five-1 | Spiti | 5_five | ŋã | ŋ <s> <<ã>> </s> |
+| Spiti-60_sixty-1 | Spiti | 60_sixty | ʈʰruktʃu | ʈʰ r u k t <s> <<ʃ>> </s> u |
+| Spiti-61_sixtyone-1 | Spiti | 61_sixtyone | ʈʰruktʃurɛʃik | ʈʰ r u k t <s> <<ʃ>> </s> u r ɛ <s> <<ʃ>> </s> i k |
+| Spiti-62_sixtytwo-1 | Spiti | 62_sixtytwo | ʈʰruktʃurɛnɨ | ʈʰ r u k t <s> <<ʃ>> </s> u r ɛ n <s> <<ɨ>> </s> |
+| Spiti-63_sixtythree-1 | Spiti | 63_sixtythree | ʈʰruktʃurəksum | ʈʰ r u k t <s> <<ʃ>> </s> u r ə k s u m |
+| Spiti-64_sixtyfour-1 | Spiti | 64_sixtyfour | ʈʰruktʃurəʋdʒi | ʈʰ r u k t <s> <<ʃ>> </s> u r ə ʋ d <s> <<ʒ>> </s> i |
+| Spiti-65_sixtyfive-1 | Spiti | 65_sixtyfive | ʈʰruktʃurɛŋã | ʈʰ r u k t <s> <<ʃ>> </s> u r ɛ ŋ <s> <<ã>> </s> |
+| Spiti-66_sixtysix-1 | Spiti | 66_sixtysix | ʈʰruktʃurɛruk | ʈʰ r u k t <s> <<ʃ>> </s> u r ɛ r u k |
+| Spiti-67_sixtyseven-1 | Spiti | 67_sixtyseven | ʈʰruktʃurəbdʉn | ʈʰ r u k t <s> <<ʃ>> </s> u r ə b d <s> <<ʉ>> </s> n |
+| Spiti-68_sixtyeight-1 | Spiti | 68_sixtyeight | ʈʰruktʃurəbɡjɛ | ʈʰ r u k t <s> <<ʃ>> </s> u r ə b g j ɛ |
+| Spiti-69_sixtynine-1 | Spiti | 69_sixtynine | ʈʰruktʃurərɡu | ʈʰ r u k t <s> <<ʃ>> </s> u r ə r g u |
+| Spiti-70_seventy-1 | Spiti | 70_seventy | dʉndzu | d <s> <<ʉ>> </s> n d z u |
+| Spiti-71_seventyone-1 | Spiti | 71_seventyone | dʉndzutaʃik | d <s> <<ʉ>> </s> n d z u t a <s> <<ʃ>> </s> i k |
+| Spiti-72_seventytwo-1 | Spiti | 72_seventytwo | dʉndzutanɨ | d <s> <<ʉ>> </s> n d z u t a n <s> <<ɨ>> </s> |
+| Spiti-73_seventythree-1 | Spiti | 73_seventythree | dʉndzutɔksum | d <s> <<ʉ>> </s> n d z u t ɔ k s u m |
+| Spiti-74_seventyfour-1 | Spiti | 74_seventyfour | dʉndzutɔdʒi | d <s> <<ʉ>> </s> n d z u t ɔ d <s> <<ʒ>> </s> i |
+| Spiti-75_seventyfive-1 | Spiti | 75_seventyfive | dʉndzutɛŋã | d <s> <<ʉ>> </s> n d z u t ɛ ŋ <s> <<ã>> </s> |
+| Spiti-76_seventysix-1 | Spiti | 76_seventysix | dʉndzutɛruk | d <s> <<ʉ>> </s> n d z u t ɛ r u k |
+| Spiti-77_seventyseven-1 | Spiti | 77_seventyseven | dʉndzutɔbdʉn | d <s> <<ʉ>> </s> n d z u t ɔ b d <s> <<ʉ>> </s> n |
+| Spiti-78_seventyeight-1 | Spiti | 78_seventyeight | dʉndzutɔbɡjɛ | d <s> <<ʉ>> </s> n d z u t ɔ b g j ɛ |
+| Spiti-79_seventynine-1 | Spiti | 79_seventynine | dʉndzutərɡu | d <s> <<ʉ>> </s> n d z u t ə r g u |
+| Spiti-7_seven-1 | Spiti | 7_seven | dʉn | d <s> <<ʉ>> </s> n |
+| Spiti-80_eighty-1 | Spiti | 80_eighty | ɡjətʃu | g j ə t <s> <<ʃ>> </s> u |
+| Spiti-81_eightyone-1 | Spiti | 81_eightyone | ɡjətʃukʰjəʃik | g j ə t <s> <<ʃ>> </s> u kʰ j ə <s> <<ʃ>> </s> i k |
+| Spiti-82_eightytwo-1 | Spiti | 82_eightytwo | ɡjətʃukʰɛnɨ | g j ə t <s> <<ʃ>> </s> u kʰ ɛ n <s> <<ɨ>> </s> |
+| Spiti-83_eightythree-1 | Spiti | 83_eightythree | ɡjətʃukʰjəksum | g j ə t <s> <<ʃ>> </s> u kʰ j ə k s u m |
+| Spiti-84_eightyfour-1 | Spiti | 84_eightyfour | ɡjətʃukʰjəudʒi | g j ə t <s> <<ʃ>> </s> u kʰ j ə u d <s> <<ʒ>> </s> i |
+| Spiti-85_eightyfive-1 | Spiti | 85_eightyfive | ɡjətʃukʰjeŋã | g j ə t <s> <<ʃ>> </s> u kʰ j e ŋ <s> <<ã>> </s> |
+| Spiti-86_eightysix-1 | Spiti | 86_eightysix | ɡjətʃukʰeruk | g j ə t <s> <<ʃ>> </s> u kʰ e r u k |
+| Spiti-87_eightyseven-1 | Spiti | 87_eightyseven | ɡjətʃuɡjebdʉn | g j ə t <s> <<ʃ>> </s> u g j e b d <s> <<ʉ>> </s> n |
+| Spiti-88_eightyeight-1 | Spiti | 88_eightyeight | ɡjətʃuɡjəbɡjɛ | g j ə t <s> <<ʃ>> </s> u g j ə b g j ɛ |
+| Spiti-89_eightynine-1 | Spiti | 89_eightynine | ɡjətʃuɡərɡu | g j ə t <s> <<ʃ>> </s> u g ə r g u |
+| Spiti-90_ninety-1 | Spiti | 90_ninety | ɡuptʃu | g u p t <s> <<ʃ>> </s> u |
+| Spiti-91_ninetyone-1 | Spiti | 91_ninetyone | ɡuptʃukɔʃik | g u p t <s> <<ʃ>> </s> u k ɔ <s> <<ʃ>> </s> i k |
+| Spiti-92_ninetytwo-1 | Spiti | 92_ninetytwo | ɡuptʃukɔnɨ | g u p t <s> <<ʃ>> </s> u k ɔ n <s> <<ɨ>> </s> |
+| Spiti-93_ninetythree-1 | Spiti | 93_ninetythree | ɡuptʃukɔksum | g u p t <s> <<ʃ>> </s> u k ɔ k s u m |
+| Spiti-94_ninetyfour-1 | Spiti | 94_ninetyfour | ɡuptʃukɔdʒi | g u p t <s> <<ʃ>> </s> u k ɔ d <s> <<ʒ>> </s> i |
+| Spiti-95_ninetyfive-1 | Spiti | 95_ninetyfive | ɡuptʃukɔŋã | g u p t <s> <<ʃ>> </s> u k ɔ ŋ <s> <<ã>> </s> |
+| Spiti-96_ninetysix-1 | Spiti | 96_ninetysix | ɡuptʃukɛruk | g u p t <s> <<ʃ>> </s> u k ɛ r u k |
+| Spiti-97_ninetyseven-1 | Spiti | 97_ninetyseven | ɡuptʃukjəbdʉn | g u p t <s> <<ʃ>> </s> u k j ə b d <s> <<ʉ>> </s> n |
+| Spiti-98_ninetyeight-1 | Spiti | 98_ninetyeight | ɡuptʃukjəbɡjɛ | g u p t <s> <<ʃ>> </s> u k j ə b g j ɛ |
+| Spiti-99_ninetynine-1 | Spiti | 99_ninetynine | ɡuptʃukjərɡu | g u p t <s> <<ʃ>> </s> u k j ə r g u |
 
 (100 rows)
 

@@ -38,17 +38,17 @@ class Dataset(pylexibank.Dataset):
         errors = set()
 
         for concept in self.concepts:
-            idx = concept["NUMBER"] + "_" + slug(concept["ENGLISH"])
+            idx = concept["ID"] + "_" + slug(concept["ENGLISH"])
             args.writer.add_concept(
                 ID=idx,
                 Name=concept["ENGLISH"],
-                Number=concept["NUMBER"],
+                Number=concept["ID"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
             )
             concepts[concept["ENGLISH"]] = idx
 
-        languages = args.writer.add_languages(lookup_factory="Name")
+        languages = args.writer.add_languages(lookup_factory="ID")
         source_map = {r['ID']: r['Sources'] for r in self.etc_dir.read_csv('languages.tsv', dicts=True, delimiter='\t')}
 
         for row in self.raw_dir.read_csv("cardinals.tsv", dicts=True, delimiter="\t"):

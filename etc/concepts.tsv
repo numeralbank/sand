@@ -1,240 +1,126 @@
-NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
-1	A group of five girls played.		
-2	A group of four girls played.		
-3	A group of twelve boys reached.		
-4	A group of twenty boys reached.		
-5	A group of twenty five boys reached.		
-6	A group of two girls played.		
-7	Approximately 20 kilos of rice are in the sack.		
-8	Approximately 2/3rd members are left.		
-9	Approximately 35 kilos of rice are in the sack.		
-10	Approximately 50% of students are attending the workshop.		
-11	Approximately fifteen kilos of rice are in the sack.		
-12	A single word comes to mind.		
-13	Billion	3599	BILLION
-14	Concept	3966	CONCEPT
-15	Crore		
-16	Eight	1705	EIGHT
-17	Eighteen	1713	EIGHTEEN
-18	Eighteenth		
-19	Eighth		
-20	Eighth girl.		
-21	Eight trees		
-22	Eighty	1722	EIGHTY
-23	Eighty eight	3589	EIGHTY EIGHT
-24	Eighty five	3586	EIGHTY FIVE
-25	Eighty four	3585	EIGHTY FOUR
-26	Eighty nine	3590	EIGHTY NINE
-27	Eighty one	3583	EIGHTY ONE
-28	Eighty seven	3588	EIGHTY SEVEN
-29	Eighty six	3587	EIGHTY SIX
-30	Eighty three	3498	EIGHTY THREE
-31	Eighty two	3584	EIGHTY TWO
-32	Eleven	1706	ELEVEN
-33	Eleventh		
-34	Fifteen	1709	FIFTEEN
-35	Fifteenth		
-36	Fifth		
-37	Fifth man.		
-38	Fifth woman		
-39	Fifty	1717	FIFTY
-40	Fifty eight	3566	FIFTY EIGHT
-41	Fifty five	3494	FIFTY FIVE
-42	Fifty four	3563	FIFTY FOUR
-43	Fifty nine	3567	FIFTY NINE
-44	Fifty one	3561	FIFTY ONE
-45	Fifty seven	3565	FIFTY SEVEN
-46	Fifty six	3564	FIFTY SIX
-47	Fifty three	3493	FIFTY THREE
-48	Fifty two	3562	FIFTY TWO
-49	First	728	FIRST
-50	First man.		
-51	First woman		
-52	Five	493	FIVE
-53	Five each		
-54	Five hundred	3516	FIVE HUNDRED
-55	Five hundred six		
-56	Five sheep.		
-57	Five thousand	3527	FIVE THOUSAND
-58	Forth man.		
-59	Forth woman		
-60	Forty	1716	FORTY
-61	Forty eight	3492	FORTY EIGHT
-62	Forty five	3491	FORTY FIVE
-63	Forty four	3490	FORTY FOUR
-64	Forty nine	3560	FORTY NINE
-65	Forty one	3556	FORTY ONE
-66	Forty seven	3559	FORTY SEVEN
-67	Forty six	3558	FORTY SIX
-68	Forty three	3489	FORTY THREE
-69	Forty two	3557	FORTY TWO
-70	Four	1500	FOUR
-71	Four hundred	3515	FOUR HUNDRED
-72	Fourteen	2451	FOURTEEN
-73	Fourteenth		
-74	Fourth		
-75	Four thousand	3526	FOUR THOUSAND
-76	He always fights.		
-77	He ate only four mangoes		
-78	Hundred	1634	HUNDRED
-79	Hundredth part.		
-80	I am in twenty eighth floor.		
-81	I ate 1/16 of thr pizza.		
-82	I ate 1/2 of the Pizza.		
-83	I ate 1/5 of the Pizza.		
-84	I ate 2/3 of the Pizza.		
-85	I ate 2/6 of the Pizza.		
-86	I bought half a dozen eggs.		
-87	I called her fifteen times.		
-88	I called her nine times.		
-89	I called him twenty five times.		
-90	I have four bags		
-91	I have one almirah.		
-92	I have one bag		
-93	I have one brother		
-94	I have one sister		
-95	I have three bags		
-96	I have three sisters.		
-97	I have two almirahs.		
-98	I have two brothers		
-99	I have two sisters		
-100	I met him forth time.		
-101	I met him once.		
-102	I met him thrice.		
-103	I met him twice.		
-104	I often travel.		
-105	I read 1/10 part of the book.		
-106	I read 1/4 of the book.		
-107	I read 2/7 of the book.		
-108	I read 3/4 of the book.		
-109	I read 3/5 of the book.		
-110	I read 3/7 of the book.		
-111	I sometimes do that.		
-112	I went there dozen of times.		
-113	I went there once.		
-114	Lakh		
-115	Many		
-116	Million	3533	ONE MILLION
-117	Nine	1483	NINE
-118	Nineteen	1714	NINETEEN
-119	Nineteenth		
-120	Nineth		
-121	Ninety	1724	NINETY
-122	Ninety eight	3596	NINETY EIGHT
-123	Ninety five	3594	NINETY FIVE
-124	Ninety four	3593	NINETY FOUR
-125	Ninety nine	3501	NINETY NINE
-126	Ninety one	3499	NINETY ONE
-127	Ninety seven	3595	NINETY SEVEN
-128	Ninety six	3500	NINETY SIX
-129	Ninety three	3592	NINETY THREE
-130	Ninety two	3591	NINETY TWO
-131	One	1493	ONE
-132	One boy.		
-133	one-by-one		
-134	One each		
-135	One girl.		
-136	One hundred and twenty-first		
-137	One hundred/ hundred	1634	HUNDRED
-138	One sheep.		
-139	One thousand/ thousand	1843	THOUSAND
-140	One tree.		
-141	Only five		
-142	Only/ One	1580	ONLY
-143	Only ten		
-144	Only three		
-145	Only two		
-146	Pair of socks are lying here		
-147	Second	1384	SECOND
-148	Second man.		
-149	Second woman		
-150	Seven	1704	SEVEN
-151	Seventeen	2453	SEVENTEEN
-152	Seventeenth		
-153	Seventh		
-154	Seventh boy		
-155	Seven thousand four hundred twenty two		
-156	Seventy	1721	SEVENTY
-157	Seventy eight	3581	SEVENTY EIGHT
-158	Seventy five	3578	SEVENTY FIVE
-159	Seventy four	3577	SEVENTY FOUR
-160	Seventy nine	3582	SEVENTY NINE
-161	Seventy one	3576	SEVENTY ONE
-162	Seventy seven	3580	SEVENTY SEVEN
-163	Seventy six	3579	SEVENTY SIX
-164	Seventy three	3497	SEVENTY THREE
-165	Seventy two	3496	SEVENTY TWO
-166	Several times		
-167	She seldom goes out.		
-168	Six	1703	SIX
-169	Six hundred	3517	SIX HUNDRED
-170	Sixteen	2454	SIXTEEN
-171	Sixteenth		
-172	Sixth		
-173	Six thousand	3792	SIX THOUSAND
-174	Six thousand eight		
-175	Six thousand nine hundred		
-176	Sixth woman		
-177	Sixty	1718	SIXTY
-178	Sixty eight	3574	SIXTY EIGHT
-179	Sixty five	3571	SIXTY FIVE
-180	Sixty four	3570	SIXTY FOUR
-181	Sixty nine	3575	SIXTY NINE
-182	Sixty one	3568	SIXTY ONE
-183	Sixty seven	3573	SIXTY SEVEN
-184	Sixty six	3572	SIXTY SIX
-185	Sixty three	3495	SIXTY THREE
-186	Sixty two	3569	SIXTY TWO
-187	Ten	1515	TEN
-188	Tenth		
-189	There is only one child		
-190	The twenty-first man.		
-191	Third	1859	THIRD
-192	Third man.		
-193	Third woman		
-194	Thirteen	1708	THIRTEEN
-195	Thirteenth		
-196	Thirty	1715	THIRTY
-197	Thirty eight	3487	THIRTY EIGHT
-198	Thirty five	3484	THIRTY FIVE
-199	Thirty four	3483	THIRTY FOUR
-200	Thirty nine	3488	THIRTY NINE
-201	Thirty one	3480	THIRTY ONE
-202	Thirty seven	3486	THIRTY SEVEN
-203	Thirty six	3485	THIRTY SIX
-204	Thirty three	3482	THIRTY THREE
-205	Thirty two	3481	THIRTY TWO
-206	This institute contains approximately 1000 students.		
-207	Thousand	1843	THOUSAND
-208	Three	492	THREE
-209	Three each		
-210	Three girls.		
-211	Three hundred	3513	THREE HUNDRED
-212	Three thousand	3525	THREE THOUSAND
-213	Three thousand forty eight		
-214	Thrice	417	THREE TIMES
-215	Twelve	1707	TWELVE
-216	Twelvth		
-217	Twenty	1710	TWENTY
-218	Twenty eight	3478	TWENTY EIGHT
-219	Twenty first		
-220	Twenty five	1738	TWENTY FIVE
-221	Twenty four	1736	TWENTY FOUR
-222	Twenty nine	3479	TWENTY NINE
-223	Twenty One	1734	TWENTY ONE
-224	Twenty second		
-225	Twenty seven	3477	TWENTY SEVEN
-226	Twenty six	3476	TWENTY SIX
-227	Twentyth		
-228	Twenty three	3165	TWENTY THREE
-229	Twenty two	3166	TWENTY TWO
-230	Twice	1546	TWICE
-231	Two	1498	TWO
-232	Two boys.		
-233	two-by-two		
-234	Two girls.		
-235	Two hundred	2676	TWO HUNDRED
-236	Two hundred twenty one		
-237	Two pair of socks		
-238	Two thousand	3524	TWO THOUSAND
-239	wait for a couple of minutes		
+ID	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	One	1493	ONE
+2	Two	1498	TWO
+3	Three	492	THREE
+4	Four	1500	FOUR
+5	Five	493	FIVE
+6	Six	1703	SIX
+7	Seven	1704	SEVEN
+8	Eight	1705	EIGHT
+9	Nine	1483	NINE
+10	Ten	1515	TEN
+11	Eleven	1706	ELEVEN
+12	Twelve	1707	TWELVE
+13	Thirteen	1708	THIRTEEN
+14	Fourteen	2451	FOURTEEN
+15	Fifteen	1709	FIFTEEN
+16	Sixteen	2454	SIXTEEN
+17	Seventeen	2453	SEVENTEEN
+18	Eighteen	1713	EIGHTEEN
+19	Nineteen	1714	NINETEEN
+20	Twenty	1710	TWENTY
+21	Twenty One	1734	TWENTY ONE
+22	Twenty two	3166	TWENTY TWO
+23	Twenty three	3165	TWENTY THREE
+24	Twenty four	1736	TWENTY FOUR
+25	Twenty five	1738	TWENTY FIVE
+26	Twenty six	3476	TWENTY SIX
+27	Twenty seven	3477	TWENTY SEVEN
+28	Twenty eight	3478	TWENTY EIGHT
+29	Twenty nine	3479	TWENTY NINE
+30	Thirty	1715	THIRTY
+31	Thirty one	3480	THIRTY ONE
+32	Thirty two	3481	THIRTY TWO
+33	Thirty three	3482	THIRTY THREE
+34	Thirty four	3483	THIRTY FOUR
+35	Thirty five	3484	THIRTY FIVE
+36	Thirty six	3485	THIRTY SIX
+37	Thirty seven	3486	THIRTY SEVEN
+38	Thirty eight	3487	THIRTY EIGHT
+39	Thirty nine	3488	THIRTY NINE
+40	Forty	1716	FORTY
+41	Forty one	3556	FORTY ONE
+42	Forty two	3557	FORTY TWO
+43	Forty three	3489	FORTY THREE
+44	Forty four	3490	FORTY FOUR
+45	Forty five	3491	FORTY FIVE
+46	Forty six	3558	FORTY SIX
+47	Forty seven	3559	FORTY SEVEN
+48	Forty eight	3492	FORTY EIGHT
+49	Forty nine	3560	FORTY NINE
+50	Fifty	1717	FIFTY
+51	Fifty one	3561	FIFTY ONE
+52	Fifty two	3562	FIFTY TWO
+53	Fifty three	3493	FIFTY THREE
+54	Fifty four	3563	FIFTY FOUR
+55	Fifty five	3494	FIFTY FIVE
+56	Fifty six	3564	FIFTY SIX
+57	Fifty seven	3565	FIFTY SEVEN
+58	Fifty eight	3566	FIFTY EIGHT
+59	Fifty nine	3567	FIFTY NINE
+60	Sixty	1718	SIXTY
+61	Sixty one	3568	SIXTY ONE
+62	Sixty two	3569	SIXTY TWO
+63	Sixty three	3495	SIXTY THREE
+64	Sixty four	3570	SIXTY FOUR
+65	Sixty five	3571	SIXTY FIVE
+66	Sixty six	3572	SIXTY SIX
+67	Sixty seven	3573	SIXTY SEVEN
+68	Sixty eight	3574	SIXTY EIGHT
+69	Sixty nine	3575	SIXTY NINE
+70	Seventy	1721	SEVENTY
+71	Seventy one	3576	SEVENTY ONE
+72	Seventy two	3496	SEVENTY TWO
+73	Seventy three	3497	SEVENTY THREE
+74	Seventy four	3577	SEVENTY FOUR
+75	Seventy five	3578	SEVENTY FIVE
+76	Seventy six	3579	SEVENTY SIX
+77	Seventy seven	3580	SEVENTY SEVEN
+78	Seventy eight	3581	SEVENTY EIGHT
+79	Seventy nine	3582	SEVENTY NINE
+80	Eighty	1722	EIGHTY
+81	Eighty one	3583	EIGHTY ONE
+82	Eighty two	3584	EIGHTY TWO
+83	Eighty three	3498	EIGHTY THREE
+84	Eighty four	3585	EIGHTY FOUR
+85	Eighty five	3586	EIGHTY FIVE
+86	Eighty six	3587	EIGHTY SIX
+87	Eighty seven	3588	EIGHTY SEVEN
+88	Eighty eight	3589	EIGHTY EIGHT
+89	Eighty nine	3590	EIGHTY NINE
+90	Ninety	1724	NINETY
+91	Ninety one	3499	NINETY ONE
+92	Ninety two	3591	NINETY TWO
+93	Ninety three	3592	NINETY THREE
+94	Ninety four	3593	NINETY FOUR
+95	Ninety five	3594	NINETY FIVE
+96	Ninety six	3500	NINETY SIX
+97	Ninety seven	3595	NINETY SEVEN
+98	Ninety eight	3596	NINETY EIGHT
+99	Ninety nine	3501	NINETY NINE
+100	Hundred	1634	HUNDRED
+1000	Thousand	1843	THOUSAND
+100000	One Hundred Thousand	3532	ONE HUNDRED THOUSAND
+1000000	One Million	3533	ONE MILLION
+10000000	Ten Million	3597	TEN MILLION
+1000000000	Billion	3599	BILLION
+100	One Hundred		ONE HUNDRED
+200	Two Hundred	2676	TWO HUNDRED
+300	Three Hundred	3513	THREE HUNDRED
+400	Four Hundred	3515	FOUR HUNDRED
+500	Five Hundred	3516	FIVE HUNDRED
+600	Six Hundred	3517	SIX HUNDRED
+1000	One Thousand		ONE THOUSAND
+2000	Two Thousand	3524	TWO THOUSAND
+3000	Three Thousand	3525	THREE THOUSAND
+4000	Four Thousand	3526	FOUR THOUSAND
+5000	Five Thousand	3527	FIVE THOUSAND
+6000	Six Thousand	3792	SIX THOUSAND
+120	One Hundred and Twenty	3504	ONE HUNDRED AND TWENTY
+180	One Hundred Eighty	3510	ONE HUNDRED AND EIGHTY
+221	Two Hundred Twenty One		TWO HUNDRED TWENTY ONE
+506	Five Hundred Six		FIVE HUNDRED SIX
+3048	Three Thousand Forty Eight		THREE THOUSAND FORTY EIGHT
+6900	Six Thousand Nine Hundred		SIX THOUSAND NINE HUNDRED
+7422	Seven Thousand Four Hundred Twenty Two		SEVEN THOUSAND FOUR HUNDRED TWENTY TWO
+6008	Six Thousand Eight		SIX THOUSAND EIGHT
