@@ -102,7 +102,7 @@ Spiti	Hundred	ɡjə	ɡjə
 Spiti	Thousand	toŋ	toŋ
 Spiti	Lakh	cə	cə
 Spiti	Lakh	ʈʰi cə	ʈʰi cə
-Spiti	Million	-	-
+Spiti	One Million	-	-
 Spiti	Crore	bom cə	bom cə
 Spiti	Billion	-	-
 Spiti	One hundred	ɡjə	ɡjə
@@ -226,7 +226,7 @@ Ladakhi	Hundred	ɡjə	ɡjə
 Ladakhi	Thousand	stoŋtʃik	stoŋtʃik
 Ladakhi	Lakh	-	-
 Ladakhi	Crore	-	-
-Ladakhi	Million	-	-
+Ladakhi	One Million	-	-
 Ladakhi	Billion	-	-
 Ladakhi	One hundred	rɡjə	rɡjə
 Ladakhi	Two hundred	nibɡjə	nibɡjə
@@ -348,7 +348,7 @@ Khoibu	Ninety nine	cipciptəkumintəku	cipciptəkumintəku
 Khoibu	Hundred	rijɑ 	rijɑ 
 Khoibu	Thousand	lisiŋ 	lisiŋ 
 Khoibu	Lakh	lɑ kʰəe	lɑ kʰəe
-Khoibu	Million	miliən kʰəe	miliən kʰəe
+Khoibu	One Million	miliən kʰəe	miliən kʰəe
 Khoibu	Crore	kəror kʰəe	kəror kʰəe
 Khoibu	Billion	biliən kʰəe	biliən kʰəe
 Khoibu	One hundred	rijɑ kʰəe	rijɑ kʰəe
@@ -471,7 +471,7 @@ Ao_1	Ninety nine	tʰukoɹʈʰuku	tʰukoɹʈʰuku
 Ao_1	Hundred	noklɑŋkʰɑ	noklɑŋkʰɑ
 Ao_1	Thousand	mirɟəŋ	mirɟəŋ
 Ao_1	Lakh	-	-
-Ao_1	Million	-	-
+Ao_1	One Million	-	-
 Ao_1	Crore	-	-
 Ao_1	Billion	-	-
 Ao_1	One hundred	nuklɑŋkʰɑ	nuklɑŋkʰɑ
@@ -595,7 +595,7 @@ Adi	Ninety nine	ɨjiŋ konɑŋ kolɑŋ konɑŋ	ɨjiŋ konɑŋ kolɑŋ konɑŋ
 Adi	Hundred	lɨŋko	lɨŋko
 Adi	Thousand	edʒɑr	edʒɑr
 Adi	Lakh	-	-
-Adi	Million	-	-
+Adi	One Million	-	-
 Adi	Crore	-	-
 Adi	Billion	-	-
 			
@@ -720,7 +720,7 @@ Bodo	Hundred	ɟəʊse	ɟəʊse
 Bodo	Thousand	se 	se 
 Bodo	Thousand	rəzɑ	rəzɑ
 Bodo	Lakh	-	-
-Bodo	Million	-	-
+Bodo	One Million	-	-
 Bodo	Crore	-	-
 Bodo	Billion	-	-
 Bodo	One hundred	seɟəu	seɟəu
@@ -845,7 +845,7 @@ Meiteilon	Ninety nine	məripʰutərɑ mɑpən	məripʰutərɑ mɑpən
 Meiteilon	Hundred	cɑmə	cɑmə
 Meiteilon	Thousand	lisiŋ	lisiŋ
 Meiteilon	Lakh	-	-
-Meiteilon	Million	-	-
+Meiteilon	One Million	-	-
 Meiteilon	Crore	-	-
 Meiteilon	Billion	-	-
 Meiteilon	One hundred	cɑmɑ	cɑmɑ
@@ -969,7 +969,7 @@ Thangal	Ninety nine	sɔmkuo:lekuo:	sɔmkuo:lekuo:
 Thangal	Hundred	zɑkʰət	zɑkʰət
 Thangal	Thousand	sɑ̃ŋɡkʰət	sɑ̃ŋɡkʰət
 Thangal	Lakh	lɑ:kʰ	lɑ:kʰ
-Thangal	Million	miliən	miliən
+Thangal	One Million	miliən	miliən
 Thangal	Crore	kror	kror
 Thangal	Billion	biliən	biliən
 Thangal	One hundred	zɑkʰət	zɑkʰət
@@ -1087,7 +1087,7 @@ Tangkhul	Ninety nine	huŋcɪkotəcɪko	huŋcɪkotəcɪko
 Tangkhul	Hundred	sɑkʰə	sɑkʰə
 Tangkhul	Thousand	tʰɪŋkʰə	tʰɪŋkʰə
 Tangkhul	Lakh	əkʰə lɑ:kʰ	əkʰə lɑ:kʰ
-Tangkhul	Million	tʰərɑ lɑ:kʰ	tʰərɑ lɑ:kʰ
+Tangkhul	One Million	tʰərɑ lɑ:kʰ	tʰərɑ lɑ:kʰ
 Tangkhul	Crore	-	-
 Tangkhul	Billion	-	-
 Tangkhul	One hundred	sɑkʰə	sɑkʰə
@@ -1212,7 +1212,7 @@ Tinkarlo	Hundred	rɑ	rɑ
 Tinkarlo	Hundred	səɪ	səɪ
 Tinkarlo	Thousand	-	-
 Tinkarlo	Lakh	-	-
-Tinkarlo	Million	-	-
+Tinkarlo	One Million	-	-
 Tinkarlo	Crore	-	-
 Tinkarlo	Billion	-	-
 Tinkarlo	One hundred	səi	səi
@@ -1330,7 +1330,7 @@ Lotha_1	Ninety nine	ekʰɑtopʰʋə se topʰʋə	ekʰɑtopʰʋə se topʰʋə
 Lotha_1	Hundred	mzʋɑ	mzʋɑ
 Lotha_1	Thousand	otʰəm mocəŋɑ	otʰəm mocəŋɑ
 Lotha_1	Lakh	otʰəm mzʋɑ	otʰəm mzʋɑ
-Lotha_1	Million	kənɑ	kənɑ
+Lotha_1	One Million	kənɑ	kənɑ
 Lotha_1	Crore	kənɑ tɑro	kənɑ tɑro
 Lotha_1	Billion	koŋdoŋ	koŋdoŋ
 Lotha_1	One hundred	mzʋɑ	mzʋɑ
@@ -1455,7 +1455,7 @@ Rongmei	Hundred	pʰɑe kʰət	pʰɑe kʰət
 Rongmei	Hundred	pʰɑe	pʰɑe
 Rongmei	Thousand	ciŋ kʰət	ciŋ kʰət
 Rongmei	Lakh	lɑ kʰət	lɑ kʰət
-Rongmei	Million	miliən kʰət	miliən kʰət
+Rongmei	One Million	miliən kʰət	miliən kʰət
 Rongmei	Crore	kror kʰət	kror kʰət
 Rongmei	Billion	biliən kʰət	biliən kʰət
 Rongmei	One hundred	pʰɑekʰət	pʰɑekʰət
@@ -1579,7 +1579,7 @@ Angami	Ninety nine	hɛtʰɛθtʰɛθ	hɛtʰɛθtʰɛθ
 Angami	Hundred	krepuʋo	krepuʋo
 Angami	Thousand	ɳjepuʋo	ɳjepuʋo
 Angami	Lakh	ɳjekrepuʋo	ɳjekrepuʋo
-Angami	Million	-	-
+Angami	One Million	-	-
 Angami	Crore	-	-
 Angami	Billion	-	-
 Angami	One hundred	krepuʋo	krepuʋo
@@ -1703,7 +1703,7 @@ Jad	Ninety nine	ɡupcukerɡu	ɡupcukerɡu
 Jad	Hundred	ɡjə	ɡjə
 Jad	Thousand	toŋ cik	toŋ cik
 Jad	Lakh	-	-
-Jad	Million	-	-
+Jad	One Million	-	-
 Jad	Crore	-	-
 Jad	Billion	-	-
 Jad	One hundred	ɡjə	ɡjə
@@ -1827,7 +1827,7 @@ Bhoti	Ninety nine	ɡubcuɡorɡu	ɡubcuɡorɡu
 Bhoti	Hundred	ɡjə	ɡjə
 Bhoti	Thousand	toŋ ci	toŋ ci
 Bhoti	Lakh	lɑkʰ ci	lɑkʰ ci
-Bhoti	Million	-	-
+Bhoti	One Million	-	-
 Bhoti	Crore	ɟeʋɑ ci	ɟeʋɑ ci
 Bhoti	Billion	-	-
 Bhoti	One hundred	ɡjə	ɡjə
@@ -1951,7 +1951,7 @@ Thadou	Ninety nine	somkoləko	somkoləko
 Thadou	Hundred	zəkʰət	zəkʰət
 Thadou	Thousand	səŋkʰət	səŋkʰət
 Thadou	Lakh	ləkʰət	ləkʰət
-Thadou	Million	miliən	miliən
+Thadou	One Million	miliən	miliən
 Thadou	Crore	kror	kror
 Thadou	Billion	biliən	biliən
 Thadou	One hundred	zəkʰət	zəkʰət
@@ -2075,7 +2075,7 @@ Mao	Ninety nine	rekʋɑciko	rekʋɑciko
 Mao	Hundred	krɛʰ	krɛʰ
 Mao	Thousand	pʰuh	pʰuh
 Mao	Lakh	lɑk	lɑk
-Mao	Million	-	-
+Mao	One Million	-	-
 Mao	Crore	kror	kror
 Mao	Billion	-	-
 Mao	One hundred	krɛ kəli	krɛ kəli
@@ -2200,7 +2200,7 @@ Hajong	Hundred	sotɑŋ	sotɑŋ
 Hajong	Thousand	hazɑr	hazɑr
 Hajong	Thousand	esotɑŋ	esotɑŋ
 Hajong	Lakh	eso sotɑŋ	eso sotɑŋ
-Hajong	Million	notɑŋ	notɑŋ
+Hajong	One Million	notɑŋ	notɑŋ
 Hajong	Crore	do-notɑŋ	do-notɑŋ
 Hajong	Billion	so-notɑŋ	so-notɑŋ
 			
@@ -2309,7 +2309,7 @@ Ho	Hundred	moje hisi	moje hisi
 Ho	Thousand	ɖɑkɑ	ɖɑkɑ
 Ho	Thousand	həzɑr	həzɑr
 Ho	Lakh	ɖuməŋ	ɖuməŋ
-Ho	Million	-	-
+Ho	One Million	-	-
 Ho	Crore	-	-
 Ho	Billion	-	-
 Ho	One hundred	mi sɔ	mi sɔ
@@ -2434,7 +2434,7 @@ Kharia	Hundred	sɛ	sɛ
 Kharia	Hundred	moloj ekɽi	moloj ekɽi
 Kharia	Thousand	həzɑr	həzɑr
 Kharia	Lakh	lɑkʰ	lɑkʰ
-Kharia	Million	ɡʰol lɑkʰ	ɡʰol lɑkʰ
+Kharia	One Million	ɡʰol lɑkʰ	ɡʰol lɑkʰ
 Kharia	Crore	kəror	kəror
 Kharia	Billion	mõj ərəb	mõj ərəb
 Kharia	One hundred	mõj sɛ	mõj sɛ
@@ -2559,7 +2559,7 @@ Khasi	Ninety nine	kʰɪndɑ:ɪpʰɑʋkʰɪndɑ:ɪ	kʰɪndɑ:ɪpʰɑʋkʰɪndɑ:�
 Khasi	Hundred	sɪ:spɑ	sɪ:spɑ
 Khasi	Thousand	sɪ həzɑ:r	sɪ həzɑ:r
 Khasi	Lakh	sɪ lɑ:k	sɪ lɑ:k
-Khasi	Million	-	-
+Khasi	One Million	-	-
 Khasi	Crore	sɪ kror	sɪ kror
 Khasi	Billion	-	-
 Khasi	One hundred	sispɑ	sispɑ
@@ -2683,7 +2683,7 @@ Pnar	Ninety nine	kʰɪnɖepʰɑʊ kʰɪnɖe	kʰɪnɖepʰɑʊ kʰɪnɖe
 Pnar	Hundred	sʰɪspɑ	sʰɪspɑ
 Pnar	Thousand	sʰɪ həzɑr	sʰɪ həzɑr
 Pnar	Lakh	lɑ:k	lɑ:k
-Pnar	Million	-	-
+Pnar	One Million	-	-
 Pnar	Crore	klur	klur
 Pnar	Billion	-	-
 Pnar	One hundred	cʰispɑ	cʰispɑ
@@ -2807,7 +2807,7 @@ Santali	Ninety nine	ɑrɛ ɡɛl ɑrɛ	ɑrɛ ɡɛl ɑrɛ
 Santali	Hundred	sɑe	sɑe
 Santali	Thousand	mit' hɑzɑr	mit' hɑzɑr
 Santali	Lakh	mit' lɑkʰ	mit' lɑkʰ
-Santali	Million	-	-
+Santali	One Million	-	-
 Santali	Crore	mit' kror	mit' kror
 Santali	Billion	-	-
 Santali	One hundred	mit' sɑe	mit' sɑe
@@ -2927,7 +2927,7 @@ Mundari	Hundred	moɽe hisi	moɽe hisi
 Mundari	Thousand	ɡel sɑe	ɡel sɑe
 Mundari	Thousand	sɔ	sɔ
 Mundari	Lakh	lɑkʰ	lɑkʰ
-Mundari	Million	-	-
+Mundari	One Million	-	-
 Mundari	Crore	kror	kror
 Mundari	Billion	-	-
 Mundari	One hundred	mit' sɑe	mit' sɑe
@@ -3051,7 +3051,7 @@ Korku	Ninety nine	upʰun isɑ ɖo ɡel ɑ:rɑi	upʰun isɑ ɖo ɡel ɑ:rɑi
 Korku	Hundred	myɑ? seddi	myɑ? seddi
 Korku	Thousand	-	-
 Korku	Lakh	-	-
-Korku	Million	-	-
+Korku	One Million	-	-
 Korku	Crore	-	-
 Korku	Billion	-	-
 			
@@ -3157,7 +3157,7 @@ Sora	Ninety nine	unjikurimiɡelɡulji	unjikurimiɡelɡulji
 Sora	Hundred	bo suɑ	bo suɑ
 Sora	Thousand	-	-
 Sora	Lakh	-	-
-Sora	Million	-	-
+Sora	One Million	-	-
 Sora	Crore	-	-
 Sora	Billion	-	-
 			
@@ -3276,7 +3276,7 @@ CarNicobarese	Hundred	héŋɔ́ŋ	héŋɔ́ŋ
 CarNicobarese	Thousand	kɑhók kəñ	kɑhók kəñ
 CarNicobarese	Thousand	héŋ kəñ	héŋ kəñ
 CarNicobarese	Lakh	-	-
-CarNicobarese	Million	-	-
+CarNicobarese	One Million	-	-
 CarNicobarese	Crore	-	-
 CarNicobarese	Billion	-	-
 			
@@ -3382,7 +3382,7 @@ Luro	Ninety nine	heɑŋhətətumheɑŋhətə	heɑŋhətətumheɑŋhətə
 Luro	Hundred	hiəŋ tə sɔ	hiəŋ tə sɔ
 Luro	Thousand	hiəŋ tə həjɑrə	hiəŋ tə həjɑrə
 Luro	Lakh	-	-
-Luro	Million	-	-
+Luro	One Million	-	-
 Luro	Crore	-	-
 Luro	Billion	-	-
 			
@@ -3489,7 +3489,7 @@ Sanenyo	Hundred	hiəŋ nɔŋ	hiəŋ nɔŋ
 Sanenyo	Thousand	məmi: lə?	məmi: lə?
 Sanenyo	Thousand	hiəŋ məmi:lə?	hiəŋ məmi:lə?
 Sanenyo	Lakh	-	-
-Sanenyo	Million	-	-
+Sanenyo	One Million	-	-
 Sanenyo	Crore	-	-
 Sanenyo	Billion	-	-
 			
@@ -3595,7 +3595,7 @@ Kannada	Ninety nine	tombətombətu	tombətombətu
 Kannada	Hundred	nu:ru	nu:ru
 Kannada	Thousand	sɑʋirɑ	sɑʋirɑ
 Kannada	Lakh	ləkʃa	ləkʃa
-Kannada	Million	-	-
+Kannada	One Million	-	-
 Kannada	Crore	koʈi	koʈi
 Kannada	Billion	-	-
 Kannada	One hundred	ʋəndu nu:ru	ʋəndu nu:ru
@@ -3725,7 +3725,7 @@ Toda	Ninety nine	ɑɪnbətunbəd	ɑɪnbətunbəd
 Toda	Hundred	onnor	onnor
 Toda	Thousand	soʋer	soʋer
 Toda	Lakh	ləcʰ	ləcʰ
-Toda	Million	-	-
+Toda	One Million	-	-
 Toda	Crore	kuɖɪ	kuɖɪ
 Toda	Billion	-	-
 Toda	One hundred	onnor	onnor
@@ -3853,7 +3853,7 @@ Gondi	Hundred	həĩŋɡe	həĩŋɡe
 Gondi	Hundred	ẽŋ koɽi	ẽŋ koɽi
 Gondi	Thousand	-	-
 Gondi	Lakh	-	-
-Gondi	Million	-	-
+Gondi	One Million	-	-
 Gondi	Crore	-	-
 Gondi	Billion	-	-
 			
@@ -3959,7 +3959,7 @@ Kota	Ninety nine	tombətorbɑdə	tombətorbɑdə
 Kota	Hundred	nu:rə	nu:rə
 Kota	Thousand	sɑʋernə	sɑʋernə
 Kota	Lakh	ləcʰmə	ləcʰmə
-Kota	Million	-	-
+Kota	One Million	-	-
 Kota	Crore	koɪɖə	koɪɖə
 Kota	Billion	-	-
 Kota	One hundred	oɖə nu:rə	oɖə nu:rə
@@ -4083,7 +4083,7 @@ Kodagu	Ninety nine	tombətoɪmbədə	tombətoɪmbədə
 Kodagu	Hundred	nu:rə	nu:rə
 Kodagu	Thousand	ənirɑ	ənirɑ
 Kodagu	Lakh	ləkcʰə	ləkcʰə
-Kodagu	Million	miliən	miliən
+Kodagu	One Million	miliən	miliən
 Kodagu	Crore	koʈɪ	koʈɪ
 Kodagu	Billion	biliən	biliən
 Kodagu	One hundred	nu:rə	nu:rə
@@ -4207,7 +4207,7 @@ Tamil	Ninety nine	toɳɳu:rʊ onbədʊ	toɳɳu:rʊ onbədʊ
 Tamil	Hundred	nu:rʊ	nu:rʊ
 Tamil	Thousand	ɑirəm	ɑirəm
 Tamil	Lakh	lətcəm	lətcəm
-Tamil	Million	-	-
+Tamil	One Million	-	-
 Tamil	Crore	ko:dɪ	ko:dɪ
 Tamil	Billion	-	-
 Tamil	One hundred	oru nu:rə	oru nu:rə
@@ -4331,7 +4331,7 @@ Malayalam	Ninety nine	tɔɳɳu:tti ombɑtə	tɔɳɳu:tti ombɑtə
 Malayalam	Hundred	ɳu:rə	ɳu:rə
 Malayalam	Thousand	ɑ:jirəm	ɑ:jirəm
 Malayalam	Lakh	ləkʃəm	ləkʃəm
-Malayalam	Million	-	-
+Malayalam	One Million	-	-
 Malayalam	Crore	kɔ:ɖi	kɔ:ɖi
 Malayalam	Billion	-	-
 Malayalam	One hundred	nu:rə	nu:rə
@@ -4453,7 +4453,7 @@ Telugu	Ninety nine	tombəɪ tommɪdɪ	tombəɪ tommɪdɪ
 Telugu	Hundred	ʋəndɑ	ʋəndɑ
 Telugu	Thousand	ʋeɪɡɪ	ʋeɪɡɪ
 Telugu	Lakh	ləkʃhɑ	ləkʃhɑ
-Telugu	Million	-	-
+Telugu	One Million	-	-
 Telugu	Crore	koʈɪ	koʈɪ
 Telugu	Billion	-	-
 Telugu	One hundred	okɑ vəndɑ	okɑ vəndɑ
@@ -4579,7 +4579,7 @@ Kurukh	Ninety nine	nəjdoj nəj	nəjdoj nəj
 Kurukh	Hundred	suɖɖɪ	suɖɖɪ
 Kurukh	Thousand	həzɑr	həzɑr
 Kurukh	Lakh	lɑ:kʰ	lɑ:kʰ
-Kurukh	Million	-	-
+Kurukh	One Million	-	-
 Kurukh	Crore	kəror	kəror
 Kurukh	Billion	-	-
 Kurukh	One hundred	un sɔ	un sɔ
@@ -4705,7 +4705,7 @@ Badaga	Ninety nine	tombəttɪ ombəttu	tombəttɪ ombəttu
 Badaga	Hundred	nu:ru	nu:ru
 Badaga	Thousand	sɑʋerɑ	sɑʋerɑ
 Badaga	Lakh	ləccʰɑ	ləccʰɑ
-Badaga	Million	-	-
+Badaga	One Million	-	-
 Badaga	Crore	koɖɪ	koɖɪ
 Badaga	Billion	-	-
 Badaga	One hundred	ondu nu:ru	ondu nu:ru
@@ -4830,7 +4830,7 @@ Kulvi	Ninety nine	nəɳinʋe	nəɳinʋe
 Kulvi	Hundred	ʃɔu	ʃɔu
 Kulvi	Thousand	ek həzɑr	ek həzɑr
 Kulvi	Lakh	ek lɑk	ek lɑk
-Kulvi	Million	dəs lɑk	dəs lɑk
+Kulvi	One Million	dəs lɑk	dəs lɑk
 Kulvi	Crore	kror	kror
 Kulvi	Billion	ek ərəb	ek ərəb
 Kulvi	One hundred	ek ʃɔu	ek ʃɔu
@@ -4954,7 +4954,7 @@ Gaddi	Ninety nine	nəɽinʋe	nəɽinʋe
 Gaddi	Hundred	sɔ	sɔ
 Gaddi	Thousand	jɑr	jɑr
 Gaddi	Lakh	ləkʰ	ləkʰ
-Gaddi	Million	-	-
+Gaddi	One Million	-	-
 Gaddi	Crore	kror	kror
 Gaddi	Billion	ərəb	ərəb
 Gaddi	One hundred	ək sɔ	ək sɔ
@@ -5078,7 +5078,7 @@ Kumaoni	Ninety nine	ninjɑnʋe	ninjɑnʋe
 Kumaoni	Hundred	sɔ	sɔ
 Kumaoni	Thousand	həzɑr	həzɑr
 Kumaoni	Lakh	lɑkʰ	lɑkʰ
-Kumaoni	Million	dəs lɑkʰ	dəs lɑkʰ
+Kumaoni	One Million	dəs lɑkʰ	dəs lɑkʰ
 Kumaoni	Crore	kəror	kəror
 Kumaoni	Billion	ek ərəb	ek ərəb
 Kumaoni	One hundred	ek sɔ	ek sɔ
@@ -5202,7 +5202,7 @@ Garhwali	Ninety nine	ninjɑnʋe	ninjɑnʋe
 Garhwali	Hundred	sɔ	sɔ
 Garhwali	Thousand	həzɑr	həzɑr
 Garhwali	Lakh	lɑkʰ	lɑkʰ
-Garhwali	Million	dəs lɑkʰ	dəs lɑkʰ
+Garhwali	One Million	dəs lɑkʰ	dəs lɑkʰ
 Garhwali	Crore	kəror	kəror
 Garhwali	Billion	ek ərəb	ek ərəb
 Garhwali	One hundred	ek sɔ	ek sɔ
@@ -5326,7 +5326,7 @@ Dogri	Ninety nine	nəɖinue	nəɖinue
 Dogri	Hundred	so	so
 Dogri	Thousand	jɑr	jɑr
 Dogri	Lakh	ləkʰ	ləkʰ
-Dogri	Million	dəs ləkʰ	dəs ləkʰ
+Dogri	One Million	dəs ləkʰ	dəs ləkʰ
 Dogri	Crore	kror	kror
 Dogri	Billion	so ləkʰ	so ləkʰ
 Dogri	One hundred	ek so	ek so
@@ -5450,7 +5450,7 @@ Konkani	Ninety nine	ɳvjaɳɳəv	ɳvjaɳɳəv
 Konkani	Hundred	ʃə̃bər	ʃə̃bər
 Konkani	Thousand	həzar	həzar
 Konkani	Lakh	lakʰ	lakʰ
-Konkani	Million	dʰa lak	dʰa lak
+Konkani	One Million	dʰa lak	dʰa lak
 Konkani	Crore	kəroɖ	kəroɖ
 Konkani	Billion	ʃə̃bər koʈɪ	ʃə̃bər koʈɪ
 Konkani	One hundred	ʃə̃bər	ʃə̃bər
@@ -5574,7 +5574,7 @@ Nepali	Ninety nine	nirjɑnbe	nirjɑnbe
 Nepali	Hundred	ek sɛ	ek sɛ
 Nepali	Thousand	ek həzɑr	ek həzɑr
 Nepali	Lakh	ek lɑkʰ	ek lɑkʰ
-Nepali	Million	dəs lɑkʰ	dəs lɑkʰ
+Nepali	One Million	dəs lɑkʰ	dəs lɑkʰ
 Nepali	Crore	ek kəror	ek kəror
 Nepali	Billion	ek ərəb	ek ərəb
 Nepali	One hundred	ek sɛ	ek sɛ
@@ -5698,7 +5698,7 @@ Kudmali	Ninety nine	nəmen nəmi	nəmen nəmi
 Kudmali	Hundred	sihen	sihen
 Kudmali	Thousand	ləʈ	ləʈ
 Kudmali	Lakh	lɑkʰ	lɑkʰ
-Kudmali	Million	lili	lili
+Kudmali	One Million	lili	lili
 Kudmali	Crore	ləɖliɖ	ləɖliɖ
 Kudmali	Billion	-	-
 Kudmali	One hundred	ənɑ sihen	ənɑ sihen
@@ -5822,7 +5822,7 @@ Bengali	Ninety nine	nɪrɑnobboɪ	nɪrɑnobboɪ
 Bengali	Hundred	ɛk sɔ	ɛk sɔ
 Bengali	Thousand	hɑ:dʒɑr	hɑ:dʒɑr
 Bengali	Lakh	lɑ:k	lɑ:k
-Bengali	Million	-	-
+Bengali	One Million	-	-
 Bengali	Crore	koti:	koti:
 Bengali	Billion	-	-
 Bengali	One hundred	ek sɔ	ek sɔ
@@ -5946,7 +5946,7 @@ Assamese	Ninety nine	nɪrɑ:nnoboɪ	nɪrɑ:nnoboɪ
 Assamese	Hundred	ɛhɒ	ɛhɒ
 Assamese	Thousand	hɑ:dʒɑ:r	hɑ:dʒɑ:r
 Assamese	Lakh	lɑ:kʰ	lɑ:kʰ
-Assamese	Million	nɪdʒʊt	nɪdʒʊt
+Assamese	One Million	nɪdʒʊt	nɪdʒʊt
 Assamese	Crore	koʊtɪ	koʊtɪ
 Assamese	Billion	-	-
 Assamese	One hundred	ekʰo	ekʰo
@@ -6070,7 +6070,7 @@ Marwari	Ninety nine	nɪnɳaɳmɛ	nɪnɳaɳmɛ
 Marwari	Hundred	so	so
 Marwari	Thousand	həzɑr	həzɑr
 Marwari	Lakh	lɑkʰ	lɑkʰ
-Marwari	Million	-	-
+Marwari	One Million	-	-
 Marwari	Crore	kəɽoɽ	kəɽoɽ
 Marwari	Billion	-	-
 Marwari	One hundred	ek sɔ	ek sɔ
@@ -6092,129 +6092,129 @@ Marwari	Six thousand nine hundred	cʰe həzɑr nəu sɔ	cʰe həzɑr nəu sɔ
 Marwari	Seven thousand four hundred twenty two	sɑt həzɑr cɑr sɔ bɑis	sɑt həzɑr cɑr sɔ bɑis
 Marwari	Six thousand eight	cʰe həzɑr ɑʈʰ	cʰe həzɑr ɑʈʰ
 			
-PakistaniPunjabi 	One	ik	ik
-PakistaniPunjabi 	Two	do	do
-PakistaniPunjabi 	Three	tin	tin
-PakistaniPunjabi 	Four	tʃɑr	tʃɑr
-PakistaniPunjabi 	Five	pənɟ	pənɟ
-PakistaniPunjabi 	Six	tʃʰe	tʃʰe
-PakistaniPunjabi 	Seven	sət	sət
-PakistaniPunjabi 	Eight	əʈʰ	əʈʰ
-PakistaniPunjabi 	Nine	no	no
-PakistaniPunjabi 	Ten	dəs	dəs
-PakistaniPunjabi 	Eleven	jɑrɑ̃	jɑrɑ̃
-PakistaniPunjabi 	Twelve	bɑrɑ̃	bɑrɑ̃
-PakistaniPunjabi 	Thirteen	terɑ̃	terɑ̃
-PakistaniPunjabi 	Fourteen	tʃudʰɑ̃	tʃudʰɑ̃
-PakistaniPunjabi 	Fifteen	pəndʰrɑ̃	pəndʰrɑ̃
-PakistaniPunjabi 	Sixteen	solɑ̃	solɑ̃
-PakistaniPunjabi 	Seventeen	sətɑrɑ̃	sətɑrɑ̃
-PakistaniPunjabi 	Eighteen	əʈʰɑrɑ̃	əʈʰɑrɑ̃
-PakistaniPunjabi 	Nineteen	unni	unni
-PakistaniPunjabi 	Twenty	ʋi	ʋi
-PakistaniPunjabi 	Twenty One	ikki	ikki
-PakistaniPunjabi 	Twenty two	bɑi	bɑi
-PakistaniPunjabi 	Twenty three	tei	tei
-PakistaniPunjabi 	Twenty four	tʃɔbi	tʃɔbi
-PakistaniPunjabi 	Twenty five	pənɟi	pənɟi
-PakistaniPunjabi 	Twenty six	tʃʰəbi	tʃʰəbi
-PakistaniPunjabi 	Twenty seven	sətɑi	sətɑi
-PakistaniPunjabi 	Twenty eight	əʈʰɑi	əʈʰɑi
-PakistaniPunjabi 	Twenty nine	unnəti	unnəti
-PakistaniPunjabi 	Thirty	ti	ti
-PakistaniPunjabi 	Thirty one	kətti	kətti
-PakistaniPunjabi 	Thirty two	bətti	bətti
-PakistaniPunjabi 	Thirty three	tẽti	tẽti
-PakistaniPunjabi 	Thirty four	tʃõti	tʃõti
-PakistaniPunjabi 	Thirty five	pɛ̃ti	pɛ̃ti
-PakistaniPunjabi 	Thirty six	tʃʰətti	tʃʰətti
-PakistaniPunjabi 	Thirty seven	sɛ̃ti	sɛ̃ti
-PakistaniPunjabi 	Thirty eight	əɽti	əɽti
-PakistaniPunjabi 	Thirty nine	unʈɑli	unʈɑli
-PakistaniPunjabi 	Forty	tʃɑli	tʃɑli
-PakistaniPunjabi 	Forty one	iktɑli	iktɑli
-PakistaniPunjabi 	Forty two	bətɑli	bətɑli
-PakistaniPunjabi 	Forty three	tẽtɑli	tẽtɑli
-PakistaniPunjabi 	Forty four	tʃʋɑli	tʃʋɑli
-PakistaniPunjabi 	Forty five	pentɑli	pentɑli
-PakistaniPunjabi 	Forty six	tʃʰijɑli	tʃʰijɑli
-PakistaniPunjabi 	Forty seven	sẽtɑli	sẽtɑli
-PakistaniPunjabi 	Forty eight	əɽtɑli	əɽtɑli
-PakistaniPunjabi 	Forty nine	uninɟɑʰ	uninɟɑʰ
-PakistaniPunjabi 	Fifty	pənɟɑʰ	pənɟɑʰ
-PakistaniPunjabi 	Fifty one	ikɑʋən	ikɑʋən
-PakistaniPunjabi 	Fifty two	bɑʋən	bɑʋən
-PakistaniPunjabi 	Fifty three	tripən	tripən
-PakistaniPunjabi 	Fifty four	tʃɔʋən	tʃɔʋən
-PakistaniPunjabi 	Fifty five	pətʃpən	pətʃpən
-PakistaniPunjabi 	Fifty six	tʃʰəpən	tʃʰəpən
-PakistaniPunjabi 	Fifty seven	sətɑʋən	sətɑʋən
-PakistaniPunjabi 	Fifty eight	ʈʰɑʋən	ʈʰɑʋən
-PakistaniPunjabi 	Fifty nine	unɑʈʰ	unɑʈʰ
-PakistaniPunjabi 	Sixty	səʈʰ	səʈʰ
-PakistaniPunjabi 	Sixty one	ikɑʈʰ	ikɑʈʰ
-PakistaniPunjabi 	Sixty two	bɑʈʰ	bɑʈʰ
-PakistaniPunjabi 	Sixty three	teɽetʰ	teɽetʰ
-PakistaniPunjabi 	Sixty four	tʃõʈʰ	tʃõʈʰ
-PakistaniPunjabi 	Sixty five	pẽʈʰ	pẽʈʰ
-PakistaniPunjabi 	Sixty six	tʃiɑʈʰ	tʃiɑʈʰ
-PakistaniPunjabi 	Sixty seven	səɽsəʈʰ	səɽsəʈʰ
-PakistaniPunjabi 	Sixty eight	əʈʰɑʈʰ	əʈʰɑʈʰ
-PakistaniPunjabi 	Sixty nine	unətər	unətər
-PakistaniPunjabi 	Seventy	sətər	sətər
-PakistaniPunjabi 	Seventy one	ikətər	ikətər
-PakistaniPunjabi 	Seventy two	bɑtər	bɑtər
-PakistaniPunjabi 	Seventy three	tejətər	tejətər
-PakistaniPunjabi 	Seventy four	tʃoʰətər	tʃoʰətər
-PakistaniPunjabi 	Seventy five	pəɟhətər	pəɟhətər
-PakistaniPunjabi 	Seventy six	tʃehətər	tʃehətər
-PakistaniPunjabi 	Seventy seven	sətətər	sətətər
-PakistaniPunjabi 	Seventy eight	əʈʰətər	əʈʰətər
-PakistaniPunjabi 	Seventy nine	unɑsi	unɑsi
-PakistaniPunjabi 	Eighty	əsi	əsi
-PakistaniPunjabi 	Eighty one	kɑsi	kɑsi
-PakistaniPunjabi 	Eighty two	bijɑsi	bijɑsi
-PakistaniPunjabi 	Eighty three	tẽtɑsi	tẽtɑsi
-PakistaniPunjabi 	Eighty four	tʃurɑsi	tʃurɑsi
-PakistaniPunjabi 	Eighty five	pətʃɑsi	pətʃɑsi
-PakistaniPunjabi 	Eighty six	tʃʰejɑsi	tʃʰejɑsi
-PakistaniPunjabi 	Eighty seven	sətɑsi	sətɑsi
-PakistaniPunjabi 	Eighty eight	əʈʰɑsi	əʈʰɑsi
-PakistaniPunjabi 	Eighty nine	nəʋɑsi	nəʋɑsi
-PakistaniPunjabi 	Ninety	nəʋʋe	nəʋʋe
-PakistaniPunjabi 	Ninety one	kɑnʋe	kɑnʋe
-PakistaniPunjabi 	Ninety two	bɑnʋe	bɑnʋe
-PakistaniPunjabi 	Ninety three	tərɑnʋe	tərɑnʋe
-PakistaniPunjabi 	Ninety four	tʃorɑnʋe	tʃorɑnʋe
-PakistaniPunjabi 	Ninety five	pətʃɑnʋe	pətʃɑnʋe
-PakistaniPunjabi 	Ninety six	tʃʰejɑnʋe	tʃʰejɑnʋe
-PakistaniPunjabi 	Ninety seven	sətɑnʋe	sətɑnʋe
-PakistaniPunjabi 	Ninety eight	əʈʰɑnʋe	əʈʰɑnʋe
-PakistaniPunjabi 	Ninety nine	nənɑnʋe	nənɑnʋe
-PakistaniPunjabi 	Hundred	sɔ	sɔ
-PakistaniPunjabi 	Thousand	həzɑr	həzɑr
-PakistaniPunjabi 	Lakh	ləkʰ	ləkʰ
-PakistaniPunjabi 	Million	dəs ləkʰ	dəs ləkʰ
-PakistaniPunjabi 	Crore	kəroɽ	kəroɽ
-PakistaniPunjabi 	Billion	ərəb	ərəb
-PakistaniPunjabi 	One hundred	ik sɔ	ik sɔ
-PakistaniPunjabi 	Two hundred	do sɔ	do sɔ
-PakistaniPunjabi 	Three hundred	tin sɔ	tin sɔ
-PakistaniPunjabi 	Four hundred	tʃɑr sɔ	tʃɑr sɔ
-PakistaniPunjabi 	Five hundred	pənɟ sɔ	pənɟ sɔ
-PakistaniPunjabi 	Six hundred	tʃʰe sɔ	tʃʰe sɔ
-PakistaniPunjabi 	One thousand	ik həzɑr	ik həzɑr
-PakistaniPunjabi 	Two thousand	do həzɑr	do həzɑr
-PakistaniPunjabi 	Three thousand	tin həzɑr	tin həzɑr
-PakistaniPunjabi 	Four thousand	tʃɑr həzɑr	tʃɑr həzɑr
-PakistaniPunjabi 	Five thousand	pənɟ həzɑr	pənɟ həzɑr
-PakistaniPunjabi 	Six thousand	tʃʰe həzɑr	tʃʰe həzɑr
-PakistaniPunjabi 	Two hundred twenty one	do sɔ bɑi	do sɔ bɑi
-PakistaniPunjabi 	Five hundred six	pənɟ sɔ tʃʰe	pənɟ sɔ tʃʰe
-PakistaniPunjabi 	Three thousand forty eight	tin həzɑr əɽtɑli	tin həzɑr əɽtɑli
-PakistaniPunjabi 	Six thousand nine hundred	tʃʰe həzɑr no sɔ	tʃʰe həzɑr no sɔ
-PakistaniPunjabi 	Seven thousand four hundred twenty two	sət həzɑr tʃɑr sɔ bɑi	sət həzɑr tʃɑr sɔ bɑi
-PakistaniPunjabi 	Six thousand eight	tʃʰe həzɑr əʈʰ	tʃʰe həzɑr əʈʰ
+PakistaniPunjabi	One	ik	ik
+PakistaniPunjabi	Two	do	do
+PakistaniPunjabi	Three	tin	tin
+PakistaniPunjabi	Four	tʃɑr	tʃɑr
+PakistaniPunjabi	Five	pənɟ	pənɟ
+PakistaniPunjabi	Six	tʃʰe	tʃʰe
+PakistaniPunjabi	Seven	sət	sət
+PakistaniPunjabi	Eight	əʈʰ	əʈʰ
+PakistaniPunjabi	Nine	no	no
+PakistaniPunjabi	Ten	dəs	dəs
+PakistaniPunjabi	Eleven	jɑrɑ̃	jɑrɑ̃
+PakistaniPunjabi	Twelve	bɑrɑ̃	bɑrɑ̃
+PakistaniPunjabi	Thirteen	terɑ̃	terɑ̃
+PakistaniPunjabi	Fourteen	tʃudʰɑ̃	tʃudʰɑ̃
+PakistaniPunjabi	Fifteen	pəndʰrɑ̃	pəndʰrɑ̃
+PakistaniPunjabi	Sixteen	solɑ̃	solɑ̃
+PakistaniPunjabi	Seventeen	sətɑrɑ̃	sətɑrɑ̃
+PakistaniPunjabi	Eighteen	əʈʰɑrɑ̃	əʈʰɑrɑ̃
+PakistaniPunjabi	Nineteen	unni	unni
+PakistaniPunjabi	Twenty	ʋi	ʋi
+PakistaniPunjabi	Twenty One	ikki	ikki
+PakistaniPunjabi	Twenty two	bɑi	bɑi
+PakistaniPunjabi	Twenty three	tei	tei
+PakistaniPunjabi	Twenty four	tʃɔbi	tʃɔbi
+PakistaniPunjabi	Twenty five	pənɟi	pənɟi
+PakistaniPunjabi	Twenty six	tʃʰəbi	tʃʰəbi
+PakistaniPunjabi	Twenty seven	sətɑi	sətɑi
+PakistaniPunjabi	Twenty eight	əʈʰɑi	əʈʰɑi
+PakistaniPunjabi	Twenty nine	unnəti	unnəti
+PakistaniPunjabi	Thirty	ti	ti
+PakistaniPunjabi	Thirty one	kətti	kətti
+PakistaniPunjabi	Thirty two	bətti	bətti
+PakistaniPunjabi	Thirty three	tẽti	tẽti
+PakistaniPunjabi	Thirty four	tʃõti	tʃõti
+PakistaniPunjabi	Thirty five	pɛ̃ti	pɛ̃ti
+PakistaniPunjabi	Thirty six	tʃʰətti	tʃʰətti
+PakistaniPunjabi	Thirty seven	sɛ̃ti	sɛ̃ti
+PakistaniPunjabi	Thirty eight	əɽti	əɽti
+PakistaniPunjabi	Thirty nine	unʈɑli	unʈɑli
+PakistaniPunjabi	Forty	tʃɑli	tʃɑli
+PakistaniPunjabi	Forty one	iktɑli	iktɑli
+PakistaniPunjabi	Forty two	bətɑli	bətɑli
+PakistaniPunjabi	Forty three	tẽtɑli	tẽtɑli
+PakistaniPunjabi	Forty four	tʃʋɑli	tʃʋɑli
+PakistaniPunjabi	Forty five	pentɑli	pentɑli
+PakistaniPunjabi	Forty six	tʃʰijɑli	tʃʰijɑli
+PakistaniPunjabi	Forty seven	sẽtɑli	sẽtɑli
+PakistaniPunjabi	Forty eight	əɽtɑli	əɽtɑli
+PakistaniPunjabi	Forty nine	uninɟɑʰ	uninɟɑʰ
+PakistaniPunjabi	Fifty	pənɟɑʰ	pənɟɑʰ
+PakistaniPunjabi	Fifty one	ikɑʋən	ikɑʋən
+PakistaniPunjabi	Fifty two	bɑʋən	bɑʋən
+PakistaniPunjabi	Fifty three	tripən	tripən
+PakistaniPunjabi	Fifty four	tʃɔʋən	tʃɔʋən
+PakistaniPunjabi	Fifty five	pətʃpən	pətʃpən
+PakistaniPunjabi	Fifty six	tʃʰəpən	tʃʰəpən
+PakistaniPunjabi	Fifty seven	sətɑʋən	sətɑʋən
+PakistaniPunjabi	Fifty eight	ʈʰɑʋən	ʈʰɑʋən
+PakistaniPunjabi	Fifty nine	unɑʈʰ	unɑʈʰ
+PakistaniPunjabi	Sixty	səʈʰ	səʈʰ
+PakistaniPunjabi	Sixty one	ikɑʈʰ	ikɑʈʰ
+PakistaniPunjabi	Sixty two	bɑʈʰ	bɑʈʰ
+PakistaniPunjabi	Sixty three	teɽetʰ	teɽetʰ
+PakistaniPunjabi	Sixty four	tʃõʈʰ	tʃõʈʰ
+PakistaniPunjabi	Sixty five	pẽʈʰ	pẽʈʰ
+PakistaniPunjabi	Sixty six	tʃiɑʈʰ	tʃiɑʈʰ
+PakistaniPunjabi	Sixty seven	səɽsəʈʰ	səɽsəʈʰ
+PakistaniPunjabi	Sixty eight	əʈʰɑʈʰ	əʈʰɑʈʰ
+PakistaniPunjabi	Sixty nine	unətər	unətər
+PakistaniPunjabi	Seventy	sətər	sətər
+PakistaniPunjabi	Seventy one	ikətər	ikətər
+PakistaniPunjabi	Seventy two	bɑtər	bɑtər
+PakistaniPunjabi	Seventy three	tejətər	tejətər
+PakistaniPunjabi	Seventy four	tʃoʰətər	tʃoʰətər
+PakistaniPunjabi	Seventy five	pəɟhətər	pəɟhətər
+PakistaniPunjabi	Seventy six	tʃehətər	tʃehətər
+PakistaniPunjabi	Seventy seven	sətətər	sətətər
+PakistaniPunjabi	Seventy eight	əʈʰətər	əʈʰətər
+PakistaniPunjabi	Seventy nine	unɑsi	unɑsi
+PakistaniPunjabi	Eighty	əsi	əsi
+PakistaniPunjabi	Eighty one	kɑsi	kɑsi
+PakistaniPunjabi	Eighty two	bijɑsi	bijɑsi
+PakistaniPunjabi	Eighty three	tẽtɑsi	tẽtɑsi
+PakistaniPunjabi	Eighty four	tʃurɑsi	tʃurɑsi
+PakistaniPunjabi	Eighty five	pətʃɑsi	pətʃɑsi
+PakistaniPunjabi	Eighty six	tʃʰejɑsi	tʃʰejɑsi
+PakistaniPunjabi	Eighty seven	sətɑsi	sətɑsi
+PakistaniPunjabi	Eighty eight	əʈʰɑsi	əʈʰɑsi
+PakistaniPunjabi	Eighty nine	nəʋɑsi	nəʋɑsi
+PakistaniPunjabi	Ninety	nəʋʋe	nəʋʋe
+PakistaniPunjabi	Ninety one	kɑnʋe	kɑnʋe
+PakistaniPunjabi	Ninety two	bɑnʋe	bɑnʋe
+PakistaniPunjabi	Ninety three	tərɑnʋe	tərɑnʋe
+PakistaniPunjabi	Ninety four	tʃorɑnʋe	tʃorɑnʋe
+PakistaniPunjabi	Ninety five	pətʃɑnʋe	pətʃɑnʋe
+PakistaniPunjabi	Ninety six	tʃʰejɑnʋe	tʃʰejɑnʋe
+PakistaniPunjabi	Ninety seven	sətɑnʋe	sətɑnʋe
+PakistaniPunjabi	Ninety eight	əʈʰɑnʋe	əʈʰɑnʋe
+PakistaniPunjabi	Ninety nine	nənɑnʋe	nənɑnʋe
+PakistaniPunjabi	Hundred	sɔ	sɔ
+PakistaniPunjabi	Thousand	həzɑr	həzɑr
+PakistaniPunjabi	Lakh	ləkʰ	ləkʰ
+PakistaniPunjabi	One Million	dəs ləkʰ	dəs ləkʰ
+PakistaniPunjabi	Crore	kəroɽ	kəroɽ
+PakistaniPunjabi	Billion	ərəb	ərəb
+PakistaniPunjabi	One hundred	ik sɔ	ik sɔ
+PakistaniPunjabi	Two hundred	do sɔ	do sɔ
+PakistaniPunjabi	Three hundred	tin sɔ	tin sɔ
+PakistaniPunjabi	Four hundred	tʃɑr sɔ	tʃɑr sɔ
+PakistaniPunjabi	Five hundred	pənɟ sɔ	pənɟ sɔ
+PakistaniPunjabi	Six hundred	tʃʰe sɔ	tʃʰe sɔ
+PakistaniPunjabi	One thousand	ik həzɑr	ik həzɑr
+PakistaniPunjabi	Two thousand	do həzɑr	do həzɑr
+PakistaniPunjabi	Three thousand	tin həzɑr	tin həzɑr
+PakistaniPunjabi	Four thousand	tʃɑr həzɑr	tʃɑr həzɑr
+PakistaniPunjabi	Five thousand	pənɟ həzɑr	pənɟ həzɑr
+PakistaniPunjabi	Six thousand	tʃʰe həzɑr	tʃʰe həzɑr
+PakistaniPunjabi	Two hundred twenty one	do sɔ bɑi	do sɔ bɑi
+PakistaniPunjabi	Five hundred six	pənɟ sɔ tʃʰe	pənɟ sɔ tʃʰe
+PakistaniPunjabi	Three thousand forty eight	tin həzɑr əɽtɑli	tin həzɑr əɽtɑli
+PakistaniPunjabi	Six thousand nine hundred	tʃʰe həzɑr no sɔ	tʃʰe həzɑr no sɔ
+PakistaniPunjabi	Seven thousand four hundred twenty two	sət həzɑr tʃɑr sɔ bɑi	sət həzɑr tʃɑr sɔ bɑi
+PakistaniPunjabi	Six thousand eight	tʃʰe həzɑr əʈʰ	tʃʰe həzɑr əʈʰ
 			
 IndianPunjabi	One	ik	ik
 IndianPunjabi	Two	do	do
@@ -6318,7 +6318,7 @@ IndianPunjabi	Ninety nine	nəɽɪnʋẽ	nəɽɪnʋẽ
 IndianPunjabi	Hundred	sɔ	sɔ
 IndianPunjabi	Thousand	həzɑr	həzɑr
 IndianPunjabi	Lakh	ləkʰ	ləkʰ
-IndianPunjabi	Million	dəs ləkʰ	dəs ləkʰ
+IndianPunjabi	One Million	dəs ləkʰ	dəs ləkʰ
 IndianPunjabi	Crore	kroɽ	kroɽ
 IndianPunjabi	Billion	ərəb	ərəb
 IndianPunjabi	One hundred	ik sɔ	ik sɔ
@@ -6442,7 +6442,7 @@ Oriya	Ninety nine	ənəsət	ənəsət
 Oriya	Hundred	səhe	səhe
 Oriya	Thousand	həzɑre	həzɑre
 Oriya	Lakh	ləkʰjə	ləkʰjə
-Oriya	Million	dəs ləkʰjə	dəs ləkʰjə
+Oriya	One Million	dəs ləkʰjə	dəs ləkʰjə
 Oriya	Crore	koʈɪ	koʈɪ
 Oriya	Billion	dəs koʈɪ	dəs koʈɪ
 Oriya	One hundred	səhɛ	səhɛ
@@ -6566,7 +6566,7 @@ Kashmiri	Ninety nine	nəmnəmətʰ	nəmnəmətʰ
 Kashmiri	Hundred	hətʰ	hətʰ
 Kashmiri	Thousand	sɑ:s	sɑ:s
 Kashmiri	Lakh	ləcʰ	ləcʰ
-Kashmiri	Million	dəh ləcʰ	dəh ləcʰ
+Kashmiri	One Million	dəh ləcʰ	dəh ləcʰ
 Kashmiri	Crore	kəror	kəror
 Kashmiri	Billion	hətʰ kəror	hətʰ kəror
 Kashmiri	Billion	ərəb	ərəb
@@ -6691,7 +6691,7 @@ Marathi	Ninety nine	nəʋjɑnɳo	nəʋjɑnɳo
 Marathi	Hundred	səmbər	səmbər
 Marathi	Thousand	həzɑr	həzɑr
 Marathi	Lakh	lɑkʰ	lɑkʰ
-Marathi	Million	dəhɑ lɑkʰ	dəhɑ lɑkʰ
+Marathi	One Million	dəhɑ lɑkʰ	dəhɑ lɑkʰ
 Marathi	Crore	kror	kror
 Marathi	Billion	səmbʰər koʈɪ	səmbʰər koʈɪ
 Marathi	One hundred	ʃəmbʰər	ʃəmbʰər
@@ -6815,7 +6815,7 @@ Gujarati	Ninety nine	nəʊʋɑɳu	nəʊʋɑɳu
 Gujarati	Hundred	sɔ	sɔ
 Gujarati	Thousand	həzɑ:r	həzɑ:r
 Gujarati	Lakh	lɑ:kʰ	lɑ:kʰ
-Gujarati	Million	dəs lɑ:kʰ	dəs lɑ:kʰ
+Gujarati	One Million	dəs lɑ:kʰ	dəs lɑ:kʰ
 Gujarati	Crore	kror	kror
 Gujarati	Billion	dəs kror	dəs kror
 Gujarati	One hundred	ek sɔ	ek sɔ
@@ -6939,7 +6939,7 @@ Sindhi	Ninety nine	nəʋɑnʋe	nəʋɑnʋe
 Sindhi	Hundred	so	so
 Sindhi	Thousand	həzɑr	həzɑr
 Sindhi	Lakh	ləkʰ	ləkʰ
-Sindhi	Million	-	-
+Sindhi	One Million	-	-
 Sindhi	Crore	kəror	kəror
 Sindhi	Billion	-	-
 Sindhi	One hundred	hik sɔ	hik sɔ
@@ -7064,7 +7064,7 @@ Pahari	Hundred	so	so
 Pahari	Thousand	hədʒɑr	hədʒɑr
 Pahari	Thousand	dʒɑr	dʒɑr
 Pahari	Lakh	ləkʰ	ləkʰ
-Pahari	Million	-	-
+Pahari	One Million	-	-
 Pahari	Crore	kroɽ	kroɽ
 Pahari	Billion	ərəb	ərəb
 Pahari	One hundred	ek so	ek so
@@ -7189,7 +7189,7 @@ Nagpuri	Hundred	sɔ	sɔ
 Nagpuri	Hundred	sɛ̃kɽɑ	sɛ̃kɽɑ
 Nagpuri	Thousand	həzɑr	həzɑr
 Nagpuri	Lakh	lɑkʰ	lɑkʰ
-Nagpuri	Million	dəs lɑkʰ	dəs lɑkʰ
+Nagpuri	One Million	dəs lɑkʰ	dəs lɑkʰ
 Nagpuri	Crore	kəror	kəror
 Nagpuri	Billion	ek ərəb	ek ərəb
 Nagpuri	One hundred	ek sɔ	ek sɔ
@@ -7314,7 +7314,7 @@ Wagdi	Ninety nine	ninjɑɳu	ninjɑɳu
 Wagdi	Hundred	ho	ho
 Wagdi	Thousand	həzɑr	həzɑr
 Wagdi	Lakh	lɑkʰ	lɑkʰ
-Wagdi	Million	-	-
+Wagdi	One Million	-	-
 Wagdi	Crore	kəroɽ	kəroɽ
 Wagdi	Billion	-	-
 Wagdi	One hundred	ho	ho
@@ -7438,7 +7438,7 @@ Bajjika	Ninety nine	ninɑnʋe	ninɑnʋe
 Bajjika	Hundred	sɔ	sɔ
 Bajjika	Thousand	həzɑr	həzɑr
 Bajjika	Lakh	lɑkʰ	lɑkʰ
-Bajjika	Million	dəs lɑkʰ	dəs lɑkʰ
+Bajjika	One Million	dəs lɑkʰ	dəs lɑkʰ
 Bajjika	Crore	kəror	kəror
 Bajjika	Billion	dəs hezɑr lɑkʰ	dəs hezɑr lɑkʰ
 Bajjika	One hundred	ek sɔ	ek sɔ
@@ -7575,7 +7575,7 @@ Sanskrit	Hundred	ʃətəm	ʃətəm
 Sanskrit	Hundred	ekʃətəm	ekʃətəm
 Sanskrit	Thousand	səhəstrəm	səhəstrəm
 Sanskrit	Lakh	ləkʃʰəm	ləkʃʰəm
-Sanskrit	Million	-	-
+Sanskrit	One Million	-	-
 Sanskrit	Crore	koʈih	koʈih
 Sanskrit	Billion	-	-
 Sanskrit	One hundred	ʃətəm	ʃətəm
@@ -7699,7 +7699,7 @@ Panchparganiya	Ninety nine	ninɑnʋe	ninɑnʋe
 Panchparganiya	Hundred	so	so
 Panchparganiya	Thousand	hɑzɑr	hɑzɑr
 Panchparganiya	Lakh	lɑkʰ	lɑkʰ
-Panchparganiya	Million	dəs lɑkʰ	dəs lɑkʰ
+Panchparganiya	One Million	dəs lɑkʰ	dəs lɑkʰ
 Panchparganiya	Crore	kəroɽ	kəroɽ
 Panchparganiya	Billion	ek ərəb	ek ərəb
 Panchparganiya	One hundred	ek so	ek so
@@ -7823,7 +7823,7 @@ Sylheti	Ninety nine	nirɑnnobboi	nirɑnnobboi
 Sylheti	Hundred	æxʃo	æxʃo
 Sylheti	Thousand	æx ɑɟɑr	æx ɑɟɑr
 Sylheti	Lakh	æx lɑx	æx lɑx
-Sylheti	Million	dɔʃ lɑx	dɔʃ lɑx
+Sylheti	One Million	dɔʃ lɑx	dɔʃ lɑx
 Sylheti	Crore	æk kuʈi	æk kuʈi
 Sylheti	Billion	ʃo kuʈi	ʃo kuʈi
 Sylheti	One hundred	æxʃo	æxʃo
@@ -7951,7 +7951,7 @@ Urdu	Ninety nine	ninɑnʋe	ninɑnʋe
 Urdu	Hundred	so	so
 Urdu	Thousand	həzɑr	həzɑr
 Urdu	Lakh	lɑkʰ	lɑkʰ
-Urdu	Million	dəs lɑkʰ	dəs lɑkʰ
+Urdu	One Million	dəs lɑkʰ	dəs lɑkʰ
 Urdu	Crore	kəroɽ	kəroɽ
 Urdu	Billion	ɑrəb	ɑrəb
 Urdu	One hundred	ɑek so	ɑek so
@@ -8076,7 +8076,7 @@ Halbi	Hundred	pɑ̃c koɽi	pɑ̃c koɽi
 Halbi	Hundred	səʋ	səʋ
 Halbi	Thousand	ek həzɑr	ek həzɑr
 Halbi	Lakh	ek lɑkʰ	ek lɑkʰ
-Halbi	Million	dəs lɑkʰ	dəs lɑkʰ
+Halbi	One Million	dəs lɑkʰ	dəs lɑkʰ
 Halbi	Crore	ek kəror	ek kəror
 Halbi	Billion	-	-
 Halbi	One hundred	ek səʋ	ek səʋ
@@ -8202,7 +8202,7 @@ Khortha	Ninety nine	ninjɑnʋe	ninjɑnʋe
 Khortha	Hundred	ek sɔ	ek sɔ
 Khortha	Thousand	həzɑr	həzɑr
 Khortha	Lakh	lɑkʰ	lɑkʰ
-Khortha	Million	-	-
+Khortha	One Million	-	-
 Khortha	Crore	kəror	kəror
 Khortha	Billion	-	-
 Khortha	One hundred	ek sɔ	ek sɔ
@@ -8337,7 +8337,7 @@ Sinhala	Hundred	ekasīya	ekasīya
 Sinhala	Thousand	dāha 	dāha 
 Sinhala	Thousand	ekadāha	ekadāha
 Sinhala	Lakh	lakṣaya	lakṣaya
-Sinhala	Million	dasalakṣaya	dasalakṣaya
+Sinhala	One Million	dasalakṣaya	dasalakṣaya
 Sinhala	Crore	-	-
 Sinhala	Billion	-	-
 			
@@ -8444,7 +8444,7 @@ Palula	Ninety nine	cúurbhisɑ́-ee-ɑɳɑbʰís	cúurbhisɑ́-ee-ɑɳɑbʰi�
 Palula	Hundred	ɑ́ɑk sóo	ɑ́ɑk sóo
 Palula	Thousand	ɑ́ɑk zir	ɑ́ɑk zir
 Palula	Lakh	ɑ́ɑk lɑ́ɑk	ɑ́ɑk lɑ́ɑk
-Palula	Million	-	-
+Palula	One Million	-	-
 Palula	Crore	ɑ́ɑk kirúr	ɑ́ɑk kirúr
 Palula	Billion	-	-
 			
@@ -8551,7 +8551,7 @@ Rohingya	Hundred	ek-ćot	ek-ćot
 Rohingya	Hundred	cót	cót
 Rohingya	Thousand	ek-ɑ́zɑr	ek-ɑ́zɑr
 Rohingya	Lakh	ek-lɑ́k	ek-lɑ́k
-Rohingya	Million	-	-
+Rohingya	One Million	-	-
 Rohingya	Crore	ek-kurul	ek-kurul
 Rohingya	Billion	-	-
 			
@@ -8658,7 +8658,7 @@ Rajbongshi	Hundred	ɛkʃo	ɛkʃo
 Rajbongshi	Hundred	ʃo	ʃo
 Rajbongshi	Thousand	ɛk həzɑr	ɛk həzɑr
 Rajbongshi	Lakh	ɛk lɑkʰ	ɛk lɑkʰ
-Rajbongshi	Million	-	-
+Rajbongshi	One Million	-	-
 Rajbongshi	Crore	ɛk koʈi	ɛk koʈi
 Rajbongshi	Billion	-	-
 			
@@ -8764,7 +8764,7 @@ TaiKhamti	Ninety nine	kɑosipkɑo	kɑosipkɑo
 TaiKhamti	Hundred	pɑklɘŋ	pɑklɘŋ
 TaiKhamti	Thousand	hiŋlɘŋ	hiŋlɘŋ
 TaiKhamti	Lakh	lɑklɘŋ	lɑklɘŋ
-TaiKhamti	Million	-	-
+TaiKhamti	One Million	-	-
 TaiKhamti	Crore	-	-
 TaiKhamti	Billion	-	-
 TaiKhamti	One hundred	pɑklɘŋ	pɑklɘŋ
@@ -8891,7 +8891,7 @@ Nihali	Ninety nine	ninjɑnbe	ninjɑnbe
 Nihali	Hundred	sɔ	sɔ
 Nihali	Thousand	həzɑr	həzɑr
 Nihali	Lakh	-	-
-Nihali	Million	-	-
+Nihali	One Million	-	-
 Nihali	Crore	-	-
 Nihali	Billion	-	-
 			
@@ -8997,7 +8997,7 @@ Burushaski	Ninety nine	wɑlto ɑltɑr toorumo huntʃo	wɑlto ɑltɑr toorumo hun
 Burushaski	Hundred	tʰɑɑ	tʰɑɑ
 Burushaski	Thousand	hɑzɑɑr	hɑzɑɑr
 Burushaski	Lakh	-	-
-Burushaski	Million	-	-
+Burushaski	One Million	-	-
 Burushaski	Crore	-	-
 Burushaski	Billion	-	-
 			
@@ -9126,7 +9126,7 @@ Ao_2	Ninety nine	tʰukuʀ-tɘku	tʰukuʀ-tɘku
 Ao_2	Hundred	nuklaŋ	nuklaŋ
 Ao_2	Thousand	mɘɹʧaŋ	mɘɹʧaŋ
 Ao_2	Lakh	-	-
-Ao_2	Million	-	-
+Ao_2	One Million	-	-
 Ao_2	Crore	-	-
 Ao_2	Billion	-	-
 Ao_2	One hundred	nuklaŋ-kʰa	nuklaŋ-kʰa
@@ -9252,7 +9252,7 @@ ChakesangChokri	Ninety nine	hetʰɘʧin-tʰɘʧi	hetʰɘʧin-tʰɘʧi
 ChakesangChokri	Hundred	kɹapɘ	kɹapɘ
 ChakesangChokri	Thousand	ɲepɘ	ɲepɘ
 ChakesangChokri	Lakh	lakpɘ	lakpɘ
-ChakesangChokri	Million	milɪənpɘ	milɪənpɘ
+ChakesangChokri	One Million	milɪənpɘ	milɪənpɘ
 ChakesangChokri	Crore	kɹoɹpɘ	kɹoɹpɘ
 ChakesangChokri	Billion	bilɪənpɘ	bilɪənpɘ
 ChakesangChokri	One hundred	kɹapɘ	kɹapɘ
@@ -9378,7 +9378,7 @@ ChakesangKheza	Ninety nine	hatɘkfɘ-tɘkfɘ	hatɘkfɘ-tɘkfɘ
 ChakesangKheza	Hundred	tɹi	tɹi
 ChakesangKheza	Thousand	ɲa	ɲa
 ChakesangKheza	Lakh	-	-
-ChakesangKheza	Million	-	-
+ChakesangKheza	One Million	-	-
 ChakesangKheza	Crore	-	-
 ChakesangKheza	Billion	-	-
 ChakesangKheza	One hundred	tɹi-kele	tɹi-kele
@@ -9504,7 +9504,7 @@ Khiamniungan	Ninety nine	àulɘkau-wɘ-lɘkau	àulɘkau-wɘ-lɘkau
 Khiamniungan	Hundred	ʦunʦak	ʦunʦak
 Khiamniungan	Thousand	heŋ	heŋ
 Khiamniungan	Lakh	-	-
-Khiamniungan	Million	-	-
+Khiamniungan	One Million	-	-
 Khiamniungan	Crore	-	-
 Khiamniungan	Billion	-	-
 Khiamniungan	Hundred	ʦun	ʦun
@@ -9632,7 +9632,7 @@ Konyak	Ninety nine	tɪtu-pɘ-tu	tɪtu-pɘ-tu
 Konyak	Hundred	kʰoʧa	kʰoʧa
 Konyak	Thousand	haʧa	haʧa
 Konyak	Lakh	-	-
-Konyak	Million	-	-
+Konyak	One Million	-	-
 Konyak	Crore	-	-
 Konyak	Billion	-	-
 Konyak	One hundred	kʰoʧa	kʰoʧa
@@ -9758,7 +9758,7 @@ Lotha_2	Ninety nine	ekʰatokvɘ-sɘ-tokfɘ	ekʰatokvɘ-sɘ-tokfɘ
 Lotha_2	Hundred	ɘnzoa	ɘnzoa
 Lotha_2	Thousand	otʰɘŋ	otʰɘŋ
 Lotha_2	Lakh	-	-
-Lotha_2	Million	-	-
+Lotha_2	One Million	-	-
 Lotha_2	Crore	-	-
 Lotha_2	Billion	-	-
 Lotha_2	One hundred	ɘnzoa	ɘnzoa
@@ -9885,7 +9885,7 @@ Phom	Ninety nine	pʉəlipɘən-pə-ʃʉ	pʉəlipɘən-pə-ʃʉ
 Phom	Hundred	kʰohɯk	kʰohɯk
 Phom	Thousand	haʧa	haʧa
 Phom	Lakh	lak	lak
-Phom	Million	-	-
+Phom	One Million	-	-
 Phom	Crore	kɹoɹ	kɹoɹ
 Phom	Billion	-	-
 Phom	Hundred	kʰo	kʰo
@@ -10013,7 +10013,7 @@ Pochuri	Ninety nine	kuɹake-nə-toku	kuɹake-nə-toku
 Pochuri	Hundred	əmzake	əmzake
 Pochuri	Thousand	aɲekəsɯ	aɲekəsɯ
 Pochuri	Lakh	-	-
-Pochuri	Million	-	-
+Pochuri	One Million	-	-
 Pochuri	Crore	-	-
 Pochuri	Billion	-	-
 Pochuri	One hundred	əmzake	əmzake
@@ -10139,7 +10139,7 @@ Rengma	Ninety nine	hentəkɘə o tɘkɘə	hentəkɘə o tɘkɘə
 Rengma	Hundred	ʦì	ʦì
 Rengma	Thousand	je	je
 Rengma	Lakh	jeʦì	jeʦì
-Rengma	Million	jejeʦɘɹɘ	jejeʦɘɹɘ
+Rengma	One Million	jejeʦɘɹɘ	jejeʦɘɹɘ
 Rengma	Crore	kʰalávɘ	kʰalávɘ
 Rengma	Billion	kʰalávɘʦì	kʰalávɘʦì
 Rengma	Hundred	ʦi	ʦi
@@ -10267,7 +10267,7 @@ Sangtam	Ninety nine	ŋuɹe-pə-təku	ŋuɹe-pə-təku
 Sangtam	Hundred	ʦi kʰətu	ʦi kʰətu
 Sangtam	Thousand	kʰekʰətu	kʰekʰətu
 Sangtam	Lakh	kʰeʦɘkʰətu	kʰeʦɘkʰətu
-Sangtam	Million	-	-
+Sangtam	One Million	-	-
 Sangtam	Crore	-	-
 Sangtam	Billion	-	-
 Sangtam	Hundred	ʦi	ʦi
@@ -10396,7 +10396,7 @@ Sumi	Ninety nine	χɘtoku toku	χɘtoku toku
 Sumi	Hundred	a:χe	a:χe
 Sumi	Thousand	χeton̥e	χeton̥e
 Sumi	Lakh	-	-
-Sumi	Million	-	-
+Sumi	One Million	-	-
 Sumi	Crore	-	-
 Sumi	Billion	-	-
 Sumi	Hundred	a:χe	a:χe
@@ -10524,7 +10524,7 @@ Yimkhiung	Ninety nine	kuɹɘ kjak tuku	kuɹɘ kjak tuku
 Yimkhiung	Hundred	ʧi	ʧi
 Yimkhiung	Thousand	awuŋ	awuŋ
 Yimkhiung	Lakh	ʧiwuŋ	ʧiwuŋ
-Yimkhiung	Million	-	-
+Yimkhiung	One Million	-	-
 Yimkhiung	Crore	-	-
 Yimkhiung	Billion	-	-
 Yimkhiung	Hundred	ʧi	ʧi
@@ -10652,7 +10652,7 @@ Zeme	Ninety nine	ɹɘksɘkui sɘkui	ɹɘksɘkui sɘkui
 Zeme	Hundred	hai	hai
 Zeme	Thousand	ʧaŋket	ʧaŋket
 Zeme	Lakh	pɘla	pɘla
-Zeme	Million	hake:ndasaitum	hake:ndasaitum
+Zeme	One Million	hake:ndasaitum	hake:ndasaitum
 Zeme	Crore	moi	moi
 Zeme	Billion	kəpakokɘ-kɘloŋ hapaipiɹiakɘkisia	kəpakokɘ-kɘloŋ hapaipiɹiakɘkisia
 Zeme	Hundred	hai	hai
@@ -10781,7 +10781,7 @@ AgamNyishi	Hundred	ʧamɹeɘŋ	ʧamɹeɘŋ
 AgamNyishi	Hundred	ləŋo	ləŋo
 AgamNyishi	Thousand	ʤəɹgo	ʤəɹgo
 AgamNyishi	Lakh	ʤəɹləŋ	ʤəɹləŋ
-AgamNyishi	Million	kinsɘɹkʰe	kinsɘɹkʰe
+AgamNyishi	One Million	kinsɘɹkʰe	kinsɘɹkʰe
 AgamNyishi	Crore	kinsɘɹkɘn	kinsɘɹkɘn
 AgamNyishi	Billion	kinsɘɹkʰja	kinsɘɹkʰja
 AgamNyishi	One hundred	ləŋ-kʰin	ləŋ-kʰin
@@ -10908,7 +10908,7 @@ Apatani	Ninety nine	kuakʰəŋi-la-kuai	kuakʰəŋi-la-kuai
 Apatani	Hundred	laŋɪ	laŋɪ
 Apatani	Thousand	ʤaɹe	ʤaɹe
 Apatani	Lakh	lai	lai
-Apatani	Million	-	-
+Apatani	One Million	-	-
 Apatani	Crore	-	-
 Apatani	Billion	-	-
 Apatani	One hundred	laŋɪ	laŋɪ
@@ -11034,7 +11034,7 @@ Galo	Ninety nine	aʧamkeŋə-gola-keŋə	aʧamkeŋə-gola-keŋə
 Galo	Hundred	ʧamɹɘ	ʧamɹɘ
 Galo	Thousand	ʧamɹɘ ɘɹɘ	ʧamɹɘ ɘɹɘ
 Galo	Lakh	lak	lak
-Galo	Million	-	-
+Galo	One Million	-	-
 Galo	Crore	kɹoɹ	kɹoɹ
 Galo	Billion	-	-
 Galo	One hundred	ʧamɹɘ	ʧamɹɘ
@@ -11160,7 +11160,7 @@ HawaNocte	Ninety nine	ɹokʰu-wankʰu	ɹokʰu-wankʰu
 HawaNocte	Hundred	ʧa	ʧa
 HawaNocte	Thousand	haʤet	haʤet
 HawaNocte	Lakh	lak	lak
-HawaNocte	Million	-	-
+HawaNocte	One Million	-	-
 HawaNocte	Crore	kɹoɹ	kɹoɹ
 HawaNocte	Billion	-	-
 HawaNocte	Hundred	ʧa	ʧa
@@ -11288,7 +11288,7 @@ IduMishmi	Ninety nine	kʰimiɹ̥u-lu-kʰini	kʰimiɹ̥u-lu-kʰini
 IduMishmi	Hundred	malo	malo
 IduMishmi	Thousand	izaɹi	izaɹi
 IduMishmi	Lakh	-	-
-IduMishmi	Million	-	-
+IduMishmi	One Million	-	-
 IduMishmi	Crore	-	-
 IduMishmi	Billion	-	-
 IduMishmi	Hundred	malo	malo
@@ -11417,7 +11417,7 @@ KamanMishmi	Ninety nine	-ʧimo-nətmo	-ʧimo-nətmo
 KamanMishmi	Hundred	waijemo	waijemo
 KamanMishmi	Thousand	hìŋmo	hìŋmo
 KamanMishmi	Lakh	-	-
-KamanMishmi	Million	-	-
+KamanMishmi	One Million	-	-
 KamanMishmi	Crore	-	-
 KamanMishmi	Billion	-	-
 KamanMishmi	One hundred	waijemo	waijemo
@@ -11543,7 +11543,7 @@ Koro_aka	Ninety nine	gajefa-jali-gaje	gajefa-jali-gaje
 Koro_aka	Hundred	pála	pála
 Koro_aka	Thousand	pálafa:la	pálafa:la
 Koro_aka	Lakh	pálafa:lajelopalage	pálafa:lajelopalage
-Koro_aka	Million	-	-
+Koro_aka	One Million	-	-
 Koro_aka	Crore	-	-
 Koro_aka	Billion	-	-
 Koro_aka	Hundred	pála	pála
@@ -11671,7 +11671,7 @@ PadamAdi	Ninety nine	ɘiŋko-ŋ-kolaŋ-ko-ŋ	ɘiŋko-ŋ-kolaŋ-ko-ŋ
 PadamAdi	Hundred	lɘŋko	lɘŋko
 PadamAdi	Thousand	haʤaɹ	haʤaɹ
 PadamAdi	Lakh	-	-
-PadamAdi	Million	-	-
+PadamAdi	One Million	-	-
 PadamAdi	Crore	-	-
 PadamAdi	Billion	-	-
 PadamAdi	Hundred	lɘŋko	lɘŋko
@@ -11799,7 +11799,7 @@ TaraonMishmi	Ninety nine	kɘɲəŋhələŋ-kəɲəŋ	kɘɲəŋhələŋ-kəɲəŋ
 TaraonMishmi	Hundred	maluŋge	maluŋge
 TaraonMishmi	Thousand	azəŋge	azəŋge
 TaraonMishmi	Lakh	-	-
-TaraonMishmi	Million	-	-
+TaraonMishmi	One Million	-	-
 TaraonMishmi	Crore	-	-
 TaraonMishmi	Billion	-	-
 TaraonMishmi	One hundred	malumge	malumge
@@ -11925,7 +11925,7 @@ TikhakTangsa	Ninety nine	tɘkoʤoŋ-ɹa-tɘko	tɘkoʤoŋ-ɹa-tɘko
 TikhakTangsa	Hundred	ɹɘʧasi	ɹɘʧasi
 TikhakTangsa	Thousand	hiŋsi	hiŋsi
 TikhakTangsa	Lakh	hiŋsi-ɹɘʧasi	hiŋsi-ɹɘʧasi
-TikhakTangsa	Million	hiŋsi-hiŋsi	hiŋsi-hiŋsi
+TikhakTangsa	One Million	hiŋsi-hiŋsi	hiŋsi-hiŋsi
 TikhakTangsa	Crore	hiŋsi-hiŋsi-ɹa-ʧe	hiŋsi-hiŋsi-ɹa-ʧe
 TikhakTangsa	Billion	-	-
 TikhakTangsa	Hundred	ʧasi	ʧasi
@@ -12054,7 +12054,7 @@ Tsangla	Ninety nine	kʰai-pʰi-gin-soŋ-gu	kʰai-pʰi-gin-soŋ-gu
 Tsangla	Hundred	ʤa 	ʤa 
 Tsangla	Thousand	toŋ	toŋ
 Tsangla	Lakh	bum	bum
-Tsangla	Million	bum-se	bum-se
+Tsangla	One Million	bum-se	bum-se
 Tsangla	Crore	tumjuɹ	tumjuɹ
 Tsangla	Billion	bum-ʤa-tʰuɹ	bum-ʤa-tʰuɹ
 Tsangla	Hundred	ʤa	ʤa
@@ -12181,7 +12181,7 @@ UpperWancho	Ninety nine	pubʤibɘn-ba-aku	pubʤibɘn-ba-aku
 UpperWancho	Hundred	ʧaʧe	ʧaʧe
 UpperWancho	Thousand	haʤa	haʤa
 UpperWancho	Lakh	-	-
-UpperWancho	Million	-	-
+UpperWancho	One Million	-	-
 UpperWancho	Crore	-	-
 UpperWancho	Billion	-	-
 UpperWancho	Hundred	ʧa	ʧa
@@ -12309,7 +12309,7 @@ Bantawa	Ninety nine	nep-nek	nep-nek
 Bantawa	Hundred	bom	bom
 Bantawa	Thousand	bʰuŋ	bʰuŋ
 Bantawa	Lakh	supi	supi
-Bantawa	Million	pʌu-supi	pʌu-supi
+Bantawa	One Million	pʌu-supi	pʌu-supi
 Bantawa	Crore	ɖupi	ɖupi
 Bantawa	Billion	jupi	jupi
 Bantawa	One hundred	ɘk-bom	ɘk-bom
@@ -12474,7 +12474,7 @@ Bayung	Hundred	hitʰum	hitʰum
 Bayung	Hundred	kidum	kidum
 Bayung	Thousand	kidʌmdʌm	kidʌmdʌm
 Bayung	Lakh	-	-
-Bayung	Million	-	-
+Bayung	One Million	-	-
 Bayung	Crore	-	-
 Bayung	Billion	-	-
 Bayung	One hundred	kʌŋ hitʰum	kʌŋ hitʰum
@@ -12604,7 +12604,7 @@ Camling	Ninety nine	nu-m-nu-m	nu-m-nu-m
 Camling	Hundred	-mra-m	-mra-m
 Camling	Thousand	sim--m	sim--m
 Camling	Lakh	i-sim--m--m--m	i-sim--m--m--m
-Camling	Million	i-sim--m--m--m--m--m	i-sim--m--m--m--m--m
+Camling	One Million	i-sim--m--m--m--m--m	i-sim--m--m--m--m--m
 Camling	Crore	i-sim--m--m--m--m--m--m	i-sim--m--m--m--m--m--m
 Camling	Billion	-	-
 Camling	One hundred	i--mra-m	i--mra-m
@@ -12730,7 +12730,7 @@ Dumi	Ninety nine	nuk-nu	nuk-nu
 Dumi	Hundred	sim	sim
 Dumi	Thousand	him	him
 Dumi	Lakh	lim	lim
-Dumi	Million	tuk-si-lim	tuk-si-lim
+Dumi	One Million	tuk-si-lim	tuk-si-lim
 Dumi	Crore	krim	krim
 Dumi	Billion	-	-
 Dumi	One hundred	tuk-sim	tuk-sim
@@ -12856,7 +12856,7 @@ Jerung	Ninety nine	u-nsʌj	u-nsʌj
 Jerung	Hundred	sʌj	sʌj
 Jerung	Thousand	hʌdzar	hʌdzar
 Jerung	Lakh	lakʰ	lakʰ
-Jerung	Million	dʌs lakʰ	dʌs lakʰ
+Jerung	One Million	dʌs lakʰ	dʌs lakʰ
 Jerung	Crore	kʌroɖ	kʌroɖ
 Jerung	Billion	ʌrbʌ	ʌrbʌ
 Jerung	One hundred	ek-sʌj	ek-sʌj
@@ -12982,7 +12982,7 @@ Khaling	Ninety nine	u-nsʌj	u-nsʌj
 Khaling	Hundred	sʌj	sʌj
 Khaling	Thousand	hʌdzar	hʌdzar
 Khaling	Lakh	lakʰ	lakʰ
-Khaling	Million	dʌs lakʰ	dʌs lakʰ
+Khaling	One Million	dʌs lakʰ	dʌs lakʰ
 Khaling	Crore	kʌroɖ	kʌroɖ
 Khaling	Billion	ʌrbʌ	ʌrbʌ
 Khaling	One hundred	ek-sʌj	ek-sʌj
@@ -13108,7 +13108,7 @@ Koyee	Ninety nine	u-nsʌj	u-nsʌj
 Koyee	Hundred	uk-sʌj	uk-sʌj
 Koyee	Thousand	uk-hʌdzar	uk-hʌdzar
 Koyee	Lakh	uk-lakʰ	uk-lakʰ
-Koyee	Million	dʌs lakʰ	dʌs lakʰ
+Koyee	One Million	dʌs lakʰ	dʌs lakʰ
 Koyee	Crore	uk-kʌroɖ	uk-kʌroɖ
 Koyee	Billion	uk-ʌrbʌ	uk-ʌrbʌ
 Koyee	One hundred	uk-sʌj	uk-sʌj
@@ -13234,7 +13234,7 @@ Kulung	Ninety nine	bʌu-poŋ-bʌu	bʌu-poŋ-bʌu
 Kulung	Hundred	tsʰumri	tsʰumri
 Kulung	Thousand	hʌwʌu	hʌwʌu
 Kulung	Lakh	lʌŋkʌu	lʌŋkʌu
-Kulung	Million	poŋ-lʌŋkʌu	poŋ-lʌŋkʌu
+Kulung	One Million	poŋ-lʌŋkʌu	poŋ-lʌŋkʌu
 Kulung	Crore	kʌrbo	kʌrbo
 Kulung	Billion	atsʰeŋ	atsʰeŋ
 Kulung	One hundred	ik-tsʰum	ik-tsʰum
@@ -13360,7 +13360,7 @@ Nachering	Ninety nine	bʰʌu-bʰʌu	bʰʌu-bʰʌu
 Nachering	Hundred	tsundulu	tsundulu
 Nachering	Thousand	-	-
 Nachering	Lakh	-	-
-Nachering	Million	-	-
+Nachering	One Million	-	-
 Nachering	Crore	-	-
 Nachering	Billion	-	-
 Nachering	One hundred	uk-tsundulu	uk-tsundulu
@@ -13486,7 +13486,7 @@ Puma	Ninety nine	lep-let	lep-let
 Puma	Hundred	hup	hup
 Puma	Thousand	bʰuŋ	bʰuŋ
 Puma	Lakh	duŋ	duŋ
-Puma	Million	-	-
+Puma	One Million	-	-
 Puma	Crore	pəŋ	pəŋ
 Puma	Billion	raŋ	raŋ
 Puma	One hundred	ək-hup	ək-hup
@@ -13612,7 +13612,7 @@ Sampang	Ninety nine	ŋǝk-ŋǝk	ŋǝk-ŋǝk
 Sampang	Hundred	toŋ	toŋ
 Sampang	Thousand	ho-toŋ	ho-toŋ
 Sampang	Lakh	puŋ	puŋ
-Sampang	Million	-	-
+Sampang	One Million	-	-
 Sampang	Crore	nəpuŋ	nəpuŋ
 Sampang	Billion	-	-
 Sampang	One hundred	it-toŋ	it-toŋ
@@ -13738,7 +13738,7 @@ Sunwar	Ninety nine	u-nsʌj	u-nsʌj
 Sunwar	Hundred	sʌj	sʌj
 Sunwar	Thousand	hʌdzar	hʌdzar
 Sunwar	Lakh	lakʰ	lakʰ
-Sunwar	Million	dʌs lakʰ	dʌs lakʰ
+Sunwar	One Million	dʌs lakʰ	dʌs lakʰ
 Sunwar	Crore	kʌroɖ	kʌroɖ
 Sunwar	Billion	ʌrbʌ	ʌrbʌ
 Sunwar	One hundred	ek-sʌj	ek-sʌj
@@ -13864,7 +13864,7 @@ Thulung	Ninety nine	gu-dʰjum gu	gu-dʰjum gu
 Thulung	Hundred	ko nə-dʰjum	ko nə-dʰjum
 Thulung	Thousand	ko su-dʰjum	ko su-dʰjum
 Thulung	Lakh	ko ŋo-dʰjum	ko ŋo-dʰjum
-Thulung	Million	ko ru-dʰjum	ko ru-dʰjum
+Thulung	One Million	ko ru-dʰjum	ko ru-dʰjum
 Thulung	Crore	ko jet-dʰjum	ko jet-dʰjum
 Thulung	Billion	ko gu-dʰjum	ko gu-dʰjum
 Thulung	One hundred	ko nə-dʰjum	ko nə-dʰjum
@@ -13990,7 +13990,7 @@ Wambule	Ninety nine	nu-nu	nu-nu
 Wambule	Hundred	Kwal-sjako-sjako	Kwal-sjako-sjako
 Wambule	Thousand	kwal-hʌdzar	kwal-hʌdzar
 Wambule	Lakh	kwal-lakʰ	kwal-lakʰ
-Wambule	Million	kwal-sjako-lakʰ	kwal-sjako-lakʰ
+Wambule	One Million	kwal-sjako-lakʰ	kwal-sjako-lakʰ
 Wambule	Crore	kwal-kʌroɖ	kwal-kʌroɖ
 Wambule	Billion	ʌrbʌ	ʌrbʌ
 Wambule	One hundred	kwal-sjako-sjako	kwal-sjako-sjako
@@ -14118,7 +14118,7 @@ Yakkha	Ninety nine	pa-pa	pa-pa
 Yakkha	Hundred	eko-sʌj	eko-sʌj
 Yakkha	Thousand	hʌdzar	hʌdzar
 Yakkha	Lakh	lakʰ	lakʰ
-Yakkha	Million	dʌs lakʰ	dʌs lakʰ
+Yakkha	One Million	dʌs lakʰ	dʌs lakʰ
 Yakkha	Crore	kʌroɖ	kʌroɖ
 Yakkha	Billion	ʌrbʌ	ʌrbʌ
 Yakkha	One hundred	eko-sʌj	eko-sʌj
