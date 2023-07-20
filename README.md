@@ -21,20 +21,20 @@ Available online at https://github.com/numeralbank/sand
 
 [![CLDF validation](https://github.com/numeralbank/sand/workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/sand/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 94%](https://img.shields.io/badge/Concepticon-94%25-green.svg "Concepticon: 94%")
+![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 45%](https://img.shields.io/badge/BIPA-45%25-red.svg "BIPA: 45%")
 ![CLTS SoundClass: 45%](https://img.shields.io/badge/CLTS%20SoundClass-45%25-red.svg "CLTS SoundClass: 45%")
 
-- **Varieties:** 116
-- **Concepts:** 121
-- **Lexemes:** 13,427
+- **Varieties:** 117
+- **Concepts:** 126
+- **Lexemes:** 13,798
 - **Sources:** 8
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 125,196
-- **Segments:** 120 (66 BIPA errors, 66 CLTS sound class errors, 54 CLTS modified)
-- **Inventory size (avg):** 27.34
+- **Tokens:** 127,761
+- **Segments:** 121 (67 BIPA errors, 67 CLTS sound class errors, 54 CLTS modified)
+- **Inventory size (avg):** 28.15
 
 # Contributors
 
