@@ -23,8 +23,8 @@ Available online at https://github.com/numeralbank/sand
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 45%](https://img.shields.io/badge/BIPA-45%25-red.svg "BIPA: 45%")
-![CLTS SoundClass: 45%](https://img.shields.io/badge/CLTS%20SoundClass-45%25-red.svg "CLTS SoundClass: 45%")
+![BIPA: 74%](https://img.shields.io/badge/BIPA-74%25-yellow.svg "BIPA: 74%")
+![CLTS SoundClass: 74%](https://img.shields.io/badge/CLTS%20SoundClass-74%25-yellow.svg "CLTS SoundClass: 74%")
 
 - **Varieties:** 117
 - **Concepts:** 126
@@ -32,9 +32,9 @@ Available online at https://github.com/numeralbank/sand
 - **Sources:** 8
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 127,761
-- **Segments:** 121 (67 BIPA errors, 67 CLTS sound class errors, 54 CLTS modified)
-- **Inventory size (avg):** 28.15
+- **Tokens:** 132,990
+- **Segments:** 112 (29 BIPA errors, 29 CLTS sound class errors, 83 CLTS modified)
+- **Inventory size (avg):** 29.04
 
 # Contributors
 
