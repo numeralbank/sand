@@ -14016,7 +14016,7 @@ Yakkha	Two	hi	hi
 Yakkha	Two	hitsi	hitsi
 Yakkha	Three	su	su
 Yakkha	Three	sum	sum
-Yakkha	Four	-	-
+Yakkha	Four	na	na
 Yakkha	Five	pʰa	pʰa
 Yakkha	Six	ja	ja
 Yakkha	Seven	la	la
@@ -14026,7 +14026,7 @@ Yakkha	Ten	e-kʰeŋ	e-kʰeŋ
 Yakkha	Eleven	e-e	e-e
 Yakkha	Twelve	e-hi	e-hi
 Yakkha	Thirteen	e-su	e-su
-Yakkha	Fourteen	e--	e--
+Yakkha	Fourteen	e-na	e-na
 Yakkha	Fifteen	e-pʰa	e-pʰa
 Yakkha	Sixteen	e-ja	e-ja
 Yakkha	Seventeen	e-la	e-la
@@ -14036,7 +14036,7 @@ Yakkha	Twenty	hi-kʰeŋ	hi-kʰeŋ
 Yakkha	Twenty One	hi-e	hi-e
 Yakkha	Twenty two	hi-hi	hi-hi
 Yakkha	Twenty three	hi-su	hi-su
-Yakkha	Twenty four	hi--	hi--
+Yakkha	Twenty four	hi-na	hi-na
 Yakkha	Twenty five	hi-pʰa	hi-pʰa
 Yakkha	Twenty six	hi-ja	hi-ja
 Yakkha	Twenty seven	hi-la	hi-la
@@ -14046,27 +14046,27 @@ Yakkha	Thirty	su-kʰeŋ	su-kʰeŋ
 Yakkha	Thirty one	su-e	su-e
 Yakkha	Thirty two	su-hi	su-hi
 Yakkha	Thirty three	su-su	su-su
-Yakkha	Thirty four	su--	su--
+Yakkha	Thirty four	su-na	su-na
 Yakkha	Thirty five	su-pʰa	su-pʰa
 Yakkha	Thirty six	su-ja	su-ja
 Yakkha	Thirty seven	su-la	su-la
 Yakkha	Thirty eight	su-ta	su-ta
 Yakkha	Thirty nine	su-pa	su-pa
-Yakkha	Forty	--kʰeŋ	--kʰeŋ
-Yakkha	Forty one	--e	--e
-Yakkha	Forty two	--hi	--hi
-Yakkha	Forty three	--su	--su
-Yakkha	Forty four	---	---
-Yakkha	Forty five	--pʰa	--pʰa
-Yakkha	Forty six	--ja	--ja
-Yakkha	Forty seven	--la	--la
-Yakkha	Forty eight	--ta	--ta
-Yakkha	Forty nine	--pa	--pa
+Yakkha	Forty	na-kʰeŋ	na-kʰeŋ
+Yakkha	Forty one	na-e	na-e
+Yakkha	Forty two	na-hi	na-hi
+Yakkha	Forty three	na-su	na-su
+Yakkha	Forty four	na-na	na-na
+Yakkha	Forty five	na-pʰa	na-pʰa
+Yakkha	Forty six	na-ja	na-ja
+Yakkha	Forty seven	na-la	na-la
+Yakkha	Forty eight	na-ta	na-ta
+Yakkha	Forty nine	na-pa	na-pa
 Yakkha	Fifty	pʰa-kʰeŋ	pʰa-kʰeŋ
 Yakkha	Fifty one	pʰa-e	pʰa-e
 Yakkha	Fifty two	pʰa-hi	pʰa-hi
 Yakkha	Fifty three	pʰa-su	pʰa-su
-Yakkha	Fifty four	pʰa--	pʰa--
+Yakkha	Fifty four	pʰa-na	pʰa-na
 Yakkha	Fifty five	pʰa-pʰa	pʰa-pʰa
 Yakkha	Fifty six	pʰa-ja	pʰa-ja
 Yakkha	Fifty seven	pʰa-la	pʰa-la
@@ -14076,7 +14076,7 @@ Yakkha	Sixty	ja-kʰeŋ	ja-kʰeŋ
 Yakkha	Sixty one	ja-e	ja-e
 Yakkha	Sixty two	ja-hi	ja-hi
 Yakkha	Sixty three	ja-su	ja-su
-Yakkha	Sixty four	ja--	ja--
+Yakkha	Sixty four	ja-na	ja-na
 Yakkha	Sixty five	ja-pʰa	ja-pʰa
 Yakkha	Sixty six	ja-ja	ja-ja
 Yakkha	Sixty seven	ja-la	ja-la
@@ -14086,7 +14086,7 @@ Yakkha	Seventy	la-kʰeŋ	la-kʰeŋ
 Yakkha	Seventy one	la-e	la-e
 Yakkha	Seventy two	la-hi	la-hi
 Yakkha	Seventy three	la-su	la-su
-Yakkha	Seventy four	la--	la--
+Yakkha	Seventy four	la-na	la-na
 Yakkha	Seventy five	la-pʰa	la-pʰa
 Yakkha	Seventy six	la-ja	la-ja
 Yakkha	Seventy seven	la-la	la-la
@@ -14096,7 +14096,7 @@ Yakkha	Eighty	ta-kʰeŋ	ta-kʰeŋ
 Yakkha	Eighty one	ta-e	ta-e
 Yakkha	Eighty two	ta-hi	ta-hi
 Yakkha	Eighty three	ta-su	ta-su
-Yakkha	Eighty four	ta--	ta--
+Yakkha	Eighty four	ta-na	ta-na
 Yakkha	Eighty five	ta-pʰa	ta-pʰa
 Yakkha	Eighty six	ta-ja	ta-ja
 Yakkha	Eighty seven	ta-la	ta-la
@@ -14106,7 +14106,7 @@ Yakkha	Ninety	pa-kʰeŋ	pa-kʰeŋ
 Yakkha	Ninety one	pa-e	pa-e
 Yakkha	Ninety two	pa-hi	pa-hi
 Yakkha	Ninety three	pa-su	pa-su
-Yakkha	Ninety four	pa--	pa--
+Yakkha	Ninety four	pa-na	pa-na
 Yakkha	Ninety five	pa-pʰa	pa-pʰa
 Yakkha	Ninety six	pa-ja	pa-ja
 Yakkha	Ninety seven	pa-la	pa-la
