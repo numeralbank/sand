@@ -125,3 +125,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,NumberValue
 7422_seventhousandfourhundredtwentytwo,seven thousand four hundred twenty two,,SEVEN THOUSAND FOUR HUNDRED TWENTY TWO,7422,
 6008_sixthousandeight,six thousand eight,,SIX THOUSAND EIGHT,6008,
 1234_many,many,1198,MANY,1234,
+1000000_million,million,,MILLION,1000000,
+100000_hundredthousand,hundred thousand,,HUNDRED THOUSAND,100000,
+10000000_tenmillion,ten million,,TEN MILLION,10000000,
+10000_tenthousand,ten thousand,,TEN THOUSAND,10000,

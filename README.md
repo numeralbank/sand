@@ -23,18 +23,25 @@ Available online at https://github.com/numeralbank/sand
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 74%](https://img.shields.io/badge/BIPA-74%25-yellow.svg "BIPA: 74%")
-![CLTS SoundClass: 74%](https://img.shields.io/badge/CLTS%20SoundClass-74%25-yellow.svg "CLTS SoundClass: 74%")
+![BIPA: 73%](https://img.shields.io/badge/BIPA-73%25-yellow.svg "BIPA: 73%")
+![CLTS SoundClass: 73%](https://img.shields.io/badge/CLTS%20SoundClass-73%25-yellow.svg "CLTS SoundClass: 73%")
 
-- **Varieties:** 117 (linked to 115 different Glottocodes)
-- **Concepts:** 126 (linked to 118 different Concepticon concept sets)
-- **Lexemes:** 13,796
-- **Sources:** 8
+- **Varieties:** 131 (linked to 129 different Glottocodes)
+- **Concepts:** 130 (linked to 118 different Concepticon concept sets)
+- **Lexemes:** 15,362
+- **Sources:** 9
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 133,048
-- **Segments:** 112 (29 BIPA errors, 29 CLTS sound class errors, 83 CLTS modified)
-- **Inventory size (avg):** 29.03
+- **Tokens:** 150,012
+- **Segments:** 113 (30 BIPA errors, 30 CLTS sound class errors, 83 CLTS modified)
+- **Inventory size (avg):** 28.79
+
+## Possible Improvements:
+
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Phangduwali [phan1256](http://glottolog.org/resource/languoid/id/phan1256)
+
+
 
 # Contributors
 
