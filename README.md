@@ -28,11 +28,11 @@ Available online at https://github.com/numeralbank/sand
 
 - **Varieties:** 131 (linked to 129 different Glottocodes)
 - **Concepts:** 130 (linked to 118 different Concepticon concept sets)
-- **Lexemes:** 15,362
+- **Lexemes:** 15,364
 - **Sources:** 9
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 150,012
+- **Tokens:** 150,035
 - **Segments:** 113 (30 BIPA errors, 30 CLTS sound class errors, 83 CLTS modified)
 - **Inventory size (avg):** 28.79
 
