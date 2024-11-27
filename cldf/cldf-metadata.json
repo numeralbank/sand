@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.8-29-g86500e4",
+            "dc:created": "v0.8-31-g431969e",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.7"
+            "dc:description": "3.11.10"
         },
         {
             "dc:title": "python-packages",
