@@ -4402,10 +4402,9 @@
         },
         "Balti": {
             "bipa_errors": [
-                "<<\u02b2>>",
-                "G"
+                "<<\u02b2>>"
             ],
-            "general_errors": 45,
+            "general_errors": 22,
             "replacements": {
                 "+": [
                     "+"
@@ -4811,19 +4810,17 @@
                 ]
             },
             "sclass_errors": [
-                "<<\u02b2>>",
-                "G"
+                "<<\u02b2>>"
             ],
             "segments": {
                 "+": 202,
                 "/\u0294": 202,
                 "<<\u02b2>>": 22,
-                "G": 23,
                 "a": 141,
                 "b": 18,
                 "d": 11,
                 "e": 4,
-                "g": 34,
+                "g": 57,
                 "i": 139,
                 "k": 38,
                 "l": 1,
@@ -8807,10 +8804,10 @@
         },
         "CarNicobarese": {
             "bipa_errors": [
-                "o\u02c8\u25cc",
-                "e\u02c8\u25cc",
+                "u\u02c8\u25cc",
                 "i\u02c8\u25cc",
-                "u\u02c8\u25cc"
+                "o\u02c8\u25cc",
+                "e\u02c8\u25cc"
             ],
             "general_errors": 55,
             "replacements": {
@@ -9218,10 +9215,10 @@
                 ]
             },
             "sclass_errors": [
-                "o\u02c8\u25cc",
-                "e\u02c8\u25cc",
+                "u\u02c8\u25cc",
                 "i\u02c8\u25cc",
-                "u\u02c8\u25cc"
+                "o\u02c8\u25cc",
+                "e\u02c8\u25cc"
             ],
             "segments": {
                 "+": 165,
@@ -28238,10 +28235,8 @@
             }
         },
         "Ladakhi": {
-            "bipa_errors": [
-                "G"
-            ],
-            "general_errors": 4,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -28646,17 +28641,14 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [
-                "G"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 7,
                 "/\u0294": 7,
-                "G": 4,
                 "b": 51,
                 "d": 29,
                 "e": 4,
-                "g": 68,
+                "g": 72,
                 "i": 66,
                 "j": 33,
                 "k": 48,
@@ -31298,9 +31290,9 @@
         },
         "Mao": {
             "bipa_errors": [
-                "\u025b\u02b0",
                 "o\u02b0",
-                "\u0251\u02b0"
+                "\u0251\u02b0",
+                "\u025b\u02b0"
             ],
             "general_errors": 12,
             "replacements": {
@@ -31708,9 +31700,9 @@
                 ]
             },
             "sclass_errors": [
-                "\u025b\u02b0",
                 "o\u02b0",
-                "\u0251\u02b0"
+                "\u0251\u02b0",
+                "\u025b\u02b0"
             ],
             "segments": {
                 "+": 27,
@@ -38403,9 +38395,9 @@
         },
         "Palula": {
             "bipa_errors": [
-                "o\u02c8\u25cc",
+                "u\u02c8\u25cc",
                 "i\u02c8\u25cc",
-                "u\u02c8\u25cc"
+                "o\u02c8\u25cc"
             ],
             "general_errors": 127,
             "replacements": {
@@ -38813,9 +38805,9 @@
                 ]
             },
             "sclass_errors": [
-                "o\u02c8\u25cc",
+                "u\u02c8\u25cc",
                 "i\u02c8\u25cc",
-                "u\u02c8\u25cc"
+                "o\u02c8\u25cc"
             ],
             "segments": {
                 "+": 4,
@@ -42377,10 +42369,10 @@
         },
         "Rohingya": {
             "bipa_errors": [
-                "u\u02c8\u25cc",
-                "<<\u0107>>",
+                "o\u02c8\u25cc",
                 "i\u02c8\u25cc",
-                "o\u02c8\u25cc"
+                "<<\u0107>>",
+                "u\u02c8\u25cc"
             ],
             "general_errors": 37,
             "replacements": {
@@ -42788,10 +42780,10 @@
                 ]
             },
             "sclass_errors": [
-                "u\u02c8\u25cc",
-                "<<\u0107>>",
+                "o\u02c8\u25cc",
                 "i\u02c8\u25cc",
-                "o\u02c8\u25cc"
+                "<<\u0107>>",
+                "u\u02c8\u25cc"
             ],
             "segments": {
                 "<<\u0107>>": 1,
@@ -58315,34 +58307,6 @@
                 "s u m \u025f u s \u0254 n <s> i\u02b0 </s>"
             ],
             [
-                "Ladakhi-15_fifteen-1",
-                "Ladakhi",
-                "15_fifteen",
-                "t\u0283oG\u0251",
-                "t \u0283 o <s> G </s> \u0251"
-            ],
-            [
-                "Ladakhi-5000_fivethousand-1",
-                "Ladakhi",
-                "5000_fivethousand",
-                "sto\u014bG\u0251",
-                "s t o \u014b <s> G </s> \u0251"
-            ],
-            [
-                "Ladakhi-500_fivehundred-1",
-                "Ladakhi",
-                "500_fivehundred",
-                "G\u0251b\u0261j\u0259",
-                "<s> G </s> \u0251 b g j \u0259"
-            ],
-            [
-                "Ladakhi-5_five-1",
-                "Ladakhi",
-                "5_five",
-                "G\u0251",
-                "<s> G </s> \u0251"
-            ],
-            [
                 "Mao-100_hundred-1",
                 "Mao",
                 "100_hundred",
@@ -58427,11 +58391,39 @@
                 "r e k <s> o\u02b0 </s>"
             ],
             [
+                "Telugu-1000_onethousand-1",
+                "Telugu",
+                "1000_onethousand",
+                "ok\u0251ve\u02d0ji",
+                "o k \u0251 v e <s> <<\u02d0>> </s> j i"
+            ],
+            [
+                "Telugu-2000_twothousand-1",
+                "Telugu",
+                "2000_twothousand",
+                "ren\u0256uve\u02d0lu",
+                "r e n \u0256 u v e <s> <<\u02d0>> </s> l u"
+            ],
+            [
+                "Telugu-3000_threethousand-1",
+                "Telugu",
+                "3000_threethousand",
+                "mu\u02d0\u0256uve\u02d0lu",
+                "m u <s> <<\u02d0>> </s> \u0256 u v e <s> <<\u02d0>> </s> l u"
+            ],
+            [
                 "Telugu-300_threehundred-1",
                 "Telugu",
                 "300_threehundred",
                 "mu\u02d0\u0256uv\u0259nd\u0251lu",
                 "m u <s> <<\u02d0>> </s> \u0256 u v \u0259 n d \u0251 l u"
+            ],
+            [
+                "Telugu-4000_fourthousand-1",
+                "Telugu",
+                "4000_fourthousand",
+                "n\u0251\u02d0lu\u0261uve\u02d0lu",
+                "n \u0251 <s> <<\u02d0>> </s> l u g u v e <s> <<\u02d0>> </s> l u"
             ],
             [
                 "Telugu-400_fourhundred-1",
@@ -58476,34 +58468,33 @@
                 "\u0259 u /\u0294 + s o \u028b e r /\u0294 + n o n\u02d0 o r /\u0294 + \u028b \u0259 t <s> <<\u034f>> </s> \u025b \u0256"
             ]
         ],
-        "bad_words_count": 429,
+        "bad_words_count": 405,
         "bipa_errors": [
-            "\u25cc\u02b1",
             "e\u02b0",
-            "<<\u034f>>",
-            "i\u02b0",
-            "<<\u02d0>>",
-            "\u0251\u02b0",
             "a\u02c8\u25cc",
-            "<<\u02b0>>",
-            "<<\u0301>>",
-            "i\u02c8\u25cc",
-            "a\u02b0",
-            "u\u02b0",
-            "\u025b\u02b0",
-            "G",
-            "o\u02b0",
-            "e\u02c8\u25cc",
-            "u\u02c8\u25cc",
-            "<<K>>",
+            "\u0251\u02b0",
+            "<<\u034f>>",
             "o\u02c8\u25cc",
+            "i\u02c8\u25cc",
+            "<<\u0301>>",
+            "u\u02b0",
+            "<<K>>",
+            "<<\u02b2>>",
+            "\u25cc\u02b1",
+            "<<\u02b0>>",
+            "\u025b\u02b0",
+            "e\u02c8\u25cc",
+            "o\u02b0",
+            "u\u02c8\u25cc",
+            "i\u02b0",
+            "a\u02b0",
             "<<\u0107>>",
-            "<<\u02b2>>"
+            "<<\u02d0>>"
         ],
-        "general_errors": 491,
+        "general_errors": 464,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 28.72519083969464,
+        "inventory_size": 28.709923664122122,
         "replacements": {
             "+": [
                 "+"
@@ -58909,27 +58900,26 @@
             ]
         },
         "sclass_errors": [
-            "\u25cc\u02b1",
             "e\u02b0",
-            "<<\u034f>>",
-            "i\u02b0",
-            "<<\u02d0>>",
-            "\u0251\u02b0",
             "a\u02c8\u25cc",
-            "<<\u02b0>>",
-            "<<\u0301>>",
-            "i\u02c8\u25cc",
-            "a\u02b0",
-            "u\u02b0",
-            "\u025b\u02b0",
-            "G",
-            "o\u02b0",
-            "e\u02c8\u25cc",
-            "u\u02c8\u25cc",
-            "<<K>>",
+            "\u0251\u02b0",
+            "<<\u034f>>",
             "o\u02c8\u25cc",
+            "i\u02c8\u25cc",
+            "<<\u0301>>",
+            "u\u02b0",
+            "<<K>>",
+            "<<\u02b2>>",
+            "\u25cc\u02b1",
+            "<<\u02b0>>",
+            "\u025b\u02b0",
+            "e\u02c8\u25cc",
+            "o\u02b0",
+            "u\u02c8\u25cc",
+            "i\u02b0",
+            "a\u02b0",
             "<<\u0107>>",
-            "<<\u02b2>>"
+            "<<\u02d0>>"
         ],
         "segments": {
             "+": 6078,
@@ -58941,7 +58931,6 @@
             "<<\u02d0>>": 22,
             "<<\u0301>>": 1,
             "<<\u034f>>": 6,
-            "G": 27,
             "a": 6219,
             "a:": 68,
             "a\u02b0": 29,
@@ -58960,7 +58949,7 @@
             "e\u02b0": 2,
             "e\u02c8\u25cc": 3,
             "f": 461,
-            "g": 1599,
+            "g": 1626,
             "g\u02b0": 20,
             "h": 2436,
             "h\u02b0": 10,

@@ -29,7 +29,7 @@
 | b | 2078 | ✓ | ✓ |
 | ʌ | 1771 | ✓ | ✓ |
 | ɪ | 1648 | ✓ | ✓ |
-| g | 1599 | ✓ | ✓ |
+| g | 1626 | ✓ | ✓ |
 | d | 1523 | ✓ | ✓ |
 | ɹ | 1434 | ✓ | ✓ |
 | c | 1410 | ✓ | ✓ |
@@ -105,7 +105,6 @@
 | aʰ | 29 | ? | ? |
 | tʃʰ | 29 | ✓ | ✓ |
 | ɔ̃ | 29 | ✓ | ✓ |
-| G | 27 | ? | ? |
 | aˈ◌ | 27 | ? | ? |
 | <<ʲ>> | 26 | ? | ? |
 | n̥ | 26 | ✓ | ✓ |
@@ -161,7 +160,7 @@
 | ʀ | 1 | ✓ | ✓ |
 | ◌ʱ | 1 | ? | ? |
 
-(155 rows)
+(154 rows)
 
 
 
@@ -255,10 +254,6 @@
 | Jad-12_twelve-1 | Jad | 12_twelve | cuŋiʰ | c u ŋ <s> iʰ </s> |
 | Jad-2_two-1 | Jad | 2_two | niʰ | n <s> iʰ </s> |
 | Jad-32_thirtytwo-1 | Jad | 32_thirtytwo | sumɟusɔniʰ | s u m ɟ u s ɔ n <s> iʰ </s> |
-| Ladakhi-15_fifteen-1 | Ladakhi | 15_fifteen | tʃoGɑ | t ʃ o <s> G </s> ɑ |
-| Ladakhi-5000_fivethousand-1 | Ladakhi | 5000_fivethousand | stoŋGɑ | s t o ŋ <s> G </s> ɑ |
-| Ladakhi-500_fivehundred-1 | Ladakhi | 500_fivehundred | Gɑbɡjə | <s> G </s> ɑ b g j ə |
-| Ladakhi-5_five-1 | Ladakhi | 5_five | Gɑ | <s> G </s> ɑ |
 | Mao-100_hundred-1 | Mao | 100_hundred | krɛʰ | k r <s> ɛʰ </s> |
 | Mao-30_thirty-1 | Mao | 30_thirty | ʃjɑʰ | ʃ j <s> ɑʰ </s> |
 | Mao-31_thirtyone-1 | Mao | 31_thirtyone | ʃjɑʰlu | ʃ j <s> ɑʰ </s> l u |
@@ -271,7 +266,11 @@
 | Mao-38_thirtyeight-1 | Mao | 38_thirtyeight | ʃjɑʰcəccɑo | ʃ j <s> ɑʰ </s> c ə c c ɑ o |
 | Mao-39_thirtynine-1 | Mao | 39_thirtynine | ʃjɑʰciku | ʃ j <s> ɑʰ </s> c i k u |
 | Mao-90_ninety-1 | Mao | 90_ninety | rekoʰ | r e k <s> oʰ </s> |
+| Telugu-1000_onethousand-1 | Telugu | 1000_onethousand | okɑveːji | o k ɑ v e <s> <<ː>> </s> j i |
+| Telugu-2000_twothousand-1 | Telugu | 2000_twothousand | renɖuveːlu | r e n ɖ u v e <s> <<ː>> </s> l u |
+| Telugu-3000_threethousand-1 | Telugu | 3000_threethousand | muːɖuveːlu | m u <s> <<ː>> </s> ɖ u v e <s> <<ː>> </s> l u |
 | Telugu-300_threehundred-1 | Telugu | 300_threehundred | muːɖuvəndɑlu | m u <s> <<ː>> </s> ɖ u v ə n d ɑ l u |
+| Telugu-4000_fourthousand-1 | Telugu | 4000_fourthousand | nɑːluɡuveːlu | n ɑ <s> <<ː>> </s> l u g u v e <s> <<ː>> </s> l u |
 | Telugu-400_fourhundred-1 | Telugu | 400_fourhundred | nɑːluɡuvəndɑlu | n ɑ <s> <<ː>> </s> l u g u v ə n d ɑ l u |
 | Telugu-600_sixhundred-1 | Telugu | 600_sixhundred | ɑːruvəndɑlu | ɑ <s> <<ː>> </s> r u v ə n d ɑ l u |
 | Tinkarlo-78_seventyeight-1 | Tinkarlo | 78_seventyeight | ʈʊɡcʰɑ_cjəbɡʲɛ | ʈ ʊ g cʰ ɑ /ʔ + c j ə b g <s> <<ʲ>> </s> ɛ |
