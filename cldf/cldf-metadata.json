@@ -14,19 +14,19 @@
         {
             "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.8-51-gcf428b0",
+            "dc:created": "v0.8-60-g917a29c",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1-13-g83a7479ff6",
+            "dc:created": "v5.1-16-gdef583cdbe",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.3.0-6-gc239bad9",
+            "dc:created": "v3.4.0-1-gf5f8627a",
             "dc:title": "Concepticon"
         },
         {

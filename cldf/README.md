@@ -13,7 +13,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/numeralbank/sand
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/sand
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/sand/tree/cf428b0">numeralbank/sand v0.8-51-gcf428b0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/83a7479ff6">Glottolog v5.1-13-g83a7479ff6</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/c239bad9">Concepticon v3.3.0-6-gc239bad9</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/sand/tree/917a29c">numeralbank/sand v0.8-60-g917a29c</a></li><li><a href="https://github.com/glottolog/glottolog/tree/def583cdbe">Glottolog v5.1-16-gdef583cdbe</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/f5f8627a">Concepticon v3.4.0-1-gf5f8627a</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.13.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | sand
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
