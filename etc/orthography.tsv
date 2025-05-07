@@ -66,16 +66,16 @@ kʃ	k ʃ	1	U+006b U+0283
 ns	n s	1	U+006e U+0073
 _	/ʔ +	1	U+0027 U+005f
 dʰ	dʰ	1	U+0064 U+02b0
-◌uʰ  u
-◌eˈ◌  e
-◌uˈ◌  u
-◌iˈ◌  i
-◌oˈ◌  o
-◌aˈ◌  a
-◌ã  a
-◌ʲ  gʲ
-◌͏  NULL
-◌ʰ  tʰ
+◌uʰ	u
+◌eˈ◌	e
+◌uˈ◌	u
+◌iˈ◌	i
+◌oˈ◌	o
+◌aˈ◌	a
+◌ã	a
+◌ʲ	gʲ
+◌͏	NULL
+◌ʰ	tʰ
 G	g		
 K	k		
 cʱ	cʰ		
@@ -94,7 +94,7 @@ r̄	r
 :	NULL				
 ◌ʰ	NULL			
 ʊ'	u
-ú  ú
+ú	ú
 i'	i		
 iˈ◌	i		
 oˈ◌	o		
@@ -206,3 +206,4 @@ a:	a:
 l̥	l̥		
 ɹ̥	ɹ̥		
 ǝ	ǝ		
+t͏ɛ	NULL
