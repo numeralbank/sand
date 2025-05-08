@@ -5,41 +5,41 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| i | 8937 | ✓ | ✓ |
+| i | 8940 | ✓ | ✓ |
 | ə | 8228 | ✓ | ✓ |
-| u | 7039 | ✓ | ✓ |
+| u | 7036 | ✓ | ✓ |
 | s | 6792 | ✓ | ✓ |
-| a | 6219 | ✓ | ✓ |
+| a | 6248 | ✓ | ✓ |
 | t | 6159 | ✓ | ✓ |
 | + | 6078 | ✓ | ✓ |
 | /ʔ | 6078 | ✓ | ✓ |
 | n | 5949 | ✓ | ✓ |
-| k | 5630 | ✓ | ✓ |
-| e | 5474 | ✓ | ✓ |
-| o | 5333 | ✓ | ✓ |
-| ɑ | 5008 | ✓ | ✓ |
+| k | 5631 | ✓ | ✓ |
+| e | 5476 | ✓ | ✓ |
+| o | 5335 | ✓ | ✓ |
+| ɑ | 5020 | ✓ | ✓ |
 | r | 4549 | ✓ | ✓ |
 | m | 3952 | ✓ | ✓ |
 | p | 3528 | ✓ | ✓ |
 | l | 3499 | ✓ | ✓ |
 | ŋ | 3279 | ✓ | ✓ |
 | ɘ | 2616 | ✓ | ✓ |
+| h | 2446 | ✓ | ✓ |
 | j | 2443 | ✓ | ✓ |
-| h | 2436 | ✓ | ✓ |
 | b | 2078 | ✓ | ✓ |
 | ʌ | 1771 | ✓ | ✓ |
 | ɪ | 1648 | ✓ | ✓ |
 | g | 1626 | ✓ | ✓ |
 | d | 1523 | ✓ | ✓ |
 | ɹ | 1434 | ✓ | ✓ |
-| c | 1410 | ✓ | ✓ |
+| c | 1411 | ✓ | ✓ |
 | ʃ | 985 | ✓ | ✓ |
-| z | 915 | ✓ | ✓ |
+| z | 925 | ✓ | ✓ |
 | kʰ | 871 | ✓ | ✓ |
 | tʰ | 858 | ✓ | ✓ |
 | ʋ | 835 | ✓ | ✓ |
 | ɖ | 778 | ✓ | ✓ |
-| ɛ | 703 | ✓ | ✓ |
+| ɛ | 716 | ✓ | ✓ |
 | ʈʰ | 699 | ✓ | ✓ |
 | tː | 683 | ✓ | ✓ |
 | ɔ | 633 | ✓ | ✓ |
@@ -53,7 +53,7 @@
 | ʊ | 434 | ✓ | ✓ |
 | w | 366 | ✓ | ✓ |
 | y | 329 | ✓ | ✓ |
-| cʰ | 314 | ✓ | ✓ |
+| cʰ | 315 | ✓ | ✓ |
 | ɳ | 304 | ✓ | ✓ |
 | nː | 297 | ✓ | ✓ |
 | ʦ | 293 | ✓ | ✓ |
@@ -70,7 +70,7 @@
 | v | 140 | ✓ | ✓ |
 | ʤ | 137 | ✓ | ✓ |
 | pː | 135 | ✓ | ✓ |
-| uː | 119 | ✓ | ✓ |
+| uː | 122 | ✓ | ✓ |
 | ə̃ | 116 | ✓ | ✓ |
 | χ | 112 | ✓ | ✓ |
 | ɭ | 107 | ✓ | ✓ |
@@ -93,7 +93,7 @@
 | bʰ | 53 | ✓ | ✓ |
 | ɡʰ | 52 | ✓ | ✓ |
 | ɣ | 45 | ✓ | ✓ |
-| a◌̃ | 44 | ✓ | ✓ |
+| <<ã>> | 44 | ? | ? |
 | æ | 42 | ✓ | ✓ |
 | ɒ | 41 | ✓ | ✓ |
 | ʔ | 40 | ✓ | ✓ |
@@ -102,7 +102,6 @@
 | θ | 33 | ✓ | ✓ |
 | o◌̃ | 31 | ✓ | ✓ |
 | e: | 30 | ✓ | ✓ |
-| aʰ | 29 | ? | ? |
 | tʃʰ | 29 | ✓ | ✓ |
 | ɔ̃ | 29 | ✓ | ✓ |
 | aˈ◌ | 27 | ? | ? |
@@ -111,12 +110,10 @@
 | j̃ | 25 | ✓ | ✓ |
 | ɟʰ | 25 | ✓ | ✓ |
 | ɕ | 24 | ✓ | ✓ |
-| <<ː>> | 22 | ? | ? |
 | ɔ: | 22 | ✓ | ✓ |
 | gʰ | 20 | ✓ | ✓ |
 | r̃ | 20 | ✓ | ✓ |
 | ú: | 20 | ✓ | ✓ |
-| ɘ̀ | 20 | ✓ | ✓ |
 | ɛ̃: | 20 | ✓ | ✓ |
 | ɨ: | 20 | ✓ | ✓ |
 | nʰ | 17 | ✓ | ✓ |
@@ -127,40 +124,30 @@
 | mː | 13 | ✓ | ✓ |
 | m̥ | 13 | ✓ | ✓ |
 | u◌̃ | 13 | ✓ | ✓ |
-| ɛʰ | 13 | ? | ? |
 | dː | 12 | ✓ | ✓ |
 | uʰ | 12 | ? | ? |
 | zː | 12 | ✓ | ✓ |
-| ɑʰ | 12 | ? | ? |
 | t͡s | 11 | ✓ | ✓ |
 | ó: | 11 | ✓ | ✓ |
-| hʰ | 10 | ✓ | ✓ |
-| zʰ | 10 | ✓ | ✓ |
 | ɘ́ | 10 | ✓ | ✓ |
 | <<͏>> | 6 | ? | ? |
 | ɲ̥ | 5 | ✓ | ✓ |
 | o: | 4 | ✓ | ✓ |
 | ɖʰ | 4 | ✓ | ✓ |
 | eˈ◌ | 3 | ? | ? |
-| iʰ | 3 | ? | ? |
 | ɑ̃: | 3 | ✓ | ✓ |
 | ḷ | 3 | ✓ | ✓ |
-| eʰ | 2 | ? | ? |
 | l̥ | 2 | ✓ | ✓ |
-| oʰ | 2 | ? | ? |
 | ɔ́ | 2 | ✓ | ✓ |
 | ɘ: | 2 | ✓ | ✓ |
-| <<K>> | 1 | ? | ? |
-| <<ć>> | 1 | ? | ? |
 | <<́>> | 1 | ? | ? |
 | jʰ | 1 | ✓ | ✓ |
 | t̃ | 1 | ✓ | ✓ |
 | æ̃ | 1 | ✓ | ✓ |
 | ð | 1 | ✓ | ✓ |
 | ʀ | 1 | ✓ | ✓ |
-| ◌ʱ | 1 | ? | ? |
 
-(154 rows)
+(141 rows)
 
 
 
@@ -177,31 +164,20 @@
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
 |:----------------------------------------------|:--------------|:---------------------------------------|:-------------------------------|:-------------------------------------------------------------------------------|
-| Angami-13_thirteen-1 | Angami | 13_thirteen | kɛrəsɛʰ | k ɛ r ə s <s> ɛʰ </s> |
 | Angami-16_sixteen-1 | Angami | 16_sixteen | kɛrəsɔruʰ | k ɛ r ə s ɔ r <s> uʰ </s> |
-| Angami-23_twentythree-1 | Angami | 23_twentythree | mɛθəsɛʰ | m ɛ θ ə s <s> ɛʰ </s> |
 | Angami-26_twentysix-1 | Angami | 26_twentysix | mɛθəsɔruʰ | m ɛ θ ə s ɔ r <s> uʰ </s> |
-| Angami-3000_threethousand-1 | Angami | 3000_threethousand | ɳjesɛʰ | ɳ j e s <s> ɛʰ </s> |
-| Angami-300_threehundred-1 | Angami | 300_threehundred | kresɛʰ | k r e s <s> ɛʰ </s> |
-| Angami-33_thirtythree-1 | Angami | 33_thirtythree | sɛrəsɛʰ | s ɛ r ə s <s> ɛʰ </s> |
 | Angami-36_thirtysix-1 | Angami | 36_thirtysix | sɛrəsɔruʰ | s ɛ r ə s ɔ r <s> uʰ </s> |
-| Angami-3_three-1 | Angami | 3_three | sɛʰ | s <s> ɛʰ </s> |
-| Angami-40_forty-1 | Angami | 40_forty | hɛdijeʰ | h ɛ d i j <s> eʰ </s> |
-| Angami-43_fortythree-1 | Angami | 43_fortythree | hɛdijesɛʰ | h ɛ d i j e s <s> ɛʰ </s> |
 | Angami-46_fortysix-1 | Angami | 46_fortysix | hɛdijesɔruʰ | h ɛ d i j e s ɔ r <s> uʰ </s> |
-| Angami-53_fiftythree-1 | Angami | 53_fiftythree | hɛpeŋuʋosɛʰ | h ɛ p e ŋ u ʋ o s <s> ɛʰ </s> |
 | Angami-56_fiftysix-1 | Angami | 56_fiftysix | hɛpeŋuʋosɔruʰ | h ɛ p e ŋ u ʋ o s ɔ r <s> uʰ </s> |
 | Angami-6000_sixthousand-1 | Angami | 6000_sixthousand | ɳjesɔruʰ | ɳ j e s ɔ r <s> uʰ </s> |
 | Angami-600_sixhundred-1 | Angami | 600_sixhundred | kresɔruʰ | k r e s ɔ r <s> uʰ </s> |
-| Angami-63_sixtythree-1 | Angami | 63_sixtythree | hɛsoruʋosɛʰ | h ɛ s o r u ʋ o s <s> ɛʰ </s> |
 | Angami-66_sixtysix-1 | Angami | 66_sixtysix | hɛsoruʋosɔruʰ | h ɛ s o r u ʋ o s ɔ r <s> uʰ </s> |
 | Angami-6_six-1 | Angami | 6_six | sɔruʰ | s ɔ r <s> uʰ </s> |
-| Angami-73_seventythree-1 | Angami | 73_seventythree | hɛtʰenijesɛʰ | h ɛ tʰ e n i j e s <s> ɛʰ </s> |
 | Angami-76_seventysix-1 | Angami | 76_seventysix | hɛtʰenijesɔruʰ | h ɛ tʰ e n i j e s ɔ r <s> uʰ </s> |
-| Angami-83_eightythree-1 | Angami | 83_eightythree | hɛtʰɛtʰɑsɛʰ | h ɛ tʰ ɛ tʰ ɑ s <s> ɛʰ </s> |
 | Angami-86_eightysix-1 | Angami | 86_eightysix | hɛtʰɛtʰɑsɔruʰ | h ɛ tʰ ɛ tʰ ɑ s ɔ r <s> uʰ </s> |
-| Angami-93_ninetythree-1 | Angami | 93_ninetythree | hɛtʰɛθsɛʰ | h ɛ tʰ ɛ θ s <s> ɛʰ </s> |
 | Angami-96_ninetysix-1 | Angami | 96_ninetysix | hɛtʰɛθsɔruʰ | h ɛ tʰ ɛ θ s ɔ r <s> uʰ </s> |
+| Assamese-60_sixty-1 | Assamese | 60_sixty | sɑ:ttʰɪ | s ɑː tː <s> <<ʰ>> </s> ɪ |
+| Assamese-61_sixtyone-1 | Assamese | 61_sixtyone | ɛksɑ:ttʰɪ | ɛ k s ɑː tː <s> <<ʰ>> </s> ɪ |
 | CarNicobarese-1000_thousand-1 | CarNicobarese | 1000_thousand | kɑhók_kəñ | k ɑ h <s> oˈ◌ </s> k /ʔ + k ə n◌̃ |
 | CarNicobarese-1000_thousand-2 | CarNicobarese | 1000_thousand | héŋ_kəñ | h <s> eˈ◌ </s> ŋ /ʔ + k ə n◌̃ |
 | CarNicobarese-100_hundred-2 | CarNicobarese | 100_hundred | sín_?ɑnɑy | s <s> iˈ◌ </s> n /ʔ + ɑ n ɑ y |
@@ -251,28 +227,39 @@
 | CarNicobarese-98_ninetyeight-1 | CarNicobarese | 98_ninetyeight | mɑcúhtər̃ɛ_?ɑnɑ́y_hɛ́ʋhər̄ɛ | m ɑ c <s> uˈ◌ </s> h t ə r̃ ɛ /ʔ + ɑ n ɑ́ y /ʔ + h ɛ́ ʋ h ə r ɛ |
 | CarNicobarese-99_ninetynine-1 | CarNicobarese | 99_ninetynine | mɑcúhtər̃ɛ_?ɑnɑ́y_mɑcúhtər̃ɛ | m ɑ c <s> uˈ◌ </s> h t ə r̃ ɛ /ʔ + ɑ n ɑ́ y /ʔ + m ɑ c <s> uˈ◌ </s> h t ə r̃ ɛ |
 | CarNicobarese-9_nine-1 | CarNicobarese | 9_nine | mɑcúhtər̃ɛ | m ɑ c <s> uˈ◌ </s> h t ə r̃ ɛ |
-| Jad-12_twelve-1 | Jad | 12_twelve | cuŋiʰ | c u ŋ <s> iʰ </s> |
-| Jad-2_two-1 | Jad | 2_two | niʰ | n <s> iʰ </s> |
-| Jad-32_thirtytwo-1 | Jad | 32_thirtytwo | sumɟusɔniʰ | s u m ɟ u s ɔ n <s> iʰ </s> |
-| Mao-100_hundred-1 | Mao | 100_hundred | krɛʰ | k r <s> ɛʰ </s> |
-| Mao-30_thirty-1 | Mao | 30_thirty | ʃjɑʰ | ʃ j <s> ɑʰ </s> |
-| Mao-31_thirtyone-1 | Mao | 31_thirtyone | ʃjɑʰlu | ʃ j <s> ɑʰ </s> l u |
-| Mao-32_thirtytwo-1 | Mao | 32_thirtytwo | ʃjɑʰhɛ̃o | ʃ j <s> ɑʰ </s> h ɛ̃ o |
-| Mao-33_thirtythree-1 | Mao | 33_thirtythree | ʃjɑʰkossu | ʃ j <s> ɑʰ </s> k o s s u |
-| Mao-34_thirtyfour-1 | Mao | 34_thirtyfour | ʃjɑʰpədeu | ʃ j <s> ɑʰ </s> p ə d e u |
-| Mao-35_thirtyfive-1 | Mao | 35_thirtyfive | ʃjɑʰpuŋou | ʃ j <s> ɑʰ </s> p u ŋ o u |
-| Mao-36_thirtysix-1 | Mao | 36_thirtysix | ʃjɑʰcrɔ | ʃ j <s> ɑʰ </s> c r ɔ |
-| Mao-37_thirtyseven-1 | Mao | 37_thirtyseven | ʃjɑʰcənjeu | ʃ j <s> ɑʰ </s> c ə n j e u |
-| Mao-38_thirtyeight-1 | Mao | 38_thirtyeight | ʃjɑʰcəccɑo | ʃ j <s> ɑʰ </s> c ə c c ɑ o |
-| Mao-39_thirtynine-1 | Mao | 39_thirtynine | ʃjɑʰciku | ʃ j <s> ɑʰ </s> c i k u |
-| Mao-90_ninety-1 | Mao | 90_ninety | rekoʰ | r e k <s> oʰ </s> |
-| Telugu-1000_onethousand-1 | Telugu | 1000_onethousand | okɑveːji | o k ɑ v e <s> <<ː>> </s> j i |
-| Telugu-2000_twothousand-1 | Telugu | 2000_twothousand | renɖuveːlu | r e n ɖ u v e <s> <<ː>> </s> l u |
-| Telugu-3000_threethousand-1 | Telugu | 3000_threethousand | muːɖuveːlu | m u <s> <<ː>> </s> ɖ u v e <s> <<ː>> </s> l u |
-| Telugu-300_threehundred-1 | Telugu | 300_threehundred | muːɖuvəndɑlu | m u <s> <<ː>> </s> ɖ u v ə n d ɑ l u |
-| Telugu-4000_fourthousand-1 | Telugu | 4000_fourthousand | nɑːluɡuveːlu | n ɑ <s> <<ː>> </s> l u g u v e <s> <<ː>> </s> l u |
-| Telugu-400_fourhundred-1 | Telugu | 400_fourhundred | nɑːluɡuvəndɑlu | n ɑ <s> <<ː>> </s> l u g u v ə n d ɑ l u |
-| Telugu-600_sixhundred-1 | Telugu | 600_sixhundred | ɑːruvəndɑlu | ɑ <s> <<ː>> </s> r u v ə n d ɑ l u |
+| Dogri-42_fortytwo-1 | Dogri | 42_fortytwo | bət͏ɑɭi | b ə t <s> <<͏>> </s> ɑ ɭ i |
+| Konkani-5000_fivethousand-1 | Konkani | 5000_fivethousand | pãt͡s_həzar | p <s> <<ã>> </s> t͡s /ʔ + h ə z a r |
+| Konkani-500_fivehundred-1 | Konkani | 500_fivehundred | pãt͡sʃɛ̃ | p <s> <<ã>> </s> t͡s ʃ ɛ̃ |
+| Konkani-506_fivehundredsix-1 | Konkani | 506_fivehundredsix | pãt͡sʃɛ̃_sə | p <s> <<ã>> </s> t͡s ʃ ɛ̃ /ʔ + s ə |
+| Konkani-5_five-1 | Konkani | 5_five | pãt͡s | p <s> <<ã>> </s> t͡s |
+| Konkani-62_sixtytwo-1 | Konkani | 62_sixtytwo | bãsəʈ | b <s> <<ã>> </s> s ə ʈ |
+| Konkani-65_sixtyfive-1 | Konkani | 65_sixtyfive | pãsəʈ | p <s> <<ã>> </s> s ə ʈ |
+| Konkani-66_sixtysix-1 | Konkani | 66_sixtysix | sãsəʈ | s <s> <<ã>> </s> s ə ʈ |
+| Konkani-81_eightyone-1 | Konkani | 81_eightyone | ekjãjʃɪ̃ | e k j <s> <<ã>> </s> j ʃ ɪ̃ |
+| Konkani-82_eightytwo-1 | Konkani | 82_eightytwo | bjãjʃɪ̃ | b j <s> <<ã>> </s> j ʃ ɪ̃ |
+| Konkani-83_eightythree-1 | Konkani | 83_eightythree | trjãjʃɪ̃ | t r j <s> <<ã>> </s> j ʃ ɪ̃ |
+| Konkani-84_eightyfour-1 | Konkani | 84_eightyfour | t͡səvdjãjʃɪ̃ | t͡s ə v d j <s> <<ã>> </s> j ʃ ɪ̃ |
+| Konkani-85_eightyfive-1 | Konkani | 85_eightyfive | pə̃ɕjãjʃɪ̃ | p ə̃ ɕ j <s> <<ã>> </s> j ʃ ɪ̃ |
+| Konkani-86_eightysix-1 | Konkani | 86_eightysix | ʃjãjʃɪ̃ | ʃ j <s> <<ã>> </s> j ʃ ɪ̃ |
+| Konkani-87_eightyseven-1 | Konkani | 87_eightyseven | sttjãjʃĩ | s tː j <s> <<ã>> </s> j ʃ i◌̃ |
+| Konkani-88_eightyeight-1 | Konkani | 88_eightyeight | əʈʈjãjʃɪ̃ | ə ʈː j <s> <<ã>> </s> j ʃ ɪ̃ |
+| Marathi-3048_threethousandfortyeight-1 | Marathi | 3048_threethousandfortyeight | tin_hədzar_əʈʈʰetʃaɭis | t i n /ʔ + h ə d z a r /ʔ + ə ʈː <s> <<ʰ>> </s> e t ʃ a ɭ i s |
+| Marathi-48_fortyeight-1 | Marathi | 48_fortyeight | əʈʈʰəcɑɭɪs | ə ʈː <s> <<ʰ>> </s> ə c ɑ ɭ ɪ s |
+| Marathi-51_fiftyone-1 | Marathi | 51_fiftyone | ekkɑʋə͏ɳ | e kː ɑ ʋ ə <s> <<͏>> </s> ɳ |
+| Nepali-506_fivehundredsix-1 | Nepali | 506_fivehundredsix | pɑ̃tʃ_sɛ_cʰ͏ɔ | p ɑ̃ t ʃ /ʔ + s ɛ /ʔ + cʰ <s> <<͏>> </s> ɔ |
+| Spiti-15_fifteen-1 | Spiti | 15_fifteen | tʃʋeŋã | t ʃ ʋ e ŋ <s> <<ã>> </s> |
+| Spiti-25_twentyfive-1 | Spiti | 25_twentyfive | nɨʃusɛŋã | n ɨ ʃ u s ɛ ŋ <s> <<ã>> </s> |
+| Spiti-35_thirtyfive-1 | Spiti | 35_thirtyfive | sumdzusɛŋã | s u m d z u s ɛ ŋ <s> <<ã>> </s> |
+| Spiti-45_fortyfive-1 | Spiti | 45_fortyfive | dʒiptʃusɛŋã | d ʒ i p t ʃ u s ɛ ŋ <s> <<ã>> </s> |
+| Spiti-5000_fivethousand-1 | Spiti | 5000_fivethousand | toŋã | t o ŋ <s> <<ã>> </s> |
+| Spiti-500_fivehundred-1 | Spiti | 500_fivehundred | ŋãbɡjə | ŋ <s> <<ã>> </s> b g j ə |
+| Spiti-506_fivehundredsix-1 | Spiti | 506_fivehundredsix | ŋãbɡjərəŋ_ʈʰruk | ŋ <s> <<ã>> </s> b g j ə r ə ŋ /ʔ + ʈʰ r u k |
+| Spiti-55_fiftyfive-1 | Spiti | 55_fiftyfive | ŋə̃ptʃuneŋã | ŋ ə̃ p t ʃ u n e ŋ <s> <<ã>> </s> |
+| Spiti-5_five-1 | Spiti | 5_five | ŋã | ŋ <s> <<ã>> </s> |
+| Spiti-65_sixtyfive-1 | Spiti | 65_sixtyfive | ʈʰruktʃurɛŋã | ʈʰ r u k t ʃ u r ɛ ŋ <s> <<ã>> </s> |
+| Spiti-75_seventyfive-1 | Spiti | 75_seventyfive | dʉndzutɛŋã | d ʉ n d z u t ɛ ŋ <s> <<ã>> </s> |
+| Spiti-85_eightyfive-1 | Spiti | 85_eightyfive | ɡjətʃukʰjeŋã | g j ə t ʃ u kʰ j e ŋ <s> <<ã>> </s> |
+| Spiti-95_ninetyfive-1 | Spiti | 95_ninetyfive | ɡuptʃukɔŋã | g u p t ʃ u k ɔ ŋ <s> <<ã>> </s> |
 | Tinkarlo-78_seventyeight-1 | Tinkarlo | 78_seventyeight | ʈʊɡcʰɑ_cjəbɡʲɛ | ʈ ʊ g cʰ ɑ /ʔ + c j ə b g <s> <<ʲ>> </s> ɛ |
 | Tinkarlo-98_ninetyeight-1 | Tinkarlo | 98_ninetyeight | ɡjəccʰɑ_cjəbɡʲɛ | g j ə c cʰ ɑ /ʔ + c j ə b g <s> <<ʲ>> </s> ɛ |
 | Toda-22_twentytwo-1 | Toda | 22_twentytwo | ʋət͏ɛɖ | ʋ ə t <s> <<͏>> </s> ɛ ɖ |
