@@ -30,7 +30,8 @@ class Dataset(pylexibank.Dataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
-    form_spec = pylexibank.FormSpec(replacements=[(" ", "_")])
+    form_spec = pylexibank.FormSpec(replacements=[(" ", "_"), ("\u034f", ""),
+                                                  (" ̌c"[1:], "č")])
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
