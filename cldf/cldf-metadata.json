@@ -1,20 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Mamta, K. (2023): South Asian Numerals Database (SAND). Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "dc:bibliographicCitation": "Mamta, K. (2024): South Asian Numerals Database (SAND). Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://github.com/numeralbank/sand",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Mamta's \"South Asian Numerals Database\" from 2023",
+    "dc:title": "CLDF dataset derived from Mamta's \"South Asian Numerals Database\" from 2024",
     "dcat:accessURL": "https://github.com/numeralbank/sand",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.8-71-g991f182",
+            "dc:created": "v0.8-67-g6530546",
             "dc:title": "Repository"
         },
         {
