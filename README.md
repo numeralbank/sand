@@ -1,4 +1,4 @@
-# CLDF dataset derived from Mamta's "South Asian Numerals Database" from 2023
+# CLDF dataset derived from Mamta's "South Asian Numerals Database" from 2024
 
 [![CLDF validation](https://github.com/numeralbank/sand/workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/sand/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Mamta, K. (2023): South Asian Numerals Database (SAND). Leipzig: Max Planck Institute for Evolutionary Anthropology.
+  > Mamta, K. (2024): South Asian Numerals Database (SAND). Leipzig: Max Planck Institute for Evolutionary Anthropology.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
