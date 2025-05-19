@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.8-61-g906d61c",
+            "dc:created": "v0.8-67-g6530546",
             "dc:title": "Repository"
         },
         {

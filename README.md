@@ -27,7 +27,7 @@ Available online at https://github.com/numeralbank/sand
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 131 (linked to 129 different Glottocodes)
-- **Concepts:** 130 (linked to 118 different Concepticon concept sets)
+- **Concepts:** 130 (linked to 119 different Concepticon concept sets)
 - **Lexemes:** 15,364
 - **Sources:** 9
 - **Synonymy:** 1.02
