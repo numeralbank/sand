@@ -3,7 +3,7 @@ attrs==25.3.0
 babel==2.17.0
 bibtexparser==2.0.0b8
 bs4==0.0.2
-certifi==2025.1.31
+certifi==2025.4.26
 cldfbench==1.14.1
 cldfcatalog==1.6.0
 cldfzenodo==2.1.2
@@ -12,7 +12,6 @@ colorama==0.4.6
 colorlog==6.9.0
 csvw==3.5.1
 gitdb==4.0.12
-greenlet==3.2.1
 idna==3.10
 iniconfig==2.1.0
 isodate==0.7.2

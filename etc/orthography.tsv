@@ -1,4 +1,15 @@
 Grapheme	IPA	Frequence	Codepoints
+ttʰ	tʰː		
+ʈʈʰ	ʈʰː		
+ɽʰ	ɽʰ		
+ʃʰ	ʃʰ		
+é	e		
+í	i		
+ó	o		
+ɡʲ	gʲ		
+gʲ	gʲ		
+pá́la_kene	p a l a _ k e n e		
+á	a		
 _$	NULL		
 ə	ə	711	U+0259
 i	i	577	U+0069
@@ -31,13 +42,13 @@ u:	uː	37	U+0075 U+003a
 pp	pː	20	U+0070 U+0070
 ʈʈ	ʈː	17	U+0288 U+0288
 ɽ	ɽ	15	U+027d
-ǰ	ǰ/dʒ	15	U+01f0
+ǰ	dʒ	15	U+01f0
 i:	iː	14	U+0069 U+003a
 ɔ	ɔ	14	U+0254
 z	z	11	U+007a
 ʊ	ʊ	10	U+028a
 kk	kː	9	U+006b U+006b
-č	č/tʃ	7	U+010d
+č	tʃ	7	U+010d
 nn	nː	7	U+006e U+006e
 mm	mː	7	U+006d U+006d
 ʈ	ʈ	7	U+0288
@@ -54,173 +65,137 @@ c	c	2	U+0063
 ks	k s	2	U+006b U+0073
 ii	iː	2	U+0069 U+0069
 zz	zː	2	U+007a U+007a
-čʰ	čʰ/tʃʰ	1	U+010d U+02b0
+čʰ	tʃʰ	1	U+010d U+02b0
 n:	nː	1	U+006e U+003a
-dh	dh/dʱ	1	U+0064 U+0068
+dh	dʱ	1	U+0064 U+0068
 y	y	1	U+0079
-ksh	k sh/ʃ	1	U+006b U+0073 U+0068
+ksh	k ʃ	1	U+006b U+0073 U+0068
 g	g	1	U+0067
 bb	bː	1	U+0062 U+0062
-č	/ʔ č/tʃ	1	U+0027 U+010d
 kʃ	k ʃ	1	U+006b U+0283
 ns	n s	1	U+006e U+0073
-_	/ʔ +	1	U+0027 U+005f
+_	+	1	U+0027 U+005f
 dʰ	dʰ	1	U+0064 U+02b0
-G  g			
-K  k			
-cʱ  cʰ			
-aˈ◌  a			
-aʰ  a			
-ć  c			
-č  c			
-◌́  NULL			
-cˈ◌  c			
-uː  uː			
-ː  NULL			
-<̌>  NULL			
-<̀>  NULL			
-eˈ◌  e			
-t́  t			
-r̄  r			
-<̀>  NULL			
-:  NULL			
-◌ʲ  NULL 			
-◌ʰ  NULL			
-aˈ◌  a			
-ʊ'  u			
-i'  i			
-iˈ◌  i			
-oˈ◌  o			
-uˈ◌  u			
-bʰ	bʰ		
-kʰ	kʰ		
-eʰ  e			
-ɖʰ	ɖʰ		
-uʰ	uʰ		
-ɡʰ	ɡʰ		
-gʰ	gʰ		
+ú	u		
+-$	NULL		
+^-	NULL		
+--	+		
+_-	+		
+-_	+		
+ ̌coɲɑ̃	
+kʃʰ	k ʃʰ		
+ɑː	ɑː		
+s:	sː		
+eː	eː		
+ɘ̀	ɘ		
+sː	sː		
+G	g		
+K	k		
+cʱ	cʰ		
+aˈ◌	a		
 aʰ	a		
+ć	c		
+uː	uː		
+t́	t		
+r̄	r		
+ʊ'	u		
+i'	i		
+bʰ	bʰ		
+eʰ	e		
+ɖʰ	ɖʰ		
+ɡʰ	gʰ		
+gʰ	gʰ		
 ɑʰ	ɑ		
-dʰ	dʰ		
 jʰ	jʰ		
 ɟʰ	ɟʰ		
-iʰ  i			
+iʰ	i		
 sʰ	sʰ		
 hʰ	h		
 zʰ	z		
 oʰ	o		
-tʃʰ	tʃʰ		
-ʃʰ	ʃʰ		
-tʰ	tʰ		
-oˈ◌  o			
-a͂  a			
--  NULL			
+a͂	a		
+-	+		
 ɘ	ɘ		
 ɹ	ɹ		
-ɛʰ  ɛ			
-uʰ  u			
+ɛʰ	ɛ		
+uʰ	u		
 ʌ	ʌ		
 ʃ	ʃ		
-ʧ	ʧ		
+ʧ	tʃ		
 ɲ	ɲ		
 ɳ	ɳ		
-ʦ	ʦ		
+ʦ	ts		
 ɟ	ɟ		
 ɨ	ɨ		
-ʤ	ʤ		
+ʤ	dʒ		
 ?	NULL		
 χ	χ		
 ʒ	ʒ		
 ɭ	ɭ		
-ú	uˈ◌		
 à	a		
-ó	oˈ◌		
 ʉ	ʉ		
-ĩ	i◌̃		
-í	iˈ◌		
 ɯ	ɯ		
 ɣ	ɣ		
 ʂ	ʂ		
-ã	a◌̃		
+ã	ã		
 æ	æ		
 ɒ	ɒ		
 ʔ	ʔ		
-ñ	n◌̃		
+ñ	ɲ		
 θ	θ		
-õ	o◌̃		
-á	aˈ◌		
+õ	õ		
 ì	i		
 ɕ	ɕ		
 ū	u		
 ṭ	t		
-ũ	u◌̃		
+ũ	ũ		
 ā	a		
-é	eˈ◌		
 !	!		
 ī	i		
 ṣ	s		
 ð	ð		
-ć cˈ◌			
 ǣ	æ		
 ʀ	ʀ		
 f	f		
 w	w		
-ú	uˈ◌		
-ĩ	i◌̃ 		
-í	iˈ◌		
-G	G		
-á	aˈ◌ 		
-ã	ã◌ 		
-ə	ǝ		
+ĩ	ĩ		
 x	x		
-é	eˈ◌		
-k	k		
-◌ʱ  cʱ		
 pʰ	pʰ		
-ɨ:	ɨ:		
-ɪ:	ɪ:		
+ɨ:	ɨː		
+ɪ:	ɪː		
 ə̃	ə̃		
--	NULL		
 ɑ̃	ɑ̃		
-G	ɡ		
 cʰ	cʰ		
 nʰ	nʰ		
-č	č		
-ʊ'	ʊ'		
-i'	i'		
 ɛ̃	ɛ̃		
-ɡʰ	ɡʰ		
 j̃	j̃		
-e:	e:		
-t'	t'		
+e:	eː		
+t'	tʼ		
 ɔ̃	ɔ̃		
-ó:	ó:		
+ó:	oː		
 ɛ́	ɛ́		
-ɛ:	ɛ:		
-t́	t́		
+ɛ:	ɛː		
 ɑ́	ɑ́		
-ú:	ú:		
-r̄	r̄		
+ú:	uː		
 r̃	r̃		
 ɔ́	ɔ́		
-ɔ:	ɔ:		
-ɛ̃:	ɛ̃:		
-o:	o:		
-t͡s	t͡s		
+ɔ:	ɔː		
+ɛ̃:	ɛ̃ː		
+o:	oː		
+t͡s	ts		
 t̃	t̃		
 ɪ̃	ɪ̃		
-ɑ̃:	ɑ̃:		
+ɑ̃:	ɑ̃ː		
 æ̃	æ̃		
-ḷ	ḷ		
--	-		
-à	à		
-ɘ:	ɘ:		
+ḷ	ɭ		
+ɘ:	ɘː		
 n̥	n̥		
 m̥	m̥		
-ɲ̥	ɲ̥		
+ɲ̥	ɲ̊		
+_-_	+		
+__	+		
 ɘ́	ɘ́		
-a:	a:		
+a:	aː		
 l̥	l̥		
 ɹ̥	ɹ̥		
-ǝ	ǝ		
-a͂	a͂		
+ǝ	ə		
