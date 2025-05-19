@@ -23,8 +23,8 @@ Available online at https://github.com/numeralbank/sand
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 92%](https://img.shields.io/badge/BIPA-92%25-green.svg "BIPA: 92%")
-![CLTS SoundClass: 92%](https://img.shields.io/badge/CLTS%20SoundClass-92%25-green.svg "CLTS SoundClass: 92%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 131 (linked to 129 different Glottocodes)
 - **Concepts:** 130 (linked to 118 different Concepticon concept sets)
@@ -32,9 +32,9 @@ Available online at https://github.com/numeralbank/sand
 - **Sources:** 9
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 139,909
-- **Segments:** 141 (11 BIPA errors, 11 CLTS sound class errors, 130 CLTS modified)
-- **Inventory size (avg):** 28.60
+- **Tokens:** 140,583
+- **Segments:** 127 (0 BIPA errors, 0 CLTS sound class errors, 127 CLTS modified)
+- **Inventory size (avg):** 27.77
 
 ## Possible Improvements:
 
