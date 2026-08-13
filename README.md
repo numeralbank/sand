@@ -26,15 +26,15 @@ Available online at https://github.com/numeralbank/sand
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 131 (linked to 129 different Glottocodes)
-- **Concepts:** 130 (linked to 119 different Concepticon concept sets)
-- **Lexemes:** 15,364
-- **Sources:** 9
-- **Synonymy:** 1.02
+- **Varieties:** 117 (linked to 115 different Glottocodes)
+- **Concepts:** 129 (linked to 118 different Concepticon concept sets)
+- **Lexemes:** 14,194
+- **Sources:** 3
+- **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 140,583
-- **Segments:** 127 (0 BIPA errors, 0 CLTS sound class errors, 127 CLTS modified)
-- **Inventory size (avg):** 27.77
+- **Tokens:** 128,292
+- **Segments:** 121 (0 BIPA errors, 0 CLTS sound class errors, 121 CLTS modified)
+- **Inventory size (avg):** 28.42
 
 ## Possible Improvements:
 

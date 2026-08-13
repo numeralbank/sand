@@ -18,18 +18,12 @@ Jad,Jad,jadd1243,Jad,jda,Eurasia,30.24,79.15,Sino-Tibetan,,Decimal,mephd2021
 Bhoti,Bhoti,stod1241,Stod Bhoti,sbu,Eurasia,32.5,77.12,Sino-Tibetan,,Decimal,mephd2021
 Thadou,Thadou,thad1238,Thado Chin,tcz,Eurasia,24.1,93.72,Sino-Tibetan,,Decimal,mephd2021
 Mao,Mao,maon1238,Mao Naga,nbi,Eurasia,25.38,94,Sino-Tibetan,,Decimal,mephd2021
-Hajong,Hajong,hajo1238,Hajong,haj,Eurasia,25.51,89.86,Indo-Aryan,,Decimal,ager2018
 Ho,Ho,hooo1248,Ho,hoc,Eurasia,23.96,87.12,Austro-Asiatic,,Vigesimal,mephd2021
 Kharia,Kharia,khar1287,Kharia,khr,Eurasia,22.36,84.39,Austro-Asiatic,,Vigesimal,mephd2021
 Khasi,Khasi,khas1269,Khasi,kha,Eurasia,24.98,92,Austro-Asiatic,,Decimal,mephd2021
 Pnar,Pnar,pnar1238,Pnar,pbv,Eurasia,24.82,92.26,Austro-Asiatic,,Decimal,mephd2021
 Santali,Santali,sant1410,Santali,sat,Eurasia,25.03,87.82,Austro-Asiatic,,Decimal,mephd2021
 Mundari,Mundari,mund1320,Mundari,unr,Eurasia,23.03,85.85,Austro-Asiatic,,Vigesimal,mephd2021
-Korku,Korku,kork1243,Korku,kfq,Eurasia,21.84,77.55,Austro-Asiatic,,Vigesimal,mohan2012numeral
-Sora,Sora,sora1254,Sora,srb,Eurasia,19.12,84.19,Austro-Asiatic,,Mixed,gregory2008munda
-CarNicobarese,Car Nicobarese,carn1240,Car Nicobarese,caq,Eurasia,9.19,92.77,Austro-Asiatic,,Decimal,chan2018
-Sanenyo,Sanenyo,chau1258,Chaura,crv,Eurasia,8.46,93.03,Austro-Asiatic,,Decimal,abbi2020grammar
-Luro,Luro,tere1272,Teressa,tef,Eurasia,8.24,93.13,Austro-Asiatic,,Decimal,abbi2020aspects
 Kannada,Kannada,nucl1305,Kannada,kan,Eurasia,13.59,76.12,Dravidian,,Decimal,mephd2021
 Toda,Toda,toda1252,Toda,tcx,Eurasia,11.42,77.02,Dravidian,,Decimal,mephd2021
 Gondi,Gondi,nort2702,Northern Gondi,gno,Eurasia,18.16,81.38,Dravidian,,Vigesimal,mephd2021
@@ -68,16 +62,8 @@ Sylheti,Sylheti,sylh1242,Sylheti,syl,Eurasia,24.84,92.25,Indo-Aryan,,Decimal,mep
 Urdu,Urdu,urdu1245,Urdu,urd,Eurasia,25,67,Indo-Aryan,,Decimal,mephd2021
 Halbi,Halbi,halb1244,Halbi,hlb,Eurasia,20.31,81.37,Indo-Aryan,,Vigesimal,mephd2021
 Khortha,Khortha,maga1260,Magahi,,Eurasia,25.09,85.33,Indo-Aryan,,Decimal,mephd2021
-Sinhala,Sinhala,sinh1246,Sinhala,sin,Eurasia,8,81,Indo-Aryan,,Decimal,ager2018
-Palula,Palula,phal1254,Palula,phl,Eurasia,35.51,71.84,Indo-Aryan,,Vigesimal,ager2018
-Rohingya,Rohingya,rohi1238,Rohingya,rhg,Eurasia,20.83,92.39,Indo-Aryan,,Decimal,ager2018
 Rajbongshi,Rajbongshi,rajb1243,Rajbanshi,rjs,Eurasia,26.52,88.04,Indo-Aryan,,Decimal,mephd2021
 TaiKhamti,TaiKhamti,kham1290,Khamti,kht,Eurasia,27.67,97.04,Tai-Kadai,,Decimal,mephd2021
-Onge,Onge,onge1236,Önge,oon,Eurasia,10.69,92.47,Ongan,,-,chan2018
-Jarawa,Jarawa,jara1245,Jarawa (India),anq,Eurasia,11.61,92.66,Ongan,,-,chan2018
-GreatAndamanese,Great Andamanese,grea1241,Great Andamanese,gac,,11.67,92.74,Great Andamanese,,-,chan2018
-Nihali,Nihali,niha1238,Nihali,nll,Eurasia,21.19,76.33,Language Isolate,,Decimal,chan2018
-Burushaski,Burushaski,buru1296,Burushaski,bsk,Eurasia,36.22,74.82,Language Isolate,,Vigesimal,chan2018
 ChakesangChokri,Chakesang Chokri,chok1243,Chokri Naga,nri,Eurasia,25.56,94.29,Tibeto-Burman,,,FW2023
 ChakesangKheza,Chakesang Kheza,khez1235,Khezha Naga,nkh,Eurasia,25.71,94.31,Tibeto-Burman,,,FW2023
 Khiamniungan,Khiamniungan,khia1236,Khiamniungan Naga,kix,Eurasia,26.2,95.02,Tibeto-Burman,,,FW2023
@@ -127,6 +113,6 @@ Phangduwali,Phangduwali,phan1256,Phangduwali,phw,Eurasia,27.16,87.35,Tibeto-Burm
 Tilung,Tilung,tilu1238,Tilung,tij,Eurasia,27.22,86.47,Tibeto-Burman (Kiranti),,,FW2024
 Yamphu,Yamphu,yamp1242,Yamphu,ybi,Eurasia,27.63,87.04,Tibeto-Burman (Kiranti),,,FW2024
 Balti,Balti,balt1258,Balti,bft,Eurasia,34.45,77.29,Tibeto-Burman ,,,FW2024
-Brokskad,Brokskad,brok1249,Dur Brokkat,bro,Eurasia,27.65,90.65,Indo-Aryan,,,FW2024
+Brokskad,Brokskad,brok1247,Brokskat,bro,Eurasia,27.65,90.65,Indo-Aryan,,,FW2024
 Belhare,Belhare,belh1239,Belhariya,byw,Eurasia,27,87.28,Tibeto-Burman (Kiranti),,,FW2024
 Limbu,Limbu,limb1266,Limbu,lif,Eurasia,27.27,87.89,Tibeto-Burman (Kiranti),,,FW2024
