@@ -18,18 +18,12 @@ Jad	Jad	jadd1243	jda	30.24	79.15	Sino-Tibetan	mephd2021	Decimal
 Bhoti	Bhoti	stod1241	sbu	32.5	77.12	Sino-Tibetan	mephd2021	Decimal
 Thadou	Thadou	thad1238	tcz	24.1	93.72	Sino-Tibetan	mephd2021	Decimal
 Mao	Mao	maon1238	nbi	25.38	94	Sino-Tibetan	mephd2021	Decimal
-Hajong	Hajong	hajo1238	haj	25.51	89.86	Indo-Aryan	ager2018	Decimal
 Ho	Ho	hooo1248	hoc	23.96	87.12	Austro-Asiatic	mephd2021	Vigesimal
 Kharia	Kharia	khar1287	khr	22.36	84.39	Austro-Asiatic	mephd2021	Vigesimal
 Khasi	Khasi	khas1269	kha	24.98	92	Austro-Asiatic	mephd2021	Decimal
 Pnar	Pnar	pnar1238	pbv	24.82	92.26	Austro-Asiatic	mephd2021	Decimal
 Santali	Santali	sant1410	sat	25.03	87.82	Austro-Asiatic	mephd2021	Decimal
 Mundari	Mundari	mund1320	unr	23.03	85.85	Austro-Asiatic	mephd2021	Vigesimal
-Korku	Korku	kork1243	kfq	21.84	77.55	Austro-Asiatic	mohan2012numeral	Vigesimal
-Sora	Sora	sora1254	srb	19.12	84.19	Austro-Asiatic	gregory2008munda	Mixed
-CarNicobarese	Car Nicobarese	carn1240	caq	9.19	92.77	Austro-Asiatic	chan2018	Decimal
-Sanenyo	Sanenyo	chau1258	crv	8.46	93.03	Austro-Asiatic	abbi2020grammar	Decimal
-Luro	Luro	tere1272	tef	8.24	93.13	Austro-Asiatic	abbi2020aspects	Decimal
 Kannada	Kannada	nucl1305	kan	13.59	76.12	Dravidian	mephd2021	Decimal
 Toda	Toda	toda1252	tcx	11.42	77.02	Dravidian	mephd2021	Decimal
 Gondi	Gondi	nort2702	gno	18.16	81.38	Dravidian	mephd2021	Vigesimal
@@ -68,16 +62,8 @@ Sylheti	Sylheti	sylh1242	syl	24.84	92.25	Indo-Aryan	mephd2021	Decimal
 Urdu	Urdu	urdu1245	urd	25	67	Indo-Aryan	mephd2021	Decimal
 Halbi	Halbi	halb1244	hlb	20.31	81.37	Indo-Aryan	mephd2021	Vigesimal
 Khortha	Khortha	maga1260		25.09	85.33	Indo-Aryan	mephd2021	Decimal
-Sinhala	Sinhala	sinh1246	sin	8	81	Indo-Aryan	ager2018	Decimal
-Palula	Palula	phal1254	phl	35.51	71.84	Indo-Aryan	ager2018	Vigesimal
-Rohingya	Rohingya	rohi1238	rhg	20.83	92.39	Indo-Aryan	ager2018	Decimal
 Rajbongshi	Rajbongshi	rajb1243	rjs	26.52	88.04	Indo-Aryan	mephd2021	Decimal
 TaiKhamti	TaiKhamti	kham1290	kht	27.67	97.04	Tai-Kadai	mephd2021	Decimal
-Onge	Onge	onge1236	oon	10.69	92.47	Ongan	chan2018	-
-Jarawa	Jarawa	jara1245	anq	11.61	92.66	Ongan	chan2018	-
-GreatAndamanese	Great Andamanese	grea1241	gac	11.67	92.74	Great Andamanese	chan2018	-
-Nihali	Nihali	niha1238	nll	21.19	76.33	Language Isolate	chan2018	Decimal
-Burushaski	Burushaski	buru1296	bsk	36.22	74.82	Language Isolate	chan2018	Vigesimal
 ChakesangChokri	Chakesang Chokri	chok1243	nri	25.56	94.29	Tibeto-Burman	FW2023	
 ChakesangKheza	Chakesang Kheza	khez1235	nkh	25.71	94.31	Tibeto-Burman	FW2023	
 Khiamniungan	Khiamniungan	khia1236	kix	26.2	95.02	Tibeto-Burman	FW2023	
@@ -115,18 +101,18 @@ Wambule	Wambule	wamb1257	wme	27.15	86.48	Tibeto-Burman (Kiranti)	FW2023
 Yakkha	Yakkha	yakk1236	ybh	27.37	87.93	Tibeto-Burman (Kiranti)	FW2023	
 Sunwar	Sunwar	sunw1242	suz	27.52	86.25	Tibeto-Burman (Kiranti)	FW2023	
 Jerung	Jerung	jeru1240	jee	27.17	86.25	Tibeto-Burman (Kiranti)	FW2023	
-Khaling	Khaling	khal1275	klr	27.39	87.51	Tibeto-Burman (Kiranti)	FW2023
-Athpariya	Athpariya	athp1242	aph	26.88	87.33	Tibeto-Burman (Kiranti)	FW2024
-Chintang	Chintang	chhi1245	ctn	26.96	87.19	Tibeto-Burman (Kiranti)	FW2024
-Dungmali	Dungmali	dung1252	raa	26.98	87.33	Tibeto-Burman (Kiranti)	FW2024
-Chhulung	Chhulung	chhu1238	cur	26.91	87.21	Tibeto-Burman (Kiranti)	FW2024
-Lohorung	Lohorung	nort2727	lbr	27.51	87.22	Tibeto-Burman (Kiranti)	FW2024
-Mewahang	Mewahang	mewa1252	emg	27.51	87.11	Tibeto-Burman (Kiranti)	FW2024
-Mugali	Mugali	mugo1238	muk	29.59	82.45	Tibeto-Burman 	FW2024
-Phangduwali	Phangduwali	phan1256	phw	27.16	87.35	Tibeto-Burman (Kiranti)	FW2024
-Tilung	Tilung	tilu1238	tij	27.22	86.47	Tibeto-Burman (Kiranti)	FW2024
-Yamphu	Yamphu	yamp1242	ybi	27.63	87.04	Tibeto-Burman (Kiranti)	FW2024
-Balti	Balti	balt1258	bft	34.45	77.29	Tibeto-Burman 	FW2024
-Brokskad	Brokskad	brok1247	bro	27.65	90.65	Indo-Aryan	FW2024
-Belhare	Belhare	belh1239	byw	27	87.28	Tibeto-Burman (Kiranti)	FW2024
-Limbu	Limbu	limb1266	lif	27.27	87.89	Tibeto-Burman (Kiranti)	FW2024
+Khaling	Khaling	khal1275	klr	27.39	87.51	Tibeto-Burman (Kiranti)	FW2023	
+Athpariya	Athpariya	athp1242	aph	26.88	87.33	Tibeto-Burman (Kiranti)	FW2024	
+Chintang	Chintang	chhi1245	ctn	26.96	87.19	Tibeto-Burman (Kiranti)	FW2024	
+Dungmali	Dungmali	dung1252	raa	26.98	87.33	Tibeto-Burman (Kiranti)	FW2024	
+Chhulung	Chhulung	chhu1238	cur	26.91	87.21	Tibeto-Burman (Kiranti)	FW2024	
+Lohorung	Lohorung	nort2727	lbr	27.51	87.22	Tibeto-Burman (Kiranti)	FW2024	
+Mewahang	Mewahang	mewa1252	emg	27.51	87.11	Tibeto-Burman (Kiranti)	FW2024	
+Mugali	Mugali	mugo1238	muk	29.59	82.45	Tibeto-Burman 	FW2024	
+Phangduwali	Phangduwali	phan1256	phw	27.16	87.35	Tibeto-Burman (Kiranti)	FW2024	
+Tilung	Tilung	tilu1238	tij	27.22	86.47	Tibeto-Burman (Kiranti)	FW2024	
+Yamphu	Yamphu	yamp1242	ybi	27.63	87.04	Tibeto-Burman (Kiranti)	FW2024	
+Balti	Balti	balt1258	bft	34.45	77.29	Tibeto-Burman 	FW2024	
+Brokskad	Brokskad	brok1247	bro	27.65	90.65	Indo-Aryan	FW2024	
+Belhare	Belhare	belh1239	byw	27	87.28	Tibeto-Burman (Kiranti)	FW2024	
+Limbu	Limbu	limb1266	lif	27.27	87.89	Tibeto-Burman (Kiranti)	FW2024	
